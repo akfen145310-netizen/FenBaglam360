@@ -1,0 +1,258 @@
+3.ÜNİTE: BASINÇ
+1.MEBİ LGS Konu Özeti
+2.Kavram Yanılgıları
+3.Çeldiriciler
+4.Başucu Notları
+8.SINIF
+12 sayfa
+dolu dolu
+
+-- 1 of 12 --
+
+LGS	LGS	LGS	LGS	LGS	LGS	LGS	LGS	LGS	LGS	LGS	LGS
+Görsel 2: Basıncın ağırlık (dik kuvvet) göre değişimi
+DİKKAT
+DİKKAT
+Basınç, cismin ağırlığı ile doğru orantılıdır.
+Temas yüzey alanı ile basınç ters orantılıdır.
+Görsel 1: Basıncın yüzey alanına göre degişimi
+2. Ağırlık (Dik kuvvet)
+Temas yüzeyi sabit olan bir katının uyguladığı ağırlık (dik kuvvet) artarsa cismin zemine uyguladığı basınç artar,
+katının uyguladığı ağırlık (dik kuvvet) azalırsa cismin zemine uyguladığı basınç azalır.
+BASINÇ
+Katı sıvı ve gaz hâlindeki maddeler ağırlıklarından dolayı temas ettikleri bütün yüzeylere kuvvet uygular. Birim yüzeye
+dik olarak etki eden kuvvete basınç denir. Basınç “P” harfiyle gösterilir. Birimi Pascal'dır. “Pa” ile gösterilir.
+KATI BASINCI
+Kuvvetin birim yüzeye dik olarak etki eden miktarına basınç denir. Katılarda bu kuvvet cismin ağırlığıdır.
+Katı Basıncının Bağlı Olduğu Faktörler
+1.Temas Yüzeyi
+Ağırlıkları aynı olan iki cisimden temas yüzey alanı küçük olan cisim zemine daha çok basınç uygular temas yüzey
+alanı büyük olan cisim zemine daha az basınç uygular.
+1
+KONU
+ÖZETİ	BASINÇ	MEBİ KONU ÖZETLERİ
+Basıncın Günlük Yaşam ve Teknolojideki Uygulamaları
+•
+•
+•
+•
+Bıçakların kesici uçlarının yüzey alanı küçük basıncı büyüktür.
+Kışın araç tekerlerine zincir takıldığında yüzey alan küçülür basınç artar.
+Topuklu ayakkabıların temas yüzeyi az basıncı fazladır.
+Tavukların ayaklarının perdesiz olması basıncı arttırır.
+Günlük Yaşamda Katı Basıncını Azaltmaya Yönelik Uygulamalar
+• Kamyon traktör ve iş makinesi gibi makinelerde bulunan geniş lastik ve paletler ile yüzey alanı arttırılıp
+basınç azaltılır.
+Trenlerin kamyonların çok sayıda tekerleğinin olması temas yüzeyini arttırır ve basıncı azaltır. Kar
+ayakkabılarının geniş olması basıncı azaltır.
+•
+•
+
+-- 2 of 12 --
+
+NOT
+Özdeş kaplarda ve içerisinde eşit hacimde
+sıvı bulunan sıvılardan yoğunluğu küçük
+olan kaptaki sıvı basıncı daha küçük olur.
+PÜF NOKTA
+Su dolu aynı kapta açılan özdeş deliklerden
+çıkan suyun fışkırdığı uzaklıkların farklı
+olduğu gözlemlenir. Çıkan suyun hızı suyun
+gideceği en uzak noktayı belirler. Derinlik
+arttıkça suyun fışkırma miktarı da artar. Bu
+da derinlik arttıkça basıncın arttığını gösterir
+2.Sıvının Yoğunluğu
+Sıvıların yoğunluğu arttıkça sıvı basıncı artar, sıvıların
+yoğunluğu azalınca sıvı basıncı azalır.
+FEN BİLİMLERİ
+SIVI BASINCI
+Katılarda olduğu gibi sıvılar da cisimlere basınç uygular. İçerisine konulduğu kabın şeklini alan ve akış-
+kan bir yapıya sahip olan sıvılar, kapta temas ettikleri tüm yüzeylerde ve sıvı içindeki her noktada basınç
+oluşturur. Bu basınca sıvı basıncı denir.
+Sıvı Basıncını Etkileyen Faktörler
+1.Sıvının Derinliği
+Sıvı basıncı, sıvının derinliği ile doğru orantılıdır.
+MEBİ KONU ÖZETLERİ
+Görsel 3: Hidrolik fren sistemi
+SIVILARIN BASINCI İLETMESİ (PASCAL PRENSİBİ)
+Pascal, sıvıların basıncı ilettiğini belirten ilk bilim insanıdır. Pascal, sıvı içerisinde belli bir derinlikte bulunan
+bütün yüzeylerde basıncın her yönde aynı büyüklükte oluştuğunu belirtmiştir.
+Pascal Prensibinin Kullanıldığı Örnekler
+•
+•
+•
+•
+•
+•
+•
+•
+Otomobil fren sistemi
+Berber koltuğu
+İtfaiye araçları
+İş makinelerinin hareketli aksamları
+Hidrolik taşıma liftler
+Dişçi Koltukları
+Emme basma su tulumbaları
+Parfüm şişeler
+Görsel 4: Toriçelli deneyi
+Açık Hava Basıncı (Atmosfer Basıncı)
+Atmosferdeki gazlar ağırlıklarından dolayı yeryüzüne yaptığı basınca açık hava basıncı veya atmosfer
+basıncı denir.
+
+-- 3 of 12 --
+
+FEN BİLİMLERİ	MEBİ KONU ÖZETLERİ
+•
+•
+•
+•
+Pascal Prensibinin Kullanıldığı Örnekler
+•
+•
+•
+•
+Elektrik süpürgelerinin çalışma sisteminde
+Lavabo açıcı pompalar ve vantuzlarda
+Şırıngalara sıvı dolmasında
+Pipet ile içecek içmede
+Açık hava basıncını ölçen ilk bilim insanı Toriçellidir.
+Toriçelli deneyini deniz seviyesinde 0 0C de cıva (Hg) kullanarak yapmıştır.
+Deniz seviyesinde 1m uzunluğunda içi cıva dolu cam boruyu cıva dolu kabın içerisine ters çevirdiğinde cıvanın
+tamamının dökülmediğini cam boruda 76 cm-Hg yüksekliğinde cıvanın kaldığını gözlemlemiştir.
+Toriçelli deneye de aslında bir barometre modeli yapmıştır. Barometreler açık hava basıncını ölçmek için
+kullanılan aletlerdir.
+
+-- 4 of 12 --
+
+KAVRAM YANILGILARI	KAVRAM YANILGILARI
+Açıklama
+Kavram Yanılgısı
+Düzeltme Stratejileri
+Bu Kavram Yanılgısı Neden Oluşur
+Basınç ve kuvvet tamamen aynı kavramlardır; ağırlık artınca basınç her zaman artar.
+Öğrenciler günlük dilde 'baskı yapmak' ve 'kuvvet uygulamak' ifadelerini birbirinin yerine kullanırlar ve
+değişkenleri birbirinden bağımsız düşünmekte zorlanırlar.
+Basınç, birim yüzeye etki eden dik kuvvettir. Kuvvet (ağırlık) artsa bile, eğer temas yüzey alanı da aynı
+oranda artarsa basınç değişmeyebilir. Basınç bir sonuçtur, kuvvet ise bu sonucu etkileyen bir değişkendir.
+Değişken Kontrolü Deneyi: Aynı ağırlıktaki tuğlaları önce dar sonra geniş yüzeyleri üzerine koyarak sünger
+üzerindeki çökmeyi gözlemlenebilir. Tek bir çivinin balonu patlattığını ancak yüzlerce çivinin olduğu bir
+yatağın balonu patlatmadığı görüldüğünde kuvvetin dağılımını (basıncın azalmasını) gözlemlenebilir.
+Açıklama
+Kavram Yanılgısı
+Düzeltme Stratejileri
+Bu Kavram Yanılgısı Neden Oluşur
+Sıvı basıncı, sıvının toplam miktarına veya kabın şekline bağlıdır.
+Öğrenciler 'daha fazla su daha fazla ağırlık demektir, o halde daha fazla basınç yapmalıdır' şeklinde hatalı
+bir mantık yürütürler; basıncın birim yüzeye düşen pay olduğunu unuturlar.
+Pascal Kabı Deneyi: Farklı şekillerdeki (geniş, dar, eğik) kapların tabanına bağlı hortumlarla su seviyelerinin
+aynı olduğu gözlenebilir. Sıvı Fışkırtma Gözlemi: Aynı yükseklikte su bulunan farklı genişlikteki şişelerin
+altından delik açarak suyun aynı uzaklığa gittiği gözlemlenebilir. Plastik bir şişenin farklı derinliklerine
+delikler açıldığında suyun en alttaki delikten en uzağa fışkırdığını, ancak şişeyi yanlara doğru genişletmenin
+bu mesafeyi değiştirmediğini gözlenebilir.
+Durgun sıvıların basıncı sadece sıvının derinliğine, sıvının yoğunluğuna ve yerçekimi ivmesine bağlıdır.
+Kabın genişliği veya içindeki toplam su miktarı, aynı derinlikteki noktaların basıncını etkilemez.
+mgfenakademisi
+
+-- 5 of 12 --
+
+KAVRAM YANILGILARI	KAVRAM YANILGILARI
+mgfenakademisi
+Açıklama
+Kavram Yanılgısı
+Düzeltme Stratejileri
+Bu Kavram Yanılgısı Neden Oluşur
+Gazlar basınç uygulamaz veya sadece kapalı kaplarda basınç uygular; açık hava basıncı hissedilmediği için yoktur.
+Hava görünmez ve 'hafif' olduğu için öğrencilerin zihninde somut bir ağırlık ve kuvvet algısı oluşturmaz.
+Hissedilmeyen bir etkinin varlığını reddetme eğilimi gösterirler.
+Gazlar da tıpkı sıvılar gibi ağırlıklarından ve tanecik hareketlerinden dolayı temas ettikleri her yüzeye
+basınç uygular. Açık hava basıncı (atmosfer basıncı) vücudumuzun iç basıncı tarafından dengelendiği için
+normal şartlarda hissedilmez.
+Magdeburg Küreleri Analojisi ile İçindeki havası boşaltılan iki yarım kürenin neden ayrılmadığını, Vantuz
+Deneyi ile yapıştırılan vantuzların neden yapıştığını iç-dış basınç dengesini ve Haşlanmış Yumurta Deneyi ile
+Şişenin içine düşen yumurta deneyi ile dış basıncın gücünü somutlaştırabiliriz. İçi boş bir metal teneke
+kutunun içindeki havayı ısıtıp sonra ağzını kapatarak soğuk suya daldırdığımızda kutunun dış basınç etkisiyle
+aniden büzülmesi gözlemlenebilir.
+
+-- 6 of 12 --
+
+Kap Şekli ve Sıvı Miktarı Görsel Tuzağı:
+Sıvı basıncı sorularında kapları daralan, genişleyen, yamuk veya eğik şekillerde verir.
+İçlerindeki sıvı miktarlarını farklılaştırarak öğrencinin "Burada daha çok su var, o
+halde tabandaki basınç daha büyüktür" demesini bekler. Oysa sıvı basıncı kabın
+şekline ve sıvı miktarına bağlı değildir, sadece derinlik (h) ve yoğunluğa (d) bağlıdır.
+Katı Basıncında Çift Değişken Karmaşası:
+Özdeş küplerin veya kitapların yerini değiştirirken (K, L, M konumları gibi) hem
+ağırlığı (kitap sayısını) hem de yüzey alanını aynı anda değiştirip "Basınç sadece
+yüzey alanına bağlıdır" hipotezini doğrulatmak ister.
+🔍 Hangi Soru Tarzında Ne Yapılmalı?
+Kontrollü Deney Düzenekleri: MEB'in soru mühendisliğinde en çok sorduğu değişken
+sorularında şu altın kuralı uygulayın: "Hipotezinde neyi test etmek istiyorsan sadece
+o değişken farklı olmalı, diğer tüm değişkenler sabit (kontrol edilen) tutulmalıdır."
+Yoğunluğun etkisini ölçüyorsan kaplar ve derinlikler aynı, sıvının cinsi (su-
+zeytinyağı) farklı olmalıdır.
+📌 Katı basıncı sorularında "süngerdeki çökme miktarı" veya "kumdaki izin
+derinliği" ifadelerini okuduğunda kafanı karıştırma. Bu ifadeler doğrudan katı
+basıncının büyüklüğünü temsil eden kusursuz göstergelerdir.
+🎯 MEB'in Favori
+Çeldirici Teknikleri
+mgfenakademisi
+
+-- 7 of 12 --
+
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+Katı Basıncı	Katı Basıncı	Katı Basıncı
+
+-- 8 of 12 --
+
+Sıvı Basıncı:
+Derinlik aynı olduğu
+sürece kabın şekli,
+genişliği veya sıvı miktarı
+basıncı değiştirmez.
+Sıvı basıncı derinlik ve
+yoğunluk arttıkça artar; bu
+iki değişkenle doğru
+orantılıdır.
+Sıvı basıncı derinlik ve
+yoğunluk arttıkça artar; bu
+iki değişkenle doğru
+orantılıdır.
+Berber koltuğu, hidrolik frenler, itfaiye
+merdiveni ve krikolar bu prensiple çalışır.
+Sıvıların basıncı iletme özelliği sayesinde küçük
+kuvvetlerle ağır yükler kaldırılabilir.
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 9 of 12 --
+
+Gaz Basıncı
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 10 of 12 --
+
+Gaz Basıncı
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 11 of 12 --
+
+Beğen
+Yorum yap
+Arkadaşına Gönder
+Takip Et	Sonrası için Kaydet
+Tekrar paylaş
+mgfenakademisi
+DEĞİŞİMİ GÖRÜN!
+FEN ENNEAGRAM TESTİ
+Hemen Katılın
+LİNK İÇİN
+PROFİLE BAKINIZ
+DM’DEN İLETİŞİME
+GEÇEBİLİRSİNİZDM
+Çocuğunuzun Fen Başarısını %100 Artıracak Sırrı Biliyor
+musunuz?
+LGS FEN BİLİMLERİ
+DERSLERİMDE
+KULLANDIĞIM KAYNAKLAR
+
+-- 12 of 12 --
+

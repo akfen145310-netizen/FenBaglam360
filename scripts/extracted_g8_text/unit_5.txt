@@ -1,0 +1,303 @@
+5.ÜNİTE: BASİT MAKİNELER
+1.MEBİ LGS Konu Özeti
+2.Kavram Yanılgıları
+3.Çeldiriciler
+4.Başucu Notları
+8.SINIF
+18 sayfa
+dolu dolu
+
+-- 1 of 18 --
+
+LGS	LGS	LGS	LGS	LGS	LGS	LGS	LGS	LGS	LGS	LGS	LGS
+KONU
+ÖZETİ
+BASİT MAKİNELER
+Basit makineler sayesinde, kuvvetten ya da yoldan kazanç sağlanabilir.
+Basit makineler yalnızca iş yapma kolaylığı sağlar, iş ve enerji kazancı sağlamaz.
+BASİT MAKİNELER
+Günlük hayatta, yaptığımız işleri kolaylaştırmak için birtakım araçlar kullanırız. İş yapmayı kolaylaştıran, çok az
+parçadan oluşan ve tek bir kuvvet çeşidi ile kullanılan bu araçlara basit makineler denir.
+Sabit Makaralar
+Belirli bir noktaya asılan ve dönerek cisimlerin
+hareket etmesini sağlayan makaralardır. Sabit
+makaralarda yoldan ve kuvvetten kazanç yoktur. Bu
+nedenle, sabit makaraların tek bir kullanım amacı
+vardır; o da kuvvetin yönünü değiştirmektir.
+Basit makine kullanırken makineye uygulanan kuvvete giriş kuvveti, makinenin çalışması sonucu elde
+edilen kuvvete de çıkış kuvveti adı verilir.
+Bir iş yaparken kullandığımız yöntem, daha az yol alarak aynı işi tamamlayabilmemizi sağlıyorsa ‘yoldan
+kazanmış’ oluruz. Bir iş yaparken kullandığımız yöntem, daha küçük kuvvet uygulayarak aynı işi
+tamamlayabilmemizi sağlıyorsa kuvvetten kazanmış oluruz. Basit makinelere; kaldıraçlar, makaralar, eğik
+düzlemler, çıkrıklar, vidalar, dişli çarklar ve kasnaklar örnek olarak verilebilir.
+MAKARALAR
+Makara; tekerleğe benzeyen ve bir ipin geçebilmesi için dış çeperi boyunca oluğu olan, merkezinden geçen eksen
+etrafında serbestçe dönebilen basit bir makinedir. Makaralar, sabit ve hareketli makaralar olmak üzere ikiye ayrılır.
+Görsel 1: Sabit makara
+MEBİ KONU ÖZETLERİ
+F=G/2
+Hareketli Makaralar
+Görsel 2: Hareketli makara
+Hareketli makarada makara ve yükün ağırlığı,
+makaradan geçen ipin iki parçası arasında paylaşılır.
+Bu nedenle uygulanan kuvvet, toplam ağırlığın yarısı
+kadardır. Hareketli makaralarda kuvvetin ve yükün
+hareket yönü aynıdır. Yükü 1 metre yukarı çıkarabilmek
+için kuvvetin uygulandığı ip 2 metre çekilmelidir.
+Hareketli makaralar, kuvvetten kazanç sağlarken
+yoldan kayba neden olur. Bu nedenle hareketli
+makaralar kuvvetin büyüklüğünü değiştirerek iş
+yapma kolaylığı sağlar.
+Palangalar
+Sabit ve hareketli makaralardan kurulan makara sistemine
+palanga denir. Bu tür sistemlerde kullanılan makara
+türlerine göre kuvvetin yönü ve büyüklüğü değiştirilebilir.
+Bu düzenekler hareketli makara ile kuvvetten kazanç
+sağlayarak, sabit makara ile de kuvvetin yönünü
+değiştirerek iş yapma kolaylığı sağlar. Palangalarda
+kullanılan makara sayısı ve ipin bağlanış şekline göre kuvvet
+kazancı değişebilir. Palangalarda yükü taşıyan ip sayısı
+arttıkça, yükü dengelemek için uygulanan kuvvet miktarı
+azalır.
+F
+F=G/3 	F=G/4
+F
+Görsel 3: Palanga
+
+-- 2 of 18 --
+
+FEN BİLİMLERİ	MEBİ KONU ÖZETLERİ
+Görsel 4: Eğik düzlem
+EĞİK DÜZLEM
+Ağır yükleri kolaylıkla daha yüksek bir konuma
+kaldırmak için kullanılan araçlara eğik düzlem adı
+verilir. Örneğin, yolda giderken belirli yüksekliklere
+ulaşabilmek için inşa edilmiş yokuşlar birer eğik
+düzlemdir. Eğik düzlemler, hem kuvvetten kazanç hem
+de yüksek noktalara ulaşma olanağı sağlar. Eğik
+düzlemlerde, kuvvetten kazanç sağlanırken kuvvetin
+uygulanması gereken yolun uzunluğu arttığından,
+yoldan kayıp da artmış olur.
+Görsel 5: Engelli rampası	Görsel 7: Kıvrımlı yollar	 	Görsel 6:Kamyon için kurulan eğik düzlem
+Eğik düzlemlerin birçok örneğini çevremizde görebiliriz. Belirli yüksekliklere çıkmak için yapılmış kıvrımlı yollar,
+merdiven kenarlarında tekerlekli araçların çıkabilmesi için yapılan engelli rampaları, kamyonlara yük yüklemek için
+kurulan eğik düzlemler bunlara örnektir.
+Görsel 8: Vida
+KALDIRAÇ
+Sabit bir destek etrafında hareket eden çubuklara kaldıraç denir.
+Kaldıraçta, uygulanan kuvvetin destek noktasına olan uzaklığına kuvvet kolu, yükün destek noktasına olan
+uzaklığına ise yük kolu denir. Yükü kaldırmak için uygulanan kuvvete giriş kuvveti, aktarılarak yükü dengeleyen
+kuvvete çıkış kuvveti denir.
+VİDA
+Vida, silindirin etrafına eğik düzlem sarılması ile oluşan
+basit makinedir. Vida başının bir tur döndürülmesi sonucu,
+vidanın saplandığı zeminde ilerlediği mesafeye ‘vida
+adımı’ denir. Kumanda, araba, buzdolabı, televizyon gibi,
+çevrenizde gördüğünüz pek çok ürünün parçalarının
+birleştirilmesinde vida kullanılır.
+Kaldıraçlar; destek noktasının,
+yükün ve kuvvetin yerine göre
+değişiklik gösterir. Birbirinden
+farklı olan bu kaldıraç türleri farklı
+amaçlar için kullanılabilir.
+
+-- 3 of 18 --
+
+FEN BİLİMLERİ	MEBİ KONU ÖZETLERİ
+Görsel 9: Kürek 	Görsel 10: Gazoz açacağı 	Görsel 11: Tahterevalli
+Destek noktası, yük ile yükü kaldırmak için etki eden kuvvet arasında iken kuvvet kolunun yük koluna göre
+uzunluğu az ya da çok olabilir. Buna göre, kuvvetten kazanç ya da kayıp değişebilir. Yük, kuvvet ile destek noktası
+arasında ise kuvvet her zaman destek noktasına yükten daha uzakta olur. Bu durumda, kuvvetten ka- zanç yoldan
+kayıp olur. Kuvvet, yük ile destek noktası arasında ise yük her zaman destek noktasına kuvvetten uzakta olur. Bu
+durumda, kuvvetten kayıp yoldan kazanç olur.
+Günlük yaşamda karşılaşılan pek çok kaldıraç örneği vardır. Kürek, gazoz açacağı, parklardaki tahterevalli, kaşık,
+levye, hatta kalem bile kaldıraçlara örnek olarak verilebilir.
+ÇIKRIK
+Çıkrık, aynı eksen etrafında dönebilen, yarıçapları farklı iki silindirden oluşan bir sistemdir. Çıkrıkta, bir yükü
+yukarı çekebilmek için; yükün bağlı olduğu ip bir silindire sarılır. Bu silindiri döndürebilmek için, silindire bağlı
+bir kol bulunur. Yük ipinin sarıldığı silindirin yarıçapı yük kolu, silindiri döndüren kuvvetin uygulandığı kol ise
+kuvvet koludur. Kuvvet kolu ile ipin sarıldığı çember iç içe olduğundan, kol ile silindir birlikte dönerek bir turu
+aynı sürede tamamlarlar. Çıkrıklarda, kuvvet kolu her zaman yük kolundan büyük olduğundan, her zaman
+kuvvetten kazanç ve yoldan kayıp vardır.
+Görsel 12: Çıkrık
+Eskiden daha çok su kuyularından su çekme ya da yünden ip
+yapma için kullanılan çıkrıklar, günümüzde de birçok yerde
+kullanılır. Musluk vanaları, bisiklet pedalı, olta makarası ve
+direksiyon günlük yaşamda kullanılan çıkrık örnekleridir.
+
+-- 4 of 18 --
+
+FEN BİLİMLERİ	MEBİ KONU ÖZETLERİ
+Görsel 13: Düz bağlı kasnaklar
+KASNAKLAR
+Kasnaklar, kayışlarla birbirini döndüren sistemlerdir. Bir kayış yardımıyla bir kasnağın hareketi diğer bir kasnağa
+rahatça aktarılabilir. Kasnak sistemlerinin üç çeşidi vardır.
+Görsel 14: Çapraz bağlı kasnaklar
+Aynı Merkezli Kasnaklar
+Şekildeki gibi merkezlerinden birbirlerine perçinlenmiş olan kasnaklara aynı merkezli kasnaklar denir. Dönme
+yönleri ve sayıları aynıdır.
+Zıt Yönlü Kasnaklar
+Şekildeki gibi bağlanan kasnaklara zıt yönlü
+kasnaklar denir. Kasnakların dönme yönleri
+zıttır. Dönme sayıları yarıçapları ile ters
+orantılıdır.
+Aynı Yönlü Kasnaklar
+Şekildeki gibi bağlanan kasnaklara aynı
+yönlü kasnaklar denir. Bu kasnaklar aynı
+yönde döner. Dönme sayıları yarıçapları ile
+ters orantılıdır.
+Görsel 15: Aynı merkezli kasnaklar
+DİŞLİ ÇARKLAR
+İş makineleri, otomobiller ve matkaplar gibi birçok farklı yerde kullanılan dişli çarklar, üzerinde eşit aralıkla
+yerleştirilmiş dişler bulunan ve belirli bir eksen etrafında dönebilen disk şeklindeki araçlardır.
+Görselde ki dişlilerden biri saat yönünde dönerken diğeri saat yönünün tersi yönde döner.
+Görsel 16: Dişli çarklar
+
+-- 5 of 18 --
+
+Ancak şunu unutmayalım eş merkezli dişlilerinin dönme yönü ve tur sayıları her zaman aynıdır. Çarkların diş
+sayısı eşitse her iki çarkta eşit sayıda döner ve kuvvetten kazanç sağlanmaz. Çarkların dişli sayıları eşit değilse
+diş sayısı fazla olan çark daha az döner. Çarkların diş sayısı arttıkça dönme sayısı ve dönüş hızı azalır. Dişliler,
+günlük hayatta kuvvetin yönünü ve büyüklüğünü değiştirmek için sıklıkla kullanılır.
+FEN BİLİMLERİ	MEBİ KONU ÖZETLERİ
+Görsel 17: Bisiklet
+Görselde verilen bisiklette dişli çark, kaldıraç, tekerlek ve çıkrık gibi basit makinelerin dışında bisiklette
+parçaları birbirine tutturmak için vida da kullanılır. Ayrıca, balık tutmak için kullanılan oltalar da yapısında
+makara, dişli, çıkrık ve kaldıraç bulunduran bileşik makinelerdir.
+BİLEŞİK MAKİNELER
+Birden fazla basit makinenin bir araya gelmesiyle oluşan araçlara bileşik makine denir. Günlük hayatta pek
+çok bileşik makine kullanılır.
+
+-- 6 of 18 --
+
+KAVRAM YANILGILARI	KAVRAM YANILGILARI
+Açıklama
+Kavram Yanılgısı
+Düzeltme Stratejileri
+Bu Kavram Yanılgısı Neden Oluşur
+Basit makineler yapılan işten kazanç sağlar.
+Öğrenciler 'iş kolaylığı' kavramını 'işten kazanç' ile karıştırmaktadır. Günlük dilde 'az iş yapmak' daha
+az yorulmak anlamında kullanıldığı için, daha az kuvvet harcanan durumun daha az iş olduğu
+yanılgısına düşerler.
+Hiçbir basit makine işten veya enerjiden kazanç sağlamaz. Basit makineler ya kuvvetten kazanç sağlayarak
+işi yapmamızı kolaylaştırır ya da yoldan kazanç sağlayarak zaman kazandırır. Bir taraftan kazanırken diğer
+taraftan aynı oranda kaybedilir; bu enerjinin korunumu ilkesidir.
+Bir yükü sabit makara ve hareketli makara ile aynı yüksekliğe çıkarırken çekilen ip uzunluğunu ölçerek
+(Kuvvet x Yol) çarpımının değişmediğini gözlemlenebilir. Dinamometre ile kuvveti, cetvel ile yolu ölçerek
+yapılan işi bulabiliriz.
+Açıklama
+Kavram Yanılgısı
+Düzeltme Stratejileri
+Bu Kavram Yanılgısı Neden Oluşur
+Daha karmaşık makineler (dişli çarklar, palangalar) her zaman daha fazla kuvvet kazancı sağlar.
+Öğrencilerde 'daha fazla parça = daha fazla güç' şeklinde doğrusal bir mantık yürütme eğilimi vardır. Büyük
+makinelerin her zaman kuvveti artırdığına dair sezgisel bir algı geliştirirler.
+Bileşik Makine Analizi: Bir palangada ip sayısını değiştirerek ama sistemin genel görüntüsünü aynı tutarak
+kuvvet kazancının sadece belirli faktörlere bağlı olduğunu gözlemlenebilir. Analoji Kurma: Bisiklet viteslerini
+kullanarak, yokuş yukarı çıkarken (kuvvet kazancı) ve düz yolda hızlanırken (yol kazancı) dişli oranlarının
+nasıl değiştiği gözlemlenebilir.
+Bir makinenin karmaşıklığı ile kuvvet kazancı arasında doğrudan bir doğru orantı yoktur. Kuvvet kazancı,
+makinenin tasarımına ve giriş/çıkış kolları arasındaki oranlara bağlıdır. Örneğin, çok sayıda dişli içeren bir
+sistemde eğer son dişli ilk dişliden daha küçükse yoldan kazanç, kuvvetten kayıp olabilir.
+mgfenakademisi
+
+-- 7 of 18 --
+
+Açıklama
+Kavram Yanılgısı
+Düzeltme Stratejileri
+Bu Kavram Yanılgısı Neden Oluşur
+Destek noktası her zaman iki yükün veya kuvvet ile yükün tam ortasında olmalıdır.
+Öğrencilerin günlük hayattaki en baskın tecrübesi olan tahterevallinin genellikle dengede (ortada destek)
+olması, desteğin her zaman merkezde olması gerektiği algısını oluşturur.
+Kaldıraçlarda destek noktası, makinenin türüne ve amacına göre herhangi bir yerde (uçta, ortada, yüke yakın
+vb.) olabilir. Kuvvet kazancı elde etmek için destek noktası yüke ne kadar yakın olursa (veya kuvvet kolu yük
+kolundan ne kadar uzun olursa) o kadar avantaj sağlanır.
+Bir cetvel üzerine yük koyup kalemle destek noktası oluşturarak, kalemi yükten uzaklaştırıp yaklaştırırken
+parmakla uygulanması gereken kuvvetin nasıl değiştiğini gözlemleyebiliriz. Pense (destek ortada), el arabası
+(yük ortada) ve cımbız (kuvvet ortada) gibi günlük araçları 'destek-yük-kuvvet' dizilimine göre
+gruplandırabiliriz.
+KAVRAM YANILGILARI	KAVRAM YANILGILARI
+mgfenakademisi
+
+-- 8 of 18 --
+
+"İşten Kazanç" Kelime Oyunu:
+Eğik düzlem, makaralar, kaldıraç veya çıkrık düzeneklerinde kuvvet kazancını
+mükemmel şekilde hesaplatır. Öğrenci kuvvet kazancını bulmanın coşkusuyla şıklarda
+yer alan "Bu sistemde işten veya enerjiden kazanç sağlanmıştır" çeldiricisine düşer.
+UNUTMAYIN: Hiçbir basit makinede işten veya enerjiden kazanç sağlanamaz!
+Sürtünmesiz Eğik Düzlem Aldatmacası:
+Farklı katlara (1. kat, 2. kat) çıkarılan özdeş kutuları ve farklı eğik düzlemleri gösterir.
+Eğik düzlemlerin boyu uzadığı için kuvvetin değişeceğini düşündürmeye çalışır. Oysa
+yer ile yapılan açılar (eğimler) aynı ise uygulanan en küçük kuvvetlerin büyüklükleri
+birbirine eşittir.
+🔍 Hangi Soru Tarzında Ne Yapılmalı?
+Çıkrık ve Kasnak Düzenekleri: Kuvvet uygulanan çubuğun uzunluğunu (kuvvet kolu) ve
+silindirin yarıçapını (yük kolu) net olarak belirleyin. Kutuyu daha az kuvvetle yukarı
+çıkarmak istiyorsanız; ya çubuğu uzatmalısınız ya da ipin sarıldığı silindirin yarıçapını
+küçültmelisiniz.
+🎯 MEB'in Favori
+Çeldirici Teknikleri
+mgfenakademisi
+
+-- 9 of 18 --
+
+Basit Makineler
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 10 of 18 --
+
+Makaralar
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 11 of 18 --
+
+Kaldıraçlar
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 12 of 18 --
+
+Eğik Düzlem
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 13 of 18 --
+
+Çıkrık
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 14 of 18 --
+
+Vida
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 15 of 18 --
+
+Çıkrık
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 16 of 18 --
+
+Bileşik Makine
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 17 of 18 --
+
+DEĞİŞİMİ GÖRÜN!
+FEN ENNEAGRAM TESTİ
+Hemen Katılın
+LİNK İÇİN
+PROFİLE BAKINIZ
+DM’DEN İLETİŞİME
+GEÇEBİLİRSİNİZDM
+Çocuğunuzun Fen Başarısını %100 Artıracak Sırrı Biliyor
+musunuz?
+Beğen
+Yorum yap
+Arkadaşına Gönder
+Takip Et	Sonrası için Kaydet
+Tekrar paylaş
+mgfenakademisi
+
+-- 18 of 18 --
+

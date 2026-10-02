@@ -1,0 +1,402 @@
+[
+  {
+    "code": "8.1.1",
+    "unitCode": "8.1",
+    "unitNumber": 1,
+    "unitTitle": "1. Ünite: Mevsimler ve İklim",
+    "unitColor": "violet",
+    "title": "Mevsimlerin Oluşumu ve Eksen Eğikliği",
+    "summary": "Dünya'nın dönme ekseninin 23° 27' eğik olması, Güneş etrafında dolanması, birim yüzeye düşen ışık enerjisi, ekinoks ve gündönümü tarihleri.",
+    "kazanimlar": [
+      "F.8.1.1.1. Mevsimlerin oluşumuna yönelik tahminlerde bulunur.",
+      "F.8.1.1.2. Eksen eğikliği ve Güneş ışınlarının geliş açısı arasındaki ilişkiyi açıklar."
+    ],
+    "diagramType": "seasons-tilt",
+    "misconceptions": [
+      "Dünya Güneş'e yaklaştığında yaz, uzaklaştığında kış mevsimi yaşanır yanılgısı (Oysa 3 Ocak'ta Dünya Güneş'e en yakındır ve KYK'de kış yaşanır; mevsimleri belirleyen mesafe değil eksen eğikliği ve ışınların geliş açısıdır).",
+      "Ekvator çizgisine Güneş ışınları yıl boyunca her gün 90° dik açıyla düşer yanılgısı (Sadece 21 Mart ve 23 Eylül ekinokslarında tam dik düşer).",
+      "Türkiye'de veya dönenceler dışındaki bölgelerde öğle vakti gölge boyu sıfır olabilir yanılgısı (Güneş ışınları sadece dönenceler arasına dik düşer; Türkiye dönenceler dışındadır, gölge asla sıfır olmaz)."
+    ],
+    "traps": [
+      "21 Haziran'da KYK'de en uzun gündüz yaşanırken GYK'de en uzun gece yaşandığını ve kutup noktalarındaki 6 aylık gece-gündüz durumunu ters eşleştirme.",
+      "Güneş ışınlarının gelme açısı dikleştikçe aydınlanan alanın küçüldüğünü fakat birim yüzeye aktarılan ısı enerjisinin arttığını karıştırma."
+    ]
+  },
+  {
+    "code": "8.1.2",
+    "unitCode": "8.1",
+    "unitNumber": 1,
+    "unitTitle": "1. Ünite: Mevsimler ve İklim",
+    "unitColor": "violet",
+    "title": "İklim ve Hava Hareketleri",
+    "summary": "Rüzgâr oluşumu, yüksek ve alçak basınç alanları, havadaki nem ve yağış türleri, iklim ve hava olayları farkı, klimatoloji, küresel iklim değişikliği.",
+    "kazanimlar": [
+      "F.8.1.2.1. İklim ve hava olayları arasındaki farkı açıklar.",
+      "F.8.1.2.2. İklim biliminin (klimatoloji) bir bilim dalı olduğunu ve bu alanda çalışan uzmanlara iklim bilimci (klimatolog) dendiğini belirtir.",
+      "F.8.1.2.3. Rüzgâr oluşumunu sıcaklık ve basınç farkıyla açıklar."
+    ],
+    "diagramType": "weather-pressure",
+    "misconceptions": [
+      "Sıcak havanın yoğunluğunun fazla olup yüksek basınç alanı oluşturduğu yanılgısı (Isınan hava genleşir, yoğunluğu azalır, yükselici hava hareketi yapar ve Alçak Basınç oluşturur; soğuk hava ise alçalıcı hareketle Yüksek Basınç oluşturur).",
+      "Rüzgârın alçak basınçtan yüksek basınca veya sıcaktan soğuğa doğru estiği yanılgısı (Rüzgâr daima Yüksek Basınç'tan Alçak Basınç'a, yani Soğuk bölgeden Sıcak bölgeye doğru yatay hava akımıdır).",
+      "Yüksek basınç alanlarında havanın kapalı ve yağışlı olduğu yanılgısı (Yüksek basınçta alçalıcı hava hareketi vardır, bulut oluşumu engellenir ve hava açıktır/güneşlidir; alçak basınçta yükselen hava soğuyup bulut ve yağış oluşturur)."
+    ],
+    "traps": [
+      "Yağış türlerinde gökyüzüne yakın yerde oluşanlar (Yağmur, Kar, Dolu) ile yeryüzüne yakın yerde oluşanları (Çiy, Kırağı, Sis) birbirine karıştırma.",
+      "Geniş bölgede 30-40 yıllık ortalama olan İklim (Klimatoloji) ile dar alanda kısa süreli değişkenlik gösteren Hava Olaylarını (Meteoroloji, tahminidir) birbirine karıştırma."
+    ]
+  },
+  {
+    "code": "8.2.1",
+    "unitCode": "8.2",
+    "unitNumber": 2,
+    "unitTitle": "2. Ünite: DNA ve Genetik Kod",
+    "unitColor": "emerald",
+    "title": "DNA'nın Yapısı, Nükleotidler ve Eşlenme",
+    "summary": "Nükleotid yapısı (Fosfat, Şeker, Organik Baz), Adenin-Timin, Guanin-Sitozin eşleşmesi, genetik kod hiyerarşisi (Kromozom > DNA > Gen > Nükleotid), DNA'nın kendini eşlemesi ve tek/çift zincir onarım kuralları.",
+    "kazanimlar": [
+      "F.8.2.1.1. Nükleotid, gen, DNA ve kromozom kavramlarını açıklayarak bu kavramlar arasında ilişki kurar.",
+      "F.8.2.1.2. DNA'nın yapısını model üzerinde gösterir.",
+      "F.8.2.1.3. DNA'nın kendini nasıl eşlediğini ifade eder."
+    ],
+    "diagramType": "dna-replication-model",
+    "misconceptions": [
+      "Kromozom sayısı fazla olan canlının daha gelişmiş veya daha büyük olduğu yanılgısı (Eğrelti otu 500 kromozomludur, insan 46; kromozom sayısı gelişmişlik veya vücut büyüklüğüyle ilişkisizdir).",
+      "Farklı canlı türlerinin kromozom sayılarının aynı olamayacağı yanılgısı (İnsan ve moli balığı her ikisi de 46 kromozoma sahiptir; benzerlik gen dizilimiyle ilgilidir).",
+      "DNA'daki tüm hasarların onarılabileceği yanılgısı (Tek bir zincirdeki eksik baz veya yanlış eşleşme onarılabilir; ancak karşılıklı iki zincirdeki nükleotidlerin ikisi birden kopmuşsa bu hasar onarılamaz)."
+    ],
+    "traps": [
+      "DNA eşlenmesi sırasında sitoplazmadaki serbest nükleotid sayısının azaldığını, çekirdekteki nükleotid sayısının arttığını grafik sorularında ters yorumlama.",
+      "Bir nükleotidin adını taşıdığı organik bazdan aldığını (Örn: Adenin nükleotidi), fakat yapısında mutlaka 1 fosfat ve 1 deoksiriboz şekeri bulunduğunu gözden kaçırma."
+    ]
+  },
+  {
+    "code": "8.2.2",
+    "unitCode": "8.2",
+    "unitNumber": 2,
+    "unitTitle": "2. Ünite: DNA ve Genetik Kod",
+    "unitColor": "emerald",
+    "title": "Kalıtım, Çaprazlamalar ve Akraba Evliliği",
+    "summary": "Mendel genetiği, alel genler, baskın (dominant) ve çekinik (resesif) genler, homozigot (saf) ve heterozigot (melez) döller, fenotip ve genotip oranları, tek karakter çaprazlamaları, insanda cinsiyet oluşumu ve akraba evliliği riskleri.",
+    "kazanimlar": [
+      "F.8.2.2.1. Kalıtım ile ilgili kavramları tanımlar.",
+      "F.8.2.2.2. Tek karakter çaprazlamaları ile ilgili problemler çözerek sonuçlar hakkında yorum yapar.",
+      "F.8.2.2.3. Akraba evliliklerinin genetik sonuçlarını tartışır."
+    ],
+    "diagramType": "cell-division",
+    "misconceptions": [
+      "Bebeğin cinsiyetini annenin belirlediği yanılgısı (Anne sadece X kromozomu verir; cinsiyeti babadan gelen spermdeki X veya Y kromozomu belirler: XX kız, XY erkek).",
+      "Önceki 3 çocuğu erkek olan bir ailenin 4. çocuğunun kız olma ihtimalinin daha yüksek olduğu yanılgısı (Her doğumda kız veya erkek olma olasılığı bağımsız bir olaydır ve daima %50'dir).",
+      "Akraba evliliğinin doğrudan genetik hastalık yarattığı yanılgısı (Akraba evliliği yeni hastalık yaratmaz; ailede nesillerdir gizli kalan çekinik hastalık genlerinin yan yana gelme olasılığını artırır)."
+    ],
+    "traps": [
+      "Fenotip oranı (dış görünüş, örn: %75 baskın, %25 çekinik) ile Genotip oranını (genetik yapı, örn: %25 AA, %50 Aa, %25 aa) birbirine karıştırma.",
+      "Çekinik bir fenotipin (aa) ortaya çıkabilmesi için mutlaka her iki ebeveynden de en az birer çekinik gen (a) gelmesi gerektiğini unutma."
+    ]
+  },
+  {
+    "code": "8.2.3",
+    "unitCode": "8.2",
+    "unitNumber": 2,
+    "unitTitle": "2. Ünite: DNA ve Genetik Kod",
+    "unitColor": "emerald",
+    "title": "Mutasyon, Modifikasyon, Adaptasyon ve Biyoteknoloji",
+    "summary": "Mutasyon ve modifikasyon farkı, adaptasyonun canlının yaşama ve üreme şansına etkisi, doğal seçilim ve varyasyon, biyoteknoloji uygulamaları (gen aktarımı, klonlama, gen tedavisi, aşılama) ve etik boyutları.",
+    "kazanimlar": [
+      "F.8.2.3.1. Örneklerden yola çıkarak mutasyonu ve modifikasyonu açıklar.",
+      "F.8.2.3.2. Canlıların çevreye uyumlarını (adaptasyon) gözlemleyerek açıklar.",
+      "F.8.2.4.1. Biyoteknolojik uygulamaların geçmişten günümüze gelişimini değerlendirir."
+    ],
+    "diagramType": "dna-replication-model",
+    "misconceptions": [
+      "Modifikasyonların nesilden nesile aktarıldığı yanılgısı (Modifikasyon genin işleyişindeki çevre kaynaklı geçici değişimdir; kas yapan sporcunun çocuğu kaslı doğmaz, Himalaya tavşanının kesilen tüyü sıcaklık kuralına tabidir).",
+      "Canlıların ihtiyaç duydukları için isteyerek adaptasyon geliştirdiği yanılgısı (Adaptasyonlar canlının isteğiyle aniden oluşmaz; var olan genetik çeşitlilik (varyasyon) içinden çevreye en uyumlu olanların hayatta kalması (doğal seçilim) ile nesiller boyunca yerleşir).",
+      "Klonlamada klon canlısının taşıyıcı annenin veya yumurta hücresinin genetik kopyası olduğu yanılgısı (Klon canlı, vücut hücresinin çekirdeği (DNA'sı) alınan bireyin %100 genetik ikizidir)."
+    ],
+    "traps": [
+      "Vücut hücresindeki mutasyonların sadece o bireyi ilgilendirdiğini, üreme hücrelerindeki (sperm/yumurta) mutasyonların ise kalıtsal olup yavrulara geçtiğini ayırt edememe.",
+      "Gen aktarımı (başka türden gen ekleme) ile Klonlama (çekirdek kopyalama) ve Gen Tedavisini (kusurlu geni onarma) birbirine karıştırma."
+    ]
+  },
+  {
+    "code": "8.3.1",
+    "unitCode": "8.3",
+    "unitNumber": 3,
+    "unitTitle": "3. Ünite: Basınç",
+    "unitColor": "sky",
+    "title": "Katı Basıncı ve Günlük Yaşam Uygulamaları",
+    "summary": "Katı basıncının ağırlık (dik kuvvet) ve temas yüzey alanına bağlılığı (P = G / S), basıncı artıran ve azaltan günlük teknolojiler, katıların kuvveti aynen iletmesi ilkesi.",
+    "kazanimlar": [
+      "F.8.3.1.1. Katı basıncını etkileyen değişkenleri deneyerek keşfeder.",
+      "F.8.3.1.2. Katı basıncının günlük yaşam ve teknolojideki uygulamalarına örnekler verir."
+    ],
+    "diagramType": "solid-pressure",
+    "misconceptions": [
+      "Katıların basıncı aynen ilettiği yanılgısı (Katılar üzerlerine uygulanan dik KUVVETİ büyüklüğünü ve doğrultusunu değiştirmeden aynen iletir; temas yüzey alanı değişirse basınç değişir, basıncı aynen iletmezler!).",
+      "Bir katı blok dik olarak tam ortasından ikiye kesildiğinde zemine yaptığı basıncın azaldığı yanılgısı (Hem ağırlık yarıya iner hem yüzey alanı yarıya iner, dolayısıyla G/S oranı değişmez, basınç AYNI KALIR!).",
+      "Tüm ağır cisimlerin zemine kesinlikle çok yüksek basınç uyguladığı yanılgısı (Ağır bir paletli iş makinesi geniş paletleri sayesinde yere binek otomobilden daha az basınç uygulayabilir)."
+    ],
+    "traps": [
+      "Çivi, bıçak, raptiye sorularında ucun sivri olmasının yüzey alanını küçülterek basıncı artırdığını; çivinin başına vurulan kuvvetin uca aynen iletildiğini unutma.",
+      "Karda batmamak için kar ayakkabısı giyilmesi, tırların çok tekerlekli olması gibi durumlarda temas yüzeyinin artırılarak basıncın azaltıldığını ters yorumlama."
+    ]
+  },
+  {
+    "code": "8.3.2",
+    "unitCode": "8.3",
+    "unitNumber": 3,
+    "unitTitle": "3. Ünite: Basınç",
+    "unitColor": "sky",
+    "title": "Sıvı Basıncı ve Pascal Prensibi",
+    "summary": "Sıvı basıncının derinlik (h) ve yoğunluğa (d) bağlılığı (P = h · d), kabın şeklinden ve sıvı miktarından bağımsızlığı, Pascal Prensibi (sıvıların basıncı aynen iletmesi), hidrolik frenler, krikolar ve berber koltukları.",
+    "kazanimlar": [
+      "F.8.3.1.2. Sıvı basıncını etkileyen değişkenleri tahmin eder ve tahminlerini test eder.",
+      "F.8.3.1.3. Pascal prensibinin teknolojideki uygulamalarını açıklar."
+    ],
+    "diagramType": "solid-pressure",
+    "misconceptions": [
+      "Sıvı basıncının kabın şekline, genişliğine veya kaptaki toplam sıvı kütlesine bağlı olduğu yanılgısı (Derinlik h ve yoğunluk d aynı olduğu sürece kabın şekli, yatay genişliği veya sıvı miktarı taban basıncını ASLA değiştirmez).",
+      "Derinliğin kabın tabanından yukarı doğru ölçüldüğü yanılgısı (Derinlik h, sıvının serbest üst yüzeyinden ölçülen dikey mesafedir).",
+      "Sıvıların kuvveti aynen ilettiği yanılgısı (Sıvılar sıkıştırılamaz ve üzerlerine uygulanan BASINCI her yöne aynen iletir; yüzey alanları farklı olan kollarda kuvvetler farklıdır, kuvveti değil basıncı aynen iletirler)."
+    ],
+    "traps": [
+      "Özdeş deliklerden fışkıran sıvı deneyinde en alttaki delikten çıkan suyun derinliği fazla olduğu için en hızlı ve en uzağa fışkırdığını unutma.",
+      "Birbirine karışmayan sıvılarda yoğunluğu büyük olanın altta kaldığını ve tabandaki toplam basıncın sıvıların basınçları toplamı olduğunu hesaplama."
+    ]
+  },
+  {
+    "code": "8.3.3",
+    "unitCode": "8.3",
+    "unitNumber": 3,
+    "unitTitle": "3. Ünite: Basınç",
+    "unitColor": "sky",
+    "title": "Gaz Basıncı ve Açık Hava Basıncı",
+    "summary": "Torricelli deneyi (76 cm Hg), açık hava basıncının deniz seviyesinden yükseklere çıkıldıkça azalması, kapalı kap gaz basıncı, pipetle meyve suyu içme, van vantuzları ve Magdeburg yarım küreleri.",
+    "kazanimlar": [
+      "F.8.3.1.3. Gazların basınç özelliklerinin günlük yaşam ve teknolojideki uygulamalarına örnekler verir.",
+      "F.8.3.1.4. Açık hava basıncının varlığını kanıtlayan deneyleri yorumlar."
+    ],
+    "diagramType": "weather-pressure",
+    "misconceptions": [
+      "Torricelli deneyinde cıva yüksekliğinin cam borunun kalınlığına, uzunluğuna veya eğikliğine bağlı olduğu yanılgısı (Açık hava basıncı 76 cm Hg'lik dikey sıvı sütununu dengeler; borunun kalın olması veya eğik durması dikey h yüksekliğini değiştirmez).",
+      "Deniz seviyesinden yukarılara (dağa) çıkıldıkça açık hava basıncının arttığı yanılgısı (Yukarı çıkıldıkça havanın yoğunluğu ve üzerimizdeki hava tabakası azaldığı için açık hava basıncı AZALIR, cıva yüksekliği düşer).",
+      "İçi boş veya pipetle çekilen kutunun içe doğru çökmesinin 'emme kuvveti'nden kaynaklandığı yanılgısı (Kutunun içindeki hava çekilince iç gaz basıncı düşer, dışarıdaki açık hava basıncı büyük kaldığı için kutuyu içeri doğru ezer)."
+    ],
+    "traps": [
+      "Torricelli deneyinde cıva yerine yoğunluğu çok küçük olan su kullanılsaydı yaklaşık 10,5 metrelik devasa bir boru gerekeceğini unutma.",
+      "Isıtılan teneke kutunun kapağı kapatılıp soğutulduğunda büzüşmesinin dış açık hava basıncının etkisi olduğunu kavrama."
+    ]
+  },
+  {
+    "code": "8.4.1",
+    "unitCode": "8.4",
+    "unitNumber": 4,
+    "unitTitle": "4. Ünite: Madde ve Endüstri",
+    "unitColor": "amber",
+    "title": "Periyodik Sistem ve Elementlerin Sınıflandırılması",
+    "summary": "Periyodik tablonun tarihsel gelişimi (Mendeleyev, Moseley), grup ve periyot kavramları, metaller, ametaller, yarı metaller ve soygazların özellikleri, istisnai elementler (Hidrojen ve Helyum).",
+    "kazanimlar": [
+      "F.8.4.1.1. Periyodik sistemde, grup ve periyotların nasıl oluşturulduğunu açıklar.",
+      "F.8.4.1.2. Elementleri periyodik tablo üzerinde yaşantımızdaki yerlerine göre sınıflandırır."
+    ],
+    "diagramType": "density-tower",
+    "misconceptions": [
+      "1A grubunda yer alan tüm elementlerin metal (alkali metal) olduğu yanılgısı (1A'nın ilk elementi olan Hidrojen (H) bir AMETALDİR; metallerle benzer kimyasal özellik göstermez).",
+      "Son katmanında 2 elektron bulunan elementin kesinlikle 2A grubunda bir metal olduğu yanılgısı (Helyum (He) atom numarası 2'dir, son katmanında 2 elektron vardır fakat katmanı tam dolu olduğu için 8A SOYGAZLAR grubundadır).",
+      "Aynı grupta bulunan elementlerin kimyasal özelliklerinin tamamen aynı olduğu yanılgısı (Aynı gruptaki elementlerin kimyasal özellikleri 'aynı' değil 'BENZER'dir; ayrıca 1A'daki Hidrojen grubuyla benzer de değildir)."
+    ],
+    "traps": [
+      "Atom numaraları ardışık olan iki elementin her zaman aynı periyotta veya yan yana olacağını varsayma (Örn: 10 numaralı Neon 2. periyot 8A'da iken, 11 numaralı Sodyum 3. periyot 1A'dadır).",
+      "Soygazların ametallerin özel bir grubu olduğunu, kararlı oldukları için kimyasal bağ yapmadıklarını ve oda koşullarında tek atomlu gaz halde bulunduklarını unutma."
+    ]
+  },
+  {
+    "code": "8.4.2",
+    "unitCode": "8.4",
+    "unitNumber": 4,
+    "unitTitle": "4. Ünite: Madde ve Endüstri",
+    "unitColor": "amber",
+    "title": "Fiziksel-Kimyasal Değişimler ve Kimyasal Tepkimeler",
+    "summary": "Maddenin kimliğinin değişip değişmemesi, kimyasal tepkime denklemleri, kütlenin korunumu kanunu, atom cinsi ve sayısının korunması, bağ kırılımı ve yeni bağ oluşumu.",
+    "kazanimlar": [
+      "F.8.4.2.1. Fiziksel ve kimyasal değişim arasındaki farkları açıklar.",
+      "F.8.4.3.1. Bileşiklerin kimyasal tepkime sonucunda oluştuğunu kavrar.",
+      "F.8.4.3.2. Kimyasal tepkimelerde kütlenin korunduğunu gösterir."
+    ],
+    "diagramType": "dna-replication-model",
+    "misconceptions": [
+      "Kimyasal tepkimeler sonucunda yeni atomların oluştuğu veya atom türünün değiştiği yanılgısı (Kimyasal tepkimelerde hiçbir atom yok olmaz veya yoktan var olmaz; atom cinsi ve atom sayısı DAİMA KORUNUR, sadece atomlar arası bağlar kopar ve yeni bağlar düzenlenir).",
+      "Açık kapta gerçekleşen yanma veya gaz çıkışlı tepkimelerde toplam kütlenin azaldığı yanılgısı (Uçup giden gazın bir kütlesi vardır; kapalı bir kapta yapılan hassas ölçümlerde girenlerin toplam kütlesi ürünlerin toplam kütlesine DAİMA EŞİTTİR).",
+      "Şekerin veya tuzun suda çözünmesinin kimyasal bir değişim olduğu yanılgısı (Çözünme fiziksel bir değişimdir; su buharlaştırıldığında şeker veya tuz kimliğini kaybetmeden geri elde edilir)."
+    ],
+    "traps": [
+      "Kimyasal tepkime grafiklerinde miktarı azalan maddelerin 'girenler', miktarı sıfırdan artan maddelerin 'ürünler' olduğunu ve azalan kütleler toplamının oluşan kütleye eşit olduğunu kurma.",
+      "Molekül sayısının kimyasal tepkimelerde korunmak zorunda olmadığını, ancak atom sayısının KESİNLİKLE korunduğunu ayırt etme."
+    ]
+  },
+  {
+    "code": "8.4.3",
+    "unitCode": "8.4",
+    "unitNumber": 4,
+    "unitTitle": "4. Ünite: Madde ve Endüstri",
+    "unitColor": "amber",
+    "title": "Asitler, Bazlar ve Maddenin Isı ile Etkileşimi",
+    "summary": "Asit ve baz özellikleri (pH cetveli, indikatörler), asit yağmurları, nötralleşme tepkimeleri, öz ısı (c), ısı alışverişi denklemleri (Q = m·c·Δt), saf maddelerin hal değişim grafikleri.",
+    "kazanimlar": [
+      "F.8.4.4.1. Asit ve bazların genel özelliklerini ifade eder.",
+      "F.8.4.4.2. Asit ve bazlara günlük yaşamdan örnekler verir.",
+      "F.8.4.5.1. Maddelerin ısınmasının kütle, öz ısı ve sıcaklık değişimi ile ilişkisini açıklar."
+    ],
+    "diagramType": "density-tower",
+    "misconceptions": [
+      "Asit ile baz karıştırıldığında oluşan çözeltinin her zaman tamamen nötr (pH = 7) olacağı yanılgısı (Eğer asit miktarı veya derişimi fazlaysa karışım asidik kalır, baz fazlaysa bazik kalır; tam nötralleşme miktarlara bağlıdır).",
+      "Isı alan saf bir maddenin sıcaklığının sürekli olarak artmak zorunda olduğu yanılgısı (Saf maddeler erime, kaynama gibi hal değişimi esnasında ısı almaya devam etseler bile sıcaklıkları SABİT KALIR).",
+      "Hal değişim grafiğinde yatay çizginin (hal değişim süresinin) uzunluğunun maddenin öz ısısına bağlı olduğu yanılgısı (Hal değişim süresini uzatan şey öz ısı değil, maddenin kütlesinin fazlalığı veya ısıtıcının gücüdür)."
+    ],
+    "traps": [
+      "Asitlerin metallerle tepkimeye girip hidrojen (H2) gazı açığa çıkardığını, bu yüzden asitlerin metal kaplarda saklanamayacağını; bazların ise cam ve porseleni matlaştırdığını unutma.",
+      "Öz ısısı küçük olan maddelerin çabuk ısınıp çabuk soğuduğunu, öz ısısı büyük olan maddelerin (su gibi) geç ısınıp geç soğuduğunu deney sorularında doğru eşleştirme."
+    ]
+  },
+  {
+    "code": "8.5.1",
+    "unitCode": "8.5",
+    "unitNumber": 5,
+    "unitTitle": "5. Ünite: Basit Makineler",
+    "unitColor": "indigo",
+    "title": "Makaralar ve Kaldıraçlar",
+    "summary": "Basit makinelerin temel prensipleri (İş ve enerjiden kazanç OLMAMASI), sabit ve hareketli makaralar, palangalar, kaldıraç çeşitleri (destek, yük ve kuvvetin konumuna göre), kuvvet kazancı ve yoldan kayıp bağıntıları.",
+    "kazanimlar": [
+      "F.8.5.1.1. Basit makinelerin sağladığı avantajları örnekler üzerinden açıklar.",
+      "F.8.5.1.2. Basit makinelerden yararlanarak günlük yaşamda iş kolaylığı sağlayacak bir düzenek tasarlar."
+    ],
+    "diagramType": "pulley-systems",
+    "misconceptions": [
+      "Basit makinelerin yapılan İŞTEN VEYA ENERJİDEN KAZANÇ sağladığı yanılgısı (MEB'in en büyük çeldiricisidir! Hiçbir basit makine işten veya enerjiden kazanç SAĞLAMAZ; sadece iş yapma kolaylığı sağlar. Kuvvetten kazanç varsa aynı oranda yoldan kayıp vardır).",
+      "Daha fazla parça veya makara içeren bir sistemin her zaman daha fazla kuvvet kazancı sağlayacağı yanılgısı (Kuvvet kazancı sistemin karmaşıklığına değil, yükü taşıyan ip sayısına ve kuvvet/yük kolu oranına bağlıdır).",
+      "Kaldıraçlarda destek noktasının daima yük ile kuvvetin tam ortasında olması gerektiği yanılgısı (Destek uçta olabilir [el arabası, cımbız], ortada olabilir [pense, tahterevalli]; kuvvet kazancı için kuvvet kolu yük kolundan uzun olmalıdır)."
+    ],
+    "traps": [
+      "Sabit makarada kuvvet kazancı olmadığını, sadece kuvvetin yönünü değiştirerek iş kolaylığı sağladığını; hareketli makarada ise 2 kat kuvvet kazancı olup ipin 2 kat fazla çekildiğini unutma.",
+      "Yükün ortada olduğu kaldıraçlarda (el arabası, ceviz kıracağı) daima kuvvet kazancı olduğunu; kuvvetin ortada olduğu kaldıraçlarda (cımbız, maşa) yoldan kazanç, kuvvetten kayıp olduğunu hatırlama."
+    ]
+  },
+  {
+    "code": "8.5.2",
+    "unitCode": "8.5",
+    "unitNumber": 5,
+    "unitTitle": "5. Ünite: Basit Makineler",
+    "unitColor": "indigo",
+    "title": "Eğik Düzlem, Çıkrık, Dişli Çarklar ve Kasnaklar",
+    "summary": "Eğik düzlemde kuvvet kazancı bağıntısı, çıkrık sistemlerinde kuvvet ve yük kolu oranları, vidanın eğik düzlem ilkesi, eş merkezli ve farklı merkezli dişli çarklar ile kasnaklarda dönme yönü ve tur sayısı hesapları.",
+    "kazanimlar": [
+      "F.8.5.1.1. Basit makinelerin sağladığı avantajları örnekler üzerinden açıklar.",
+      "F.8.5.1.2. Çıkrık, eğik düzlem ve dişli çark düzeneklerini analiz eder."
+    ],
+    "diagramType": "pulley-systems",
+    "misconceptions": [
+      "Eğik düzlemin yer ile yaptığı açı (eğim) sabitken boyu uzatıldığında uygulanması gereken en küçük kuvvetin değişeceği yanılgısı (Eğim açısı aynı kaldığı sürece yükü çıkarmak için gereken en küçük kuvvet AYNI KALIR; kuvveti azaltmak için eğim açısını küçültmek/boyu uzatıp yüksekliği sabit tutmak gerekir).",
+      "Çıkrıkta her zaman kuvvetten kayıp olabileceği yanılgısı (Kuvvetin uygulandığı çevirme kolunun yarıçapı R daima ipin sarıldığı silindirin yarıçapı r'den büyük tasarlandığı için çıkrıkta DAİMA KUVVETTEN KAZANÇ vardır).",
+      "Eş merkezli (merkezleri perçinli) dişlilerin veya kasnakların farklı sayıda tur atabileceği yanılgısı (Merkezleri perçinli çarkların dönme yönü ve tur sayıları BİRBİRİNE EŞİTTİR)."
+    ],
+    "traps": [
+      "Birbirine temas eden dişli çarkların ve çapraz bağlı kasnakların zıt yönde döndüğünü; diş sayısı fazla olan çarkın daha az tur attığını (ters orantı) hesaplama.",
+      "Tornavida, musluk başı, direksiyon, bisiklet pedalı ve kahve değirmeninin günlük hayattaki çıkrık modelleri olduğunu ayırt etme."
+    ]
+  },
+  {
+    "code": "8.6.1",
+    "unitCode": "8.6",
+    "unitNumber": 6,
+    "unitTitle": "6. Ünite: Enerji Dönüşümleri ve Çevre Bilimi",
+    "unitColor": "teal",
+    "title": "Besin Zinciri, Enerji Akışı ve Ekoloji Piramidi",
+    "summary": "Üreticiler, tüketiciler ve ayrıştırıcılar, besin ağı ilişkileri, ekoloji piramidinde aşağıdan yukarıya değişimler (%10 enerji aktarım kuralı, biyokütle azalması, biyolojik birikim artışı).",
+    "kazanimlar": [
+      "F.8.6.1.1. Besin zincirindeki üretici, tüketici, ayrıştırıcı ilişkisini açıklar.",
+      "F.8.6.1.2. Ekoloji piramidindeki enerji aktarımını değerlendirir."
+    ],
+    "diagramType": "roller-coaster-energy",
+    "misconceptions": [
+      "Ekoloji piramidinde yukarı doğru çıkıldıkça enerjinin arttığı veya değişmediği yanılgısı (Her basamakta enerjinin yaklaşık %90'ı canlının yaşamsal faaliyetlerinde harcanır veya ısı olarak çevreye yayılır; sadece %10'u bir üst basamağa aktarılır).",
+      "Ayrıştırıcıların (mantarlar ve bakteriler) sadece en üst basamakta bulunduğu veya besin piramidinin bir parçası olmadığı yanılgısı (Ayrıştırıcılar piramidin TÜM BASAMAKLARINDA yer alır; ölü organik atıkları inorganik maddelere çevirerek üreticilere sunarlar).",
+      "Ayrıştırıcıların maddeleri 'yok ettiği' yanılgısı (Ayrıştırıcılar yok edici değil geri dönüştürücüdür; madde döngülerinin kilit taşıdırlar)."
+    ],
+    "traps": [
+      "Piramitte yukarı çıkıldıkça Aktarılan Enerjinin, Biyokütlenin ve Birey Sayısının AZALDIĞINI; buna karşılık Biyolojik Birikimin (dokularda biriken zehirli kimyasal miktarının) ARTTIĞINI karıştırma.",
+      "Besin ağında bir canlı türünün sayısındaki azalmanın onunla beslenen ve onun beslendiği diğer tüm canlıları kademeli olarak etkilediğini zincirleme analiz etme."
+    ]
+  },
+  {
+    "code": "8.6.2",
+    "unitCode": "8.6",
+    "unitNumber": 6,
+    "unitTitle": "6. Ünite: Enerji Dönüşümleri ve Çevre Bilimi",
+    "unitColor": "teal",
+    "title": "Fotosentez, Hücresel Solunum ve Madde Döngüleri",
+    "summary": "Fotosentez denklemi (Karbondioksit + Su + Işık -> Glikoz + Oksijen), fotosentez hızına etki eden faktörler (Işık rengi, CO2, su, sıcaklık), hücresel solunum (oksijenli ve oksijensiz fermantasyon), karbon, su ve azot döngüleri.",
+    "kazanimlar": [
+      "F.8.6.2.1. Fotosentezin canlılar için önemini açıklar.",
+      "F.8.6.2.2. Fotosentez hızını etkileyen faktörleri değerlendirir.",
+      "F.8.6.3.1. Canlılarda solunumun önemini açıklar."
+    ],
+    "diagramType": "roller-coaster-energy",
+    "misconceptions": [
+      "Bitkilerin sadece gündüz fotosentez, gece ise solunum yaptığı yanılgısı (Bitkiler de dahil olmak üzere canlı hücreler GECE VE GÜNDÜZ 24 SAAT KESİNTİSİZ SOLUNUM YAPAR; fotosentez ise sadece ışıklı ortamda gerçekleşir).",
+      "Yeşil bitkilerin en hızlı yeşil ışıkta fotosentez yaptığı yanılgısı (Klorofil yeşil ışığın çoğunu yansıttığı için bitkiler yeşil görünür; bu yüzden en yavaş YEŞİL ışıkta, en hızlı MOR/MAVİ ve KIRMIZI ışıkta fotosentez yaparlar!).",
+      "Bitkilerin atmosferdeki serbest azotu doğrudan yapraklarıyla alıp kullandığı yanılgısı (Bitkiler gaz halindeki azotu doğrudan kullanamaz; baklagillerin kökündeki azot bağlayıcı bakterilerin azotu toprağa bağlaması gerekir)."
+    ],
+    "traps": [
+      "Fotosentez yapan bir bitkinin kapalı cam fanustaki karbondioksit miktarını azalttığını, oksijen miktarını artırdığını ve kendi kuru kütlesini (biyokütlesini) artırdığını unutma.",
+      "Kireç suyunun karbondioksit ayıracı olduğunu ve ortamda CO2 gazı oluşursa kireç suyunun bulanacağını deney sorularında doğru yorumlama."
+    ]
+  },
+  {
+    "code": "8.7.1",
+    "unitCode": "8.7",
+    "unitNumber": 7,
+    "unitTitle": "7. Ünite: Elektrik Yükleri ve Elektrik Enerjisi",
+    "unitColor": "rose",
+    "title": "Elektrik Yükleri, Elektriklenme ve Elektroskop",
+    "summary": "Pozitif, negatif ve nötr cisim tanımları, protonların çekirdekte sabit olup yalnız elektronların hareket etmesi, sürtünme, dokunma ve etki ile elektriklenme kuralları, elektroskop ile yük tayini.",
+    "kazanimlar": [
+      "F.8.7.1.1. Elektrik yüklerini sınıflandırarak aynı ve farklı cins yüklerin birbirine etkisini açıklar.",
+      "F.8.7.1.2. Elektriklenme çeşitlerini fark eder.",
+      "F.8.7.2.1. Elektroskopun çalışma prensibini açıklar."
+    ],
+    "diagramType": "electric-circuit",
+    "misconceptions": [
+      "Nötr cisimlerin içerisinde hiç elektrik yükü bulunmadığı yanılgısı (Nötr bir cisimde pozitif (+) ve negatif (-) yük sayıları BİRBİRİNE EŞİTTİR; 'yüksüz' demek yük yok demek değil, net yük sıfır demektir).",
+      "Elektriklenme sırasında pozitif yüklerin (protonların) bir cisimden diğerine aktığı yanılgısı (Pozitif yükler atom çekirdeğinde sabittir ve ASLA hareket etmez; hareket eden ve cisimler arasında alınıp verilen yalnızca NEGATİF ELEKTRONLARDIR!).",
+      "Birbirini çeken iki cismin kesinlikle zıt yüklü olduğu yanılgısı (Yüklü bir cisim [ister + ister - olsun], nötr ve hafif bir iletken cismi de kendine doğru çeker; iki cisim birbirini itiyorsa kesin aynı yüklüdür, fakat çekiyorsa biri nötr olabilir!)."
+    ],
+    "traps": [
+      "Sürtünme ile elektriklenen iki yalıtkan cismin mutlaka eşit miktarda ve ZIT işaretle yüklendiğini (Örn: Ebonit plastik çubuk (-) olurken yün kumaş (+) olur; cam çubuk (+) olurken ipek kumaş (-) olur) unutma.",
+      "Dokunma ile elektriklenmede iletken cisimlerin son yüklerinin işaretinin MUTLAKA AYNI olduğunu (ikisi de +, ikisi de - veya ikisi de nötr) ve toplam yükün korunduğunu hatırla."
+    ]
+  },
+  {
+    "code": "8.7.2",
+    "unitCode": "8.7",
+    "unitNumber": 7,
+    "unitTitle": "7. Ünite: Elektrik Yükleri ve Elektrik Enerjisi",
+    "unitColor": "rose",
+    "title": "Topraklama ve Elektrik Enerjisinin Dönüşümü",
+    "summary": "Topraklama mekanizması ve elektron transfer yönü, elektrik enerjisinin ısı, ışık ve hareket enerjisine dönüşümü, elektrik motoru ve jeneratör çalışma ilkeleri, sigortalar ve elektrik güvenliği.",
+    "kazanimlar": [
+      "F.8.7.2.2. Topraklamanın önemini açıklar.",
+      "F.8.7.3.1. Elektrik enerjisinin ısı ve ışık enerjisine dönüşümünü inceler.",
+      "F.8.7.3.2. Elektrik enerjisinin hareket enerjisine, hareket enerjisinin elektrik enerjisine dönüşümünü kavrar."
+    ],
+    "diagramType": "electric-circuit",
+    "misconceptions": [
+      "Topraklanan pozitif yüklü bir cisimden toprağa pozitif yük aktığı yanılgısı (Pozitif yükler hareket etmez; pozitif cisim toprağa bağlandığında TOPRAKTAN CİSME elektron akar ve cismi nötrler; negatif cisim toprağa bağlandığında ise cisimden toprağa elektron akar).",
+      "Elektrik enerjisinin santrallerde hiçlikten yoktan var edildiği yanılgısı (Enerji yoktan var edilemez; suyun, rüzgârın veya buharın hareket enerjisi jeneratörler yardımıyla elektrik enerjisine dönüştürülür).",
+      "Elektrik motoru ile jeneratörün aynı enerji dönüşümünü yaptığı yanılgısı (Elektrik motoru elektrik enerjisini HAREKET enerjisine dönüştürürken; jeneratör hareket enerjisini ELEKTRİK enerjisine dönüştürür)."
+    ],
+    "traps": [
+      "Aşırı akım geçtiğinde eriyerek devreyi kesen sigortaların devrenin güvenliği için yangın ve arızaları önleyen hayati bir eleman olduğunu unutma.",
+      "Yüksek gerilim hatları, paratoner (yıldırımsavar) ve tankerlerdeki zincirlerin statik elektriği toprağa ileterek patlama riskini önlediğini kavrama."
+    ]
+  }
+]

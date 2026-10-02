@@ -1,0 +1,360 @@
+7.ÜNİTE: Elektrik Yükleri ve
+Elektrik Enerjisi
+1.MEBİ LGS Konu Özeti
+2.Kavram Yanılgıları
+3.Çeldiriciler
+4.Başucu Notları
+8.SINIF
+19 sayfa
+dolu dolu
+
+-- 1 of 19 --
+
+LGS	LGS	LGS	LGS	LGS	LGS	LGS	LGS	LGS	LGS	LGS	LGS
+MEBİ KONU
+ÖZETLERİELEKTRİK YÜKLERİ VE ELEKTRİKLENME
+A. ELEKTRİK YÜKLERİ
+Görsel 1: Atomun yapısı
+Maddeyi oluşturan ve maddenin tüm kimyasal özelliklerine sahip olan en
+küçük parçacığa atom adı verilir. Atomlar kendilerinden daha küçük
+parçacıkların bir arada bulunmasıyla oluşmuşlardır. Bu parçacıklara atom altı
+parçacıklar adı verilir.
+Atom altı parçacıklar;proton,nötron ve elektronlardır. Proton venötronlar
+atomun çekirdeğinde yer alırken, elektronlar atomun katmanlarında yer alır.
+Doğada pozitif ve negatif olmak üzere iki cins elektrik yükü vardır.
+Atomların çekirdeğinde bulunan nötronlar yüksüz taneciklerdir ve
+maddelerin elektriksel yüküne etkileri yoktur.
+Protonlar, pozitif; çekirdeğin etrafında bulunan elektronlar ise negatif yüklüdür. Bu yüzden atomun
+elektriksel yükünü proton ve elektron sayıları belirler. Negatif ve pozitif yük sayısı eşit olan atomlara nötr
+atom adı verilir. Eğer nötr bir atom elektron alırsa negatif yüklü, elektron kaybederse pozitif yüklü olur.
+Pozitif yüklü atom 	Negatif yüklü atom 	Nötr atom
+Yüklenmiş cisimler birbirleri ile itme ve çekme etkileşiminde bulunurlar. Aynı yüke sahip cisimler
+birbirlerini iterken, farklı yüklere sahip cisimler birbirlerini çekerler.
+Örneğin, artı yük ile yüklenmiş bir cisim karşısına konulan artı yük ile yüklenmiş bir cismi iterken, eksi yük ile
+yüklenmiş bir cismi çeker. Aynı şekilde eksi yük ile yüklenmiş bir cisim eksi yük ile yüklenmiş diğer bir cismi
+iterken, artı yük ile yüklenmiş bir cismi çeker. Ayrıca yükün cinsi ne olursa olsun, yüklü cisimler nötr cisimlere
+yaklaştırıldığında, nötr cisim üzerindeki yük dizilimi değişir ve yüklü cisim nötr cismi zayıf da olsa çeker.
+
+-- 2 of 19 --
+
+FEN BİLİMLERİ	MEBİ KONU ÖZETLERİ
+Yüklü Cisimlerin Birbirleri ile Etkileşmesi
+Zıt yüklü cisimler
+birbirini çeker.
+Aynı yüklü
+cisimler
+birbirini iter.
+Yüklü cisimler
+nötr cisimleri
+çekerler.
+B. ELEKTRİKLENME
+Cisimlerin sahip oldukları toplam yük miktarı ve yüklerin madde içindeki dağılımı değişebilir. Cisimlerin
+yük miktarının ya da yük dağılımının değişmesi olayına elektriklenme denir. Saçlarımızı tararken tarak
+tarafından çekilmesi, yün kazağımızı çıkarırken duyduğumuz çıtırtılar ve gördüğümüz ışıltılar, bazen
+arkadaşımıza dokunduğumuzda çarpılmamız günlük hayatımızda elektriklenmeye örneklerdir. Cisimler,
+yüklü bir cisme sürtünerek, dokundurularak ya da etki ile elektriklenebilir.
+Sürtünme ile Elektriklenme
+Sürtünme ile elektriklenmede cisimler yük alış verişini birbirlerine temas etme ile yani dokunma ile gerçek-
+leştirir. Sürtünme ile elektriklenmenin dokunma ile elektriklenmeden farkı ise cisimlerin sürtünme sırasında
+birbirine çok yaklaşması ve sürtünen cisimlerin elektron almaya ve vermeye potansiyeli olmasıdır. Dokunma
+ile elektriklenmede yük akışı için en az bir cismin yüklü olması gerekirken burada iki cisim de başta nötr
+olabilir. Fakat bu cisimler elektron almaya veya vermeye elverişli olduklarından elektron geçişi ile sürtünme
+sonrasında bir cisim artı yüklü, diğer cisim ise eksi yüklü olur. Sürtünme ile elektriklenen iki cisim birbirlerine
+zıt yükle yüklenir.
+Görsel 2: Plastik çubuğun
+yün kumaşa sürtülmesi
+Sürtünme ile elektriklenmede en çok karşılaşılan
+örneklerden biri plastik ve yün kumaşın sürtünmesi ile
+plastiğin ve yün kumaşın yüklenmesidir. Bu işlem
+sırasında yün kumaş elektron vermeye, plastik çubuk ise
+elektron almaya isteklidir. Sürtünme sonrası yün
+kumaştan plastik çubuğa eksi yükler geçer ve yün kumaş
+artı, plastik çubuk ise eksi yük ile yüklenmiş olur.
+Sürtünmeden önce yük durumu 	Sürtünmeden sonra yük durumu
+
+-- 3 of 19 --
+
+FEN BİLİMLERİ	MEBİ KONU ÖZETLERİ
+Dokunma (Temas) ile Elektriklenme
+Yüklü bir cisim, nötr bir cisme dokundurulduğunda, cisimlerin yük miktarına göre aralarında bir elektron alış
+verişi gerçekleşebilir. Birbirine dokunan cisimlerin elektrik yükünün değişmesi durumuna dokunma ya da
+temas ile elektriklenme denir. Bu tür elektriklenmede yük miktarı kalıcı olarak değişir.
+Dokundurulmadan önceki yük durumu 	Dokundurulmadan sonraki yük durumu
+Görsel 3: Cam
+çubuğun ipek
+kumaşa sürtülmesi
+Sürtünme ile elektriklenmede bir diğer sık karşılaşılan
+örnek de cam ve ipek kumaşın sürtünmesi ile cam
+çubuğun ve ipek kumaşın yüklenmesidir. Bu işlem
+sırasında ipek kumaş elektron almaya, cam çubuk ise
+elektron vermeye isteklidir. Sürtünme sonrası cam
+çubuktan ipek kumaşa eksi yükler geçer ve ipek kumaş
+eksi, cam çubuk ise artı yük ile yüklenmiş olur.
+Dokunma ile elektriklenmede birbirlerine dokundurulan iletken cisimlerin toplam pozitif yük sayısı toplam ne-
+gatif yük sayısından fazlaysa, cisimler birbirlerinden ayrıldığında her iki iletken cisim de pozitif elektrik yükü ile
+yüklenir.
+Eğer toplam negatif yük sayısı toplam pozitif yük sayısından fazlaysa, iletken cisimler birbirlerinden ayrıldığında
+her iki iletken cisim de negatif elektrik yükü ile yüklenir.
+Birbirlerinedokundurulan iletken cisimlerin, toplam pozitif ve negatif yük sayıları eşit ise, iletken cisimler
+birbirlerinden ayrıldığında her ikisi de nötrdür.
+Dokundurulmadan önceki yük durumu 	Dokundurulmadan sonraki yük durumu
+Etki (Tesir) ile Elektriklenme
+Yüklü bir cisim, nötr bir cisme dokunmayacak kadar yaklaştırıldığında yüklü cismin nötr cismin yük dağılımını
+geçici olarak değiştirmesine etki ya da tesir ile elektriklenme denir. Örneğin, pozitif yüklü bir cismi nötr bitişik
+iki cisme yaklaştıralım.
+Yüklü cisim yaklaştırıldığı nötr cisimlerin üzerindeki yük
+dağılımını değiştirir. Bu değişim yüklü cismin yüküne bağlı
+olarak değişir. Yüklü cisim eksi yüklü ise nötr cisimlerdeki eksi
+yükler itilerek en uzak yerde top- lanırlar. Yük dağılımı ve yüklü
+cisim bu konumda iken birbirine bitişik iki cismi ayıralım.
+
+-- 4 of 19 --
+
+FEN BİLİMLERİ	MEBİ KONU ÖZETLERİ
+Cisimler birbirlerinden ayrıldıktan sonra biri artı biri eksi yükü
+olur. Artık yaklaştırılan yüklü cisim uzaklaştırılsa bile bu iki
+cisim artı ve eksi yüklü olarak kalır. Yaklaştırılan yüklü cisim
+kendi yükü olan yükleri kendinden uzağa iterken zıt yükleri
+kendine doğru çeker. Bu işlem sonucunda cisimler başka bir
+cismin etkisi ile elektriklenmiş olur.
+Fabrika bacalarından çıkan dumandaki toz ve
+küller elektriklenme sayesinde uzaklaştırılır.
+Otomobil ve beyaz eşyaların boyanmasında da
+elektriklenme olayından yararlanılır.
+Elektriklenmenin Teknolojide Kullanımı
+Günlük hayatta elektriklenme gelişen teknolojinin de yardımıyla birçok alanda kullanılmaktadır.
+Parmak izinin alınmasında elektriklenmeden
+yararlanılır.
+Fotokopi makineleri ve lazer yazıcılarda,
+mürekkebin kâğıda yazılabilmesinde elektriklenme
+olayından yararlanılır.
+Elektrik yükü, bir maddedeki atomların yüklerinin toplamı şeklinde tanımlanabilir. Artı ile gösterilen pozitif ve
+eksi ile gösterilen negatif olmak üzere iki tür elektriksel yük vardır. Nötr bir maddeyi oluşturan atomlar, çeşitli
+etkilerle elektron kaybettiğinde pozitif yükle yüklenir. Aynı şekilde nötr atomlar, elektron kazandığında negatif
+yüklü duruma geçer.
+
+-- 5 of 19 --
+
+FEN BİLİMLERİ	MEBİ KONU ÖZETLERİ
+Negatif (-) yük sayısı pozitif (+) yük sayısından fazla olan cisimler, negatif (-) yüklü cisim
+olarak adlandırılır. Negatif yüklü cisimler, cisimlerin negatif (-) yük alması sonucu oluşur.
+Üzerindeki pozitif (+) yük sayısı negatif (-) yük sayısından fazla olan cisimler, pozitif (+)
+yüklü cisim olarak adlandırılır. Pozitif yüklü cisimler, cisimlerin negatif (-) yük kaybetmesi
+sonucu oluşur.
+Pozitif Yüklü Cisim
+Negatif Yüklü Cisim
+Bir cisimdeki pozitif (+) yüklerin sayısı ile negatif (-) yüklerin sayısı birbirine eşitse o
+cisme elektriksel yük bakımından nötr cisim denir. Nötr cisimler yüksüz cisim değildir.
+Nötr Cisim
+FEN BİLİMLERİ
+ELEKTROSKOP
+Cisimlerin yüklü olup olmadıklarını, yüklü ise yükün cinsini belirlemeye yarayan aletlere elektroskop denir. İyi
+iletken metal bir çubuğun bir ucunda metal topuz veya levha, diğer ucunda ise hafif ve kolay hareket edebilen altın
+veya alüminyum yapraklar bulunur. Bu sistem, yaprakların hareketini daha net görebilmek ve dış etkenlerden
+korumak için genellikle cam bir kap içine yerleştirilir. Elektroskop yük- süzken yapraklar kapalıdır. Yüklendiğinde
+ise aynı cins yükler birbirini iteceğinden yapraklar açılır. Nötr bir elektroskopa yüklü bir cisim yaklaştırıldığında
+yapraklar açılır.
+Elektroskopun Yapısı
+Elektrik yükü taşıyan bir cismin toprağa bağlanarak yüksüz hâle getirilmesi işlemine topraklama adı verilir.
+Topraklama olayında yüklü cisimden toprağa veya topraktan yüklü cisme doğru negatif (-) yük (elektron)
+akışı olur. Topraklama yapılırken cisim iletken tel ile toprağa bağlanır.
+TOPRAKLAMA
+
+-- 6 of 19 --
+
+FEN BİLİMLERİ	MEBİ KONU ÖZETLERİ
+Negatif yüklü bir cismi iletken bir telle toprağa bağladığımız zaman, üzerindeki fazla elektronlar toprağa
+aktarılır bu aktarım negatif yük ile pozitif yük sayısı eşit olana kadar devam eder ve cisim nötr olur.
+•Eksi (Negatif) Yüklü Cismin Topraklanması
+•Pozitif (Artı) Yüklü Cismin Topraklanması
+Pozitif yüklü bir cismi iletken bir telle toprağa bağladığımız zaman, cisim nötr olana kadar topraktan elektron
+alır yani negatif yük ile pozitif yük sayısı eşit olana kadar devam eder ve cisim nötr olur.
+Her evde ve iş yerinde bulunan prizler, elektriği kullanmamızı sağlayan önemli
+devre elemanlarıdır. Topraklı priz, normal prizlerden farklı olarak içerisinde
+bulunan topraklama ünitesi sayesinde elekt- rik kaçaklarını önler. Dış yüzeyi
+metal olan elektrikli aletlerde mutlaka topraklı priz kullanılmalıdır. Elektriğin
+transferinde kullanılan prizlerde kullanıcı güvenliği ön planda tutulmak
+zorundadır.
+Ayrıca, benzin istasyonlarındaki pompalar, gaz ve petrol tankerleri, kimya sektöründe kullanılan makineler
+yanma ve patlama tehlikesinden dolayı topraklanmalıdır.
+Topraklamanın amacı, kullananların can güvenliğini sağlamak ve cihazların zarar görmesini önlemektir.
+Paratoner (Yıldırımsavar), yüksek binalar, kuleler gibi yıldırım düşme ihtimali
+yüksek yapılara zarar gelmesini önlemek için kullanılan bir çeşit topraklama
+düzeneğidir. Genellikle binaların çatısına takılır. Bu sistem, yıldırım düştüğünde
+oluşan güçlü elektrik akımını güvenli bir şekilde toprağa iletir. Böylece bina ve
+içindekiler yıldırımın verebileceği zararlardan korunmuş olur.
+ELEKTROSKOP
+Paratoner
+Topraklı Priz
+
+-- 7 of 19 --
+
+FEN BİLİMLERİ	MEBİ KONU ÖZETLERİ
+ELEKTRİK ENERJİSİNİN DÖNÜŞÜMÜ
+Görsel 1: Sigorta Çeşitleri
+Elektrik Enerjisinin Isıya Dönüşmesi
+Elektrik akımı iletken bir tel üzerinden geçerken telin direnci ile karşılaşır. Elektrik akımını oluşturan elektronlar iletken
+üzerinde hareket ederken iletkenin atom ve molekülleri ile etkileşerek enerjilerini aktarır. Bu sayede, atom ve moleküllerin
+titreşimleri artar ve ısı açığa çıkar. Bu şekilde elektrik enerjisi ısıya dönüşmüş olur.
+Saç kurutma makinesi, ütü, tost makinesi, su ısıtıcısı gibi elektrikli ev aletleri ile lehim ve kaynak makineleri gibi iş
+makineleri çalıştıklarında içlerinde bulunan iletken metaller, elektrik enerjisinin ısıya dönüşmesi ile etrafa ısı verir.
+Sigorta
+Elektrik enerjisinin ısıya dönüşmesi bazı tehlikelere de sebep olabilmektedir. Bu sebeple, hem kendimizi hem de elektrikle
+çalışan aletlerimizi korumak için sigorta kullanılmaktadır. Bir elektrik devresinde bazı devre elemanlarının görevini
+yapmaması ya da devreye dışarıdan etki olduğunda, devreden geçen akım yükselebilir. Sigorta, devreden istenenden daha
+yüksek miktarda akım geçtiğinde, devre akımını keserek güvenliği sağlar.
+Telli sigorta ve manyetik sigorta bazı sigorta modellerine örnek olarak verilebilir.
+Elektrik Enerjisinin Işığa Dönüşmesi
+Elektrik devresinde iletken üzerinden akımın geçmesi ile elektrik enerjisinin bir kısmı ısıya dönüşür. Açığa
+çıkan ısı enerjisi ile iletken tel ısınarak bir süre sonra akkor hâline gelir ve ışık yaymaya başlar. Bu şekilde
+elektrik enerjisi ışığa dönüşür. Örneğin ampul içerisinde erime sıcaklığı çok yüksek, genellikle tungstenden
+yapılan filaman adı verilen ince bir tel bulunur. Elektrik akımı filaman üzerinden geçerken elektronlar telin
+atomları ile çarpışır ve daha fazla titreşmelerine neden olur. Atomları daha fazla titreşmeye başlayan
+filaman tel yaklaşık 2000-3000 °C’a kadar ısınır. Bu sıcaklığa kadar ısınan filaman, ısı ile birlikte ışık da
+yayar. Ampul patladığında ise içerisindeki filaman tel kopar ve tel üzerinden akım geçmediği için ampul ışık
+vermez.
+Elektrik Enerjisinin Hareket Enerjisine Dönüşmesi
+Elektrik motorları, elektrik enerjisini hareket enerjisine dönüştüren araçlardır. Bu araçlarda elektrik akımı ve
+manyetik alanın etkileşimi ile bir kuvvet oluşur. Bu kuvvetin etkisi ile de hareket oluşur. Elektrik motorları günlük
+yaşamda birçok yerde kullanılmaktadır. Örneğin, saç kurutma makinesi, elektrikli süpürgeler, elektrikli bisiklet,
+asansör gibi birçok araçta elektrik motoru kullanılır.
+Güç Santralleri
+Elektrik enerjisi; güneş enerjisi, hareket enerjisi ve kimyasal enerji gibi enerji çeşitlerinden dönüştürülerek elde
+edilir. Evlerde kullanılan küçük cihazlar için pil, güneş paneli veya jeneratör gibi araçlar kullanılarak bu dönüşüm
+sağlanabilir. Fakat, daha yaygın olarak kullandığımız şehir elektriği daha büyük sistemler tarafından üretilir.
+Günlük yaşamda, şehirlerde kullandığımız elektrik enerjisi, elektrik santrallerinde üretilmektedir. Elektrik
+santrallerinde, enerji türlerinin bazı işlemlerle birbirine dönüşümleri kullanılarak elektrik enerjisi üretilir. Bu
+santrallerden yaygın olarak kullanılanlar; termik santral, doğal gaz santrali, hidroelektrik santral, jeotermal
+santral, rüzgâr santrali ve nükleer santraldir. Santralin türüne göre birbirine dönüşen enerji türleri ve dönüştür-
+me işlemleri değişir.
+
+-- 8 of 19 --
+
+FEN BİLİMLERİ	MEBİ KONU ÖZETLERİ
+Termik santrallerde ve doğal gaz santrallerinde üç enerji dönüşümü sonrasında elektrik enerjisi elde edilir. Bu
+dönüşümler sırası ile şu şekildedir: İlk olarak kömür ya da gazın yanmasıyla kimyasal enerji ısıya dönüştürülür.
+Daha sonra, ısı ile açığa çıkan su buharı türbinleri döndürür ve ısı, hareket enerjisine dönüştürülür. Manyetik alan
+içerisinde türbinlerin dönmesi ile de hareket enerjisi elektrik enerjisine dönüştürülür.
+Nükleer santrallerde de benzer bir yöntem kullanılır. Fakatfarklı olarak burada elde edilen ısı, nükleer reaksi-
+yonlardan açığa çıkar.
+Hidroelektrik santrallerde belli bir potansiyel enerjiye sahip suyun, potansiyel enerjisi ilk olarak hareket
+enerjisine dönüştürülür. Daha sonra bir yerden belirli hızlarda hareket eden yada düşen su, hareket enerjisini
+elektrik enerjisine dönüştüren türbinlere çarpar ve türbinleri döndürür. Bu şekilde elektrik enerjisi elde edilir.
+Jeotermal enerji santrallerinde, yer altında çıkan sıcak buharların türbinleri döndürmesi ile ilk olarak ısı enerjisi
+hareket enerjisine, daha sonra hareket enerjisi elektrik enerjisine dönüşür.
+Enerji Tasarrufu
+Rüzgâr santrallerinde rüzgârın etkisi ile dönen pervaneler ile hareket enerjisi elektrik enerjisine dönüştürülür.
+Günlük yaşamda kullandığımız hemen hemen her araç elektrik enerjisi ile çalışmaktadır. Bu sebeple elektrik
+enerjisi, kullanım sıklığından dolayı günümüzde vazgeçilmez bir enerjidir. Ülkemizde elektrik enerjisi elde ede-
+bilmek için kurulan santrallerin çoğu doğal gaz ve kömür gibi sınırlı miktarda kaynağa sahip; bir başka deyişle,
+tükenen kaynaklardan elde edildiğinden dolayı elektrik enerjisinin gereksiz kullanımına dikkat etmek gerekir.
+Ülkemizde tüketilen elektrik enerjisinin yaklaşık %50’si sanayiye, %35’i ısınma, temizlik ve aydınlanma gibi
+günlük kullanımlara, %5’i tarıma, geri kalan %10’u da diğer çeşitli amaçlar için kullanılır. Günlük yaşamda kul-
+lanılan elektrik enerjisi bu kadar yüksek bir oranda olmasından dolayı, yapılabilecek tasarrufların kaynakları
+daha verimli ve daha uzun süre kullanabilmeye etkisi olur. Bu nedenle, gereksiz yere kullanılan fazla aydınlat-
+malara dikkat etmek, daha az tüketim yapan aydınlatmaları tercih etmek, çalışmayan elektrikli aletlerin fişinin
+prize takılı bırakmamak, izlenmeyen televizyonların ya da monitörleri açık bırakmamak ve enerji tüketen ev
+eşyalarını az enerji tüketenlerden seçmek gibi birçok yöntemle enerji tasarrufu için önemli katkı sağlarız.
+
+-- 9 of 19 --
+
+KAVRAM YANILGILARI	KAVRAM YANILGILARI
+mgfenakademisi
+Açıklama
+Kavram Yanılgısı
+Düzeltme Stratejileri
+Bu Kavram Yanılgısı Neden Oluşur
+Nötr cisimlerin içerisinde hiç elektrik yükü bulunmaz.
+Nötr bir cisim, içerisinde pozitif (+) ve negatif (-) yüklerin eşit sayıda bulunduğu cisimdir. 'Yüksüz'
+ifadesi yüklerin toplamının sıfır olması demektir, yükün var olmadığı anlamına gelmez.
+Öğrenciler 'nötr' kelimesini günlük dildeki 'boş' veya 'etkisiz' anlamıyla eşleştirirler. Matematikteki sıfır
+sayısının 'hiçlik' temsilini fiziksel yük miktarına genelleyebilirler.
+Eşit kollu bir terazinin her iki kefesinde de 5 kg yük varsa terazi dengededir (nötrdür). Bu, terazide ağırlık
+olmadığı anlamına gelmez.
+Açıklama
+Kavram Yanılgısı
+Düzeltme Stratejileri
+Bu Kavram Yanılgısı Neden Oluşur
+Enerji santralleri (termik, nükleer, rüzgar) elektriği hiçlikten yaratır veya yakıtın kendisini elektriğe
+dönüştürür.
+Öğrenciler jeneratörün iç çalışma prensibini bilmedikleri için santrali sihirli bir kutu gibi algılarlar.
+'Üretim' kelimesi yaratılış çağrışımı yapar.
+Elektrik enerjisi yoktan var edilemez, sadece başka bir enerji türünden (hareket, ısı, ışık) dönüştürülür. Çoğu
+santralde temel prensip, bir kaynağın (su, buhar, rüzgar) türbinleri döndürerek hareket enerjisini jeneratör
+aracılığıyla elektriğe çevirmesidir.
+Bisiklet Dinamosu tekerlek döndükçe nasıl ışık yaktığını göstererek hareketin elektriğe dönüşümünü, Enerji
+Akışını ısı -> Buhar -> Hareket -> Elektrik zincirini her santral tipi için ayrı ayrı düşünebiliriz..
+
+-- 10 of 19 --
+
+🎯 MEB'in Favori
+Çeldirici Teknikleri
+mgfenakademisi
+"Nötr Cismin Etkileşimi" Tuzağı:
+Elektroskop veya iletken kürelerin yaklaştırılma/dokundurulma sorularında iki
+cismin birbirini çektiğini gösterir. Öğrenci hemen "Bu cisimler kesinlikle zıt
+yüklüdür" der. Oysa yüklü bir cisim, nötr ve hafif bir plastik parçayı/cismi de kendine
+doğru çekebilir. İtme yoksa zıt yüklülük kesin değildir.
+Enerji Dönüşüm Yönü:
+Elektrik motoru, jeneratör ve lamba modelleri verir. Elektrik enerjisini hareket
+enerjisine dönüştüren araçla (elektrik motoru), hareket enerjisini elektrik enerjisine
+dönüştüren aracı (jeneratör) birbirine karıştırmanızı bekler.
+🔍 Hangi Soru Tarzında Ne Yapılmalı?
+Yatay ve Düşey Saptırıcı Levhalar:
+Negatif yüklü elektronların levhalar arasından geçerken sapma yönünü bulurken
+levhaların yük durumuna bakın. Elektron zıt yüklü (pozitif) levhaya doğru çekilir,
+aynı yüklü (negatif) levha tarafından ise itilir. Kutup yönlerini (+ / -) ekranda I, II, III,
+IV bölgeleriyle eşleştirirken koordinat gibi çizin.
+
+-- 11 of 19 --
+
+Sürtünme ile Elektriklenme
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 12 of 19 --
+
+Dokunma ile Elektriklenme
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 13 of 19 --
+
+Etki ile Elektriklenme
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 14 of 19 --
+
+Elektroskop
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 15 of 19 --
+
+Elektriklenme
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 16 of 19 --
+
+Topraklama
+Topraklama, yüklü bir cismin iletken bir hatla toprakla birleştirilerek “nötr" hale getirilmesi işlemidir. Bu işlemde temel kural şudur: Artı
+yükler asla hareket etmez, her zaman eksi yükler (elektronlar) yer değiştirir. Topraklama, cisimler üzerindeki fazla elektrik yükünün bir
+iletken aracılığıyla toprağa aktarılarak cismin nötr hale getirilmesidir. Bu işlem, elektrik kaçaklarını önleyerek hem canımızı korur hem de
+cihazlarımızın bozulmasını engelleyerek mal güvenliğimizi sağlar.
+.
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 17 of 19 --
+
+Topraklama
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 18 of 19 --
+
+mgfenakademisi
+Beğen
+Yorum yap
+Arkadaşına Gönder
+Takip Et
+Sonrası için Kaydet
+Tekrar paylaş
+
+-- 19 of 19 --
+

@@ -1,0 +1,527 @@
+2..ÜNİTE: DNA VE GENETİK KOD
+1.MEBİ LGS Konu Özeti
+2.Kavram Yanılgıları
+3.Çeldiriciler
+4.Başucu Notları
+8.SINIF
+25 sayfa
+dolu dolu
+
+-- 1 of 25 --
+
+LGS	LGS	LGS	LGS	LGS	LGS	LGS	LGS	LGS	LGS	LGS	LGS
+Canlı Türü
+Köpek
+Soğan
+Eğrelti otu
+İnsan
+Denizyıldızı
+GüvercinGörsel 1: Kromozom, DNA, gen ve nükleotid
+Kromozom Sayısı (2n)
+78
+16
+500
+46
+94
+16
+Canlıların büyüklüğüyle ile kromozom sayısı arasında bir ilişki yoktur. Örneğin köpekten daha küçük olmasına rağmen
+denizyıldızının kromozom sayısı daha fazladır.
+Gelişmiş canlıların hücre çekirdeğinde ilkel canlıların
+sitoplazmasında, canlının kalıtsal özelliklerini taşıyan
+birimlerin bir arada olduğu yapı kromozomlardır.
+Kromozomlar, hücre bölünmesi sırasında oluşan yeni hücreye
+genetik materyal aktarılmasını sağlar.
+Bir türün sağlıklı bireylerinin vücut hücrelerinde aynı sayıda
+kromozom bulunur. Canlıların vücut hücrelerindeki
+kromozomların yarısı anneden (n) yarısı babadan (n) geldiği
+için (2n) ile ifade edilir.
+1
+KONU
+ÖZETİDNA VE GENETİK KODMEBİ KONU ÖZETLERİ
+Canlıların gelişmişlik düzeyi ile kromozom sayısı arasında hiçbir ilişki yoktur. Canlıların gelişmişlik düzeyleri,
+kromozomlar içerisinde şifrelenmiş kalıtsal özelliklerle belirlenir. Örneğin eğrelti otundan daha gelişmiş olmasına
+rağmen insanın kromozom sayısı eğrelti otunun kromozom sayısından daha azdır.
+Farklı canlı türlerinin kromozom sayısı aynı olabilir, ancak bu durum, özelliklerinin de benzer olduğu anlamına gelmez.
+Örneğin,soğan ve güvercin her ikisi de 16 kromozoma sahiptir ancak bu iki canlının fiziksel yapıları, davranışları ve
+özellikleri oldukça farklıdır.
+DNA
+Kromozomların yapısında bulunan ve hücrenin yaşamsal fonksiyonlarını kontrol eden birim DNA’dır.
+DNA, hücrenin yönetici molekülüdür. Çift iplikli sarmal bir yapıya sahipti
+DNA ismini yapısındaki Deoksiriboz şekerinden alır.
+DNA’NIN GÖREVLERİ
+Hücrenin yönetim ve denetim merkezidir. Hücre içinde beslenme, solunum, enerji üretimi, boşaltım gibi canlılık
+olaylarını kontrol eder.
+DNA’nın üzerinde göz rengi, saç rengi, kan grubu gibi canlıya ait kalıtsal bilgileri oluşturan, taşıyan ve nesilden
+nesile aktarılmasını sağlayan yapılar vardır.
+DNA hücre bölünmesi sırasında kendini eşleyerek miktarını iki katına çıkartır. Böylece hücrede aynı kalıtsal
+bilgileri taşıyan iki DNA molekülü oluşur.
+
+-- 2 of 25 --
+
+FEN BİLİMLERİMEBİ KONU ÖZETLERİ
+NÜKLEOTİD
+DNA, nükleotid adı verilen yapı birimlerinden oluşur. Bir nükleotidin yapısında fosfat, deoksiriboz şekeri ve organik baz
+bulunur. Nükleotidler, DNA’nın en küçük yapı birimleridir.
+DNA’nın yapısında yan yana gelerek DNA zincirini oluşturan küçük birimler nükleotidlerdir. Adenin (A) guanin
+(G), sitozin (C) ve timin (T) olmak üzere dört çeşit organik baz vardır.
+•
+•
+•
+Nükleotidler, yapısında bulunan organik baza göre isimlendirilir.
+Nükleotidler fosfat, şeker ve organik bazdan oluşur.
+Nükleotidin ismi bulundurduğu organik bazdan gelir. Örneğin adenin organik bazı bulunduran nükleo- tid,
+adenin nükleotidi olarak adlandırılır.
+Kalıtsal özelliklere etki eden yapılar arasındaki büyüklük ilişkisi “kromozom > DNA > gen > nükleotid” şeklindedir.
+Nükleotidlerin farklı sıralarda dizilmesi sonucu farklı DNA
+zincirleri meydana gelir.
+Bir DNA molekülünü oluşturan nükleotidler belirli bir kurala göre
+karşılıklı olarak dizilir.
+Bir zincirdeki adenin nükleotidi (A) her zaman karşı zincir- deki
+timin nükleotidiyle (T), guanin nükleotidi (G) ise sitozin
+nükleotidi (C) ile eşlenir.
+Görsel 2: DNA
+,
+DNA’NIN KENDİNİ EŞLEMESİ
+Görsel 3: DNA'nın Eşlenmesi
+Canlıların büyüyüp gelişmesi, yıpranan dokuların onarılması, bazı
+bir hücreli canlıların çoğalması için hücre- lerin bölünmesi gerekir.
+Hücre bölünmesi sonucu yeni hücreler oluşur. Kalıtsal bilgilerin
+yeni oluşan hücrelere aktarılması için hücre bölünmesi öncesinde
+DNA kendini eşleyerek kopyasını çıkartır.
+Eşleme sırasında ilk olarak DNA zincirindeki nükleotidler
+arasındaki bağlar kopar ve DNA’nın iki zinciri bir fermuar gibi
+açılır. Açılan zincirlerin karşısında yeni zincirlerin oluşabilmesi
+için sitoplazmada serbest hâlde bulunan nükleotidler çekirdeğe
+giriş yaparlar. Açılan zincirlerdeki uygun nükleotidler ile
+birleşirler ve yeni DNA zincirleri oluşur. Böylece aynı nükleotid
+dizilimine sahip iki DNA molekülü oluşur.
+DNA molekülü, kendini eşlemesi sırasında radyasyon ve kimyasal
+maddeler gibi çevresel faktörler nedeniyle hasar görebilir.
+Hücrenin kalıtsal materyalinin değişmeden nesilden nesile
+aktarılabilmesi için DNA hasarlarının giderilmesi gerekir. DNA,
+yapısında meydana gelen bu hasarların giderilmesi için çeşitli
+onarım mekanizmaları geliştirir. DNA'nın tek zincirinde meydana
+gelen hasar onarılırken her iki zincirde karşılıklı olarak meydana
+gelen hasar onarılamamaktadır.
+
+-- 3 of 25 --
+
+MEBİ KONU ÖZETLERİ	FEN BİLİMLERİ - LGS
+Görsel 1: Gregor Mendel
+KALITIM
+Canlılar arasında çeşitlilik gösteren, nesilden nesile aktarılabilen, bireylerin sahip olduğu niteliklerin her biri
+karakter olarak adlandırılır. İnsanlarda göz rengi, saç rengi, ten rengi, kan grubu gibi özellikler; bitkilerde çiçek
+rengi, tohum rengi, tohum şekli, meyve rengi gibi
+özellikler kalıtsal karakterlere örnek olarak verilebilir.
+Karakterleri belirleyen genlerin nesiller boyunca aktarılmasına kalıtım denir.
+Canlıların kalıtsal özelliklerinin ebeveynlerden yavru bireye nasıl aktarıldığını, bunun hangi durumlarda dış
+görünüşe yansıdığını veya
+yansımadığını inceleyen bilim dalına kalıtım bilimi (genetik) denir.
+Gregor Mendel (Gıregor Mendel), yaptığı çalışmalar ile kalıtımı açıklayan ilk bilim
+insanı olmuştur. Mendel, 19.yüzyılın ortalarında bezelye bitkisini kullanarak
+yaptığı çalışmalar sonucunda bugünkü genetik biliminin temelini atmıştır.
+Mendel, deneylerinde çok sayıda karaktere sahip olan, kolay yetiştirilen ve kısa
+sürede döl verebilen bezelye bitkisini kullanmıştır. Bezelyeleri seçmesinin başka
+sebebi ise bezelyelerin hem kendi kendilerine tozlaşabil- meleri hem de diğer
+bezelye bitkileri ile tozlaşabilmesidir.
+Kalıtımla ilgili temel kavramlar:
+Gen: DNA üzerinde kalıtsal özelliklerin şifrelendiği bölgelerdir.
+Genotip: Bir canlının belirli bir karakter bakımından taşıdığı genlerin tamamına genotip denir. Genler, eşeyli
+üreyen canlıların kromozomlarında çiftler hâlinde bulunur. Bir karakter üzerinde etkili olan, biri dişi, diğeri
+erkek atadan gelen gen çiftlerinin her birine alel denir. Canlıya ait bir karakterin genotipi gösterilirken biri
+anneden, diğeri babadan gelen genler aynı harfin büyüğü veya küçüğü ile (iki harfle) belirtilir. Örneğin AA,
+Aa, aa şeklinde gösterilir.
+Fenotip: Bir canlının yaş, çevresel etkenler ve genotip etkisiyle ortaya çıkan görünüşüne fenotip denir.
+Bezelyelerde çiçek renginin mor olması, tohumun zarf biçiminin şişkin ya da boğumlu olması fenotipe
+örnek olarak verilebilir.
+Baskın alel: KCanlılarda kalıtsal karakterleri belirleyen genler, çiftler hâlinde bulunur. Bu genlerden biri
+anneden, diğeri babadan yavruya aktarılır. Bir karakterin oluşumunda etkisini her zaman gösteren alele
+baskın alel denir. Baskın aleller A, B, C gibi büyük harflerle gösterilir.
+Çekinik alel: Bir karakterin oluşumunda etkisi gizli kalan ve yanında baskın alel bulunmadığında etkisini
+gösteren alele çekinik alel denir. Çekinik aleller a, b, c gibi baskın alelin gösterildiği harfin küçüğü ile
+gösterilir.
+Saf döl: Ata bireylerden gelen alel çiftinin ikisinin de baskın veya ikisinin de çekinik olması durumuna saf döl
+(homozigot-arı) denir. Saf döl, iki aynı harfle gösterilir (AA, aa gibi).
+Melez döl: Ata bireylerden gelen alel çiftinin birinin baskın, diğerinin çekinik olması durumuna melez döl
+(heterozigot) denir. Melez döl, bir büyük bir küçük harf ile gösterilir (Aa, Bb gibi).
+Bezelyelerde baskın ve çekinik özellikler aşağıdaki gibidir:
+
+-- 4 of 25 --
+
+MEBİ KONU ÖZETLERİ	FEN BİLİMLERİ - LGS
+TEK KARAKTER ÇAPRAZLAMALARI
+Eşeyli üreyen canlılarda dişi ile erkek üreme hücrelerinin birleşmesi ve bunun sonucunda yavru
+bireyler elde edilmesine çaprazlama denir. Mendel, bezelye bitkilerinde yaptığı çalışmalarda
+bezelyeleri tek karakter bakımından çaprazlamış; elde ettiği sonuçları kaydetmiştir.
+
+-- 5 of 25 --
+
+MEBİ KONU ÖZETLERİ	FEN BİLİMLERİ - LGS
+İNSANLARDA CİNSİYET KROMOZOMU
+İnsanlarda kromozom, vücut ve eşey kromozomu olmak üzere iki çeşittir. Sağlıklı insanların vücut hücresinde 23 çift
+(2n = 46) kromozom bulunur. Bunlardan 22 çifti vücut özelliklerini belirlerken 1 çifti ise eşeyi (cinsiyeti) belirler.
+Cinsiyet kromozomları X ve Y şeklinde iki tanedir. Cinsiyet kromozomları kadınlarda XX, erkekler de ise XY olarak
+bulunur. Doğacak bebeğin cinsiyeti babadan gelecek cinsiyet kromozomuna bağlıdır. Doğacak çocuğun kız veya
+erkek olma ihtimali %50’dir.
+AKRABA EVLİLİĞİ
+Aralarında kan bağı olan kişiler arasında yapılan evliliklere akraba evliliği denir. Akraba evliliği nedeniyle genetik
+hastalıkların bireylerle sınırlı kalmayıp kuşaktan kuşağa aktarılma riskinin olması ve çoğunun kesin tedavisinin
+bulunmaması önemli bir sağlık sorunudur. Örneğin;  Akdeniz anemisi  Orak hücreli anemi
+Ülkemizde akraba evliliği nedeniyle en sık karşılaşılan hastalıklardan bazılarıdır.
+MUTASYON
+Görsel 1: Albino timsah
+Çeşitli etkenlerle canlıların DNA, gen veya kromozom yapısında meydana gelen
+değişimlere mutasyon denir.
+Mutasyonlar canlıların üreme veya vücut hücrelerinde görülebilir. Üreme
+hücrelerinde meydana gelen mutasyonlar kalıtsaldır ve bir sonraki nesle aktarılır.
+Vücut hücrelerinde görülen mutasyonlar ise kalıtsal değildir, sadece mutasyona
+uğrayan canlıyı etkiler.
+Kimyasal maddeler, X ışınları kalıtsal özelliklerimize etki eden yapılarda hasar
+oluşturulabilir. Kromozom sayısındaki eksiklikler veya fazlalıklar, DNA’nın kendini
+eşlerken karşılıklı gelen nükleotidlerin kırılması, genlerin yapısının bozulması
+mutasyona örnek olarak verilebilir.
+Mutasyona Örnekler:
+Van kedisinin gözlerinin farklı renkli olması, çift başlı kaplumbağa, hemofili hastalığı, orak hücreli anemi,
+albi- noluk, altı parmaklık, down sendromu, renk körlüğü, dört boynuzlu keçi, kulak içi kıllılığı, balık
+pulluluk mu- tasyona örnek olarak verilebilir.
+Mutasyonların Özellikleri:
+Hem vücut hem de üreme hücrelerinde oluşabilir.
+Üreme hücrelerinde görülen mutasyonlar nesilden nesile geçme özelliğine sahiptir.
+Vücut hücrelerinde görülen mutasyonlar ise ancak eşeysiz üreme gösteren canlılarda nesilden nesile
+geçebilir.
+Mutasyonların etkileri yararlı veya yararsız olabilir. Örneğin çekirdeksiz üzüm yararlı
+mutasyondur. Diğer taraftan zararlı mutasyonlar da vardır. İnsanların genlerinde meydana gelen
+bazı mutasyonlar farklı hastalıkların ve genetik bozuklukların ortaya çıkmasına sebep olmuştur.
+
+-- 6 of 25 --
+
+MEBİ KONU ÖZETLERİ	FEN BİLİMLERİ - LGS
+MODİFİKASYON
+Görsel 2: Spor yapan kişilerin kaslarının gelişmesi
+Tek yumurta ikizleri aynı genotipe sahiptir. Beslenme gibi çevresel faktörler tek yumurta ikizlerinde kilo
+ve boylarının farklı olmasına neden olur.
+Himalaya tavşanlarının sıcaklığa bağlı olarak kürk renklerinin değişmesi.
+Kraliçe arı ve işçi arıları, arı larvalarının beslenme şekillerinin farklı olması sonucu oluşur. Arı larvaları
+arı sütüyle beslendiğinde kraliçe arı, çiçek tozuyla beslendiğinde ise işçi arılar oluşur. Karahindiba
+bitkisinin dağda yetişeninin kısa boylu, ovada yetişeninin uzun boylu olması.
+Spor yapan insanların kaslarının gelişmesi.
+Güneş etkisi ile tenin bronzlaşması.
+Sirke sineklerinin 16°C’de düz; 25°C’de kıvrık kanatlı olması.
+Ortanca bitkisinin çiçeklerinin pH’ı yüksek ortamda pembe; pH’ı düşük ortamda mavi renkli olması.
+Sıcaklık, beslenme, nem, ışık vb. çevresel etkenler canlılarda genlerin yapısını değiştirmeden genin işleyi-
+şini değiştiren ve kalıtsal olmayan değişimlere neden olur. Bu değişimlere modifikasyon denir.
+Modifikasyonlar canlıların vücut hücrelerinde görüldüğünden kalıtsal değildir. Bu nedenle nesilden nesile
+aktarılmaz. Örneğin insanların teni yaz mevsiminde güneş ışığının etkisiyle bronzlaşır. Kış mevsimi
+geldiğinde ise ten normal rengine döner.
+Modifikasyona Örnekler:
+
+-- 7 of 25 --
+
+MEBİ KONU ÖZETLERİ	FEN BİLİMLERİ - LGS
+Mutasyon
+Genlerin yapısı değişir.
+Mutasyon sebebi olan etken ortadan kalkarsa
+canlı eski hâline dönmez.
+Üreme hücrelerinde meydana gelen
+mutasyonlar kalıtsaldır.
+Bazı mutasyonların etkisi dış görünüşe
+yansırken bazılarının ki yansımaz.
+Mutasyonlar canlının genotip ve fenotipini
+etkiler.
+MUTASYON VE MODİFİKASYON ARASINDAKİ FARKLAR
+Modifikasyonlar canlının fenotipini etkiler.
+Modifikasyonların etkisi dış görünüşe yansır.
+Modifikasyon
+Genlerin işleyişi değişir.
+Modifikasyona neden olan etken ortadan
+kalkınca canlı eski hâline dönebilir.
+Hiçbir modifikasyon kalıtsal değildir.
+ADAPTASYON
+Kutup ayılarının kürk renkleri bulunduğu ortamla uyumludur. Bu sayede avları onları fark edemez ve avlarını
+kolayca yakalayabilirler. Derilerinin altındaki kalın yağ tabakası onları soğuğa karşı korur.
+Geniş ayak tabanları sayesinde karda batmadan yürürler. Kutup ayılarının soğuk bölgelerde hayatta kalmasını
+sağlayan bu özelliklerin hepsi, yavru kutup ayılarında da görülür.
+Canlılar, yaşam alanlarındaki şartlara uyum sağladıkları sürece hayatta kalırlar. Bir canlının belli bir çevrede
+yaşama ve üreme şansını artıran kalıtsal özelliklerin tümüne adaptasyon denir. Adaptasyonlar kalıtsaldır.
+Bitkilerde terleme yapraklarda gerçekleşir. Çöl ortamına uyum sağlamış kaktüsler terleme yoluyla su kaybını
+en aza indirmek için diken şeklinde yapraklara ve su depo eden kalın gövdeye sahiptir. Bu özellikler
+kaktüslerin çöl ortamında hayatta kalmasını sağlar. Suda yaşayan nilüfer bitkisi gibi bitkilerin ise geniş
+yaprakları vardır. Yapraklarının geniş olması su kaybını artırarak bitkinin su dengesinin korunmasını sağlar.
+Bu özellikleri sayesinde Güneş ışığından daha fazla yararlanır ve suyun yüzeyinde rahatça kalabilirler.
+Görsel 1: Nilüfer	Görsel 2: Kaktüs
+
+-- 8 of 25 --
+
+MEBİ KONU ÖZETLERİ	FEN BİLİMLERİ - LGS
+Canlıların geliştirdiği adaptasyonlar onların üremesinde, hareket etmesinde, beslenmesinde ve avlanmasında
+canlıya avantaj sağlar. Kurbağa ve balıklarda üreme gerçekleşirken dişiler yumurtalarını suya bırakır. Erkekler ise
+spermlerini yumurta üzerine bırakarak döllenmesini sağlar. Bu canlılar döllenme şansını artırmak için suya çok
+sayıda yumurta ve sperm bırakır. Ördek, pelikan gibi canlıların perde şeklindeki ayakları suda hareketlerini
+kolaylaştırır. Aslan, kurt gibi etçil hayvanların uzun köpek dişleri onların beslenmesini kolaylaştırır. Kartallar,
+gagalarını ve keskin pençelerini avlarını yakalayıp parçalamak için kullanırlar.
+Bazı hayvanlar renk veya şekillerini bulundukları ortama benzeterek kamufle olurlar. Ahtapot, dil balığı gibi
+canlılar bulundukları zeminin şeklini taklit ederek ortamda kendilerini saklarlar. Bu adaptasyonlar onların avcılar
+tarafından fark edilmesini zorlaştırır. Bazı canlılar da başka canlıların taklidini yaparak hayatta kalma şansını
+artırır. Örneğin Şahin Güvesi larvası dokunulduğunda baş ve göğüs kısmını şişirerek görünümünü zehirli küçük
+bir yılanın başına benzetir. Bu görünümü ile avcılarının korkup ondan uzaklaşmasını sağlar.
+Görsel 3: Kutup ayısı	Görsel 4: Kutup tilkisi
+Aynı ortamda yaşayan farklı tür canlılar da benzer adaptasyonlar gösterir. Örneğin çölde yaşayan çöl tilkisi ile
+çöl faresi gibi canlıların vücut yüzeyleri geniştir, büyük kulaklara ve uzun kuyruklara sahiptir. Bu özellikleri
+sayesinde ısı kaybını artırarak sıcak çöl ortamına uyum sağlarlar. Aynı türün farklı bölgelerde yaşayan birey-
+leri ise bulundukları ortamda yaşama şansını artıran adaptasyonlar geliştirirler. Örneğin kutup tilkilerinin
+kürk renkleri bulunduğu ortama uyumludur. Derilerinin altındaki kalın yağ tabakası onları soğuğa karşı
+korur.
+Doğal Seçilim
+Yaşamsal faaliyetler için gerekli olan besin, su, barınak, ışık gibi faktörler canlılar arasında yaşam mücadelesine
+neden olur. Bu mücadelede ortama iyi uyum sağlayan canlılar yaşamını sürdürürken ortam koşullarına uyum
+sağlayamayan canlıların yaşamının son bulmasına doğal seçilim denir.
+Yeşil yapraklı ağaçlarda yaşayan yeşil ve kahverengi böceklerden yeşil renkte olanları ortamda fark edilmeden
+yaşarlarken, kahverengi olanlar avcı kuşlar tarafından fark edilerek avlanır. Bu bölgede kahverengi böcekler zamanla
+elenir ve bunların sayıları azalır. Yeşil renkteki böcekler ise renklerinin ortamla uyumlu olması sayesinde
+avcılarından korunurlar. Sayıları zamanla artar. Bu durum doğal seçilime örnektir. Doğal seçilim ile hayatta kalan
+bireyler kazandıkları özellikleri nesiller boyunca aktarır.
+Aynı türe ait canlılar arasında farklılıklar görülebilir. Örneğin domates bitkilerinin şekil ve renkleri farklılık gös-
+terebilir. Tür içinde görülen bu çeşitliliğe varyasyon denir. İstiridyelerin farklı renk ve biçimdeki kabuğa sahip
+türlerinin olması, aynı kelebek türlerinin farklı kanat renkleri ve desenlerine sahip olması, İspinoz kuşlarının farklı
+gaga yapılarına sahip olan türlerinin olması varyasyona örnektir.
+Görsel 5: Kırmızı gül	Görsel 6: Pembe gül
+
+-- 9 of 25 --
+
+MEBİ KONU ÖZETLERİ	FEN BİLİMLERİ - LGS
+BİYOTEKNOLOJİ
+GENETİK MÜHENDİSLİĞİ
+Canlıların genetik yapılarını araştırarak istenen genlerin seçilmesi ve çoğaltılması, farklı canlılara ait genlerin
+birleştirilmesi, bir genin farklı bir canlıya aktarılması ile ilgili çalışmalar yapan bilim dalına genetik mühendisliği
+denir.
+BİYOTEKNOLOJİ
+Canlı hücreleri ve mikroorganizmaları kullanarak biyolojik tekniklerle endüstri ve tıp alanında kullanmak üzere
+materyal üretimidir. Bir başka deyişle Biyoteknoloji, genetik mühendisliği çalışmalarını kullanarak endüstri yolu ile
+yeni ürünler elde edilmesi için yapılan çalışmalar olarak tanımlanabilir. Tanımlardan da anlaşılacağı gibi
+biyoteknoloji ile genetik mühendisliği çalışmaları birbirleriyle yakından ilişkilidir. Örneğin günümüzde bakterilere
+insanda büyüme hormonu üreten gen aktarılarak bakterilerin büyüme hormonu üretmesi sağlanmakta, üretilen
+büyüme hormonu ise büyüme ve gelişme geriliği görülen çocukların tedavisinde kullanılmaktadır.
+Görsel 1: İnsülin
+GENETİK MÜHENDİSLİĞİ VE BİYOTEKNOLOJİNİN UYGULAMA ALANALARI
+1. Gen Aktarımı
+Bir canlının DNA’sından alınan bir genin başka bir canlıya aktarılmasına gen aktarımı (gen transferi) denir.
+Günümüzde gen aktarımı yöntemi ile bir bakteri türüne insülin hormonu üreten bir gen aktarılarak
+bakterilerden insülin hormonu elde edilmiştir.
+Gen Aktarımı Örnekleri
+Ateş böceğinden alınan gen tütün bitkisine aktarılarak tütün bitkisinin ışık
+vermesi sağlanmıştır.
+Örümceğin ağ üreten genleri bir keçiye aktarma ve bu keçinin sütünden ağ
+üretme
+Nergis bitkisinde bulunan A vitamini üreten gen, normal beyaz pirince
+aktarılarak sarı renkte altın pirinç
+üretilmiştir.
+Dil balığında donmayı engelleyen gen alabalığa aktarılarak alabalıkların
+soğuk sularda yetiştirilebilmeleri
+sağlanmıştır.
+Köpek balığından alınan soğuğa karşı dayanıklılık geni domatese
+aktarılarak domatesin soğuk iklimde
+yetişmesi sağlanmıştır.
+2.Gen Tedavisi
+Eksik ya da hatalı protein üretimine neden olan, bozuk gen taşıyan hücreye normal geni yerleştirme yöntemine gen
+tedavisi denir.
+3. Klonlama
+Klonlama, verici anneden alınan döllenmemiş yumurtanın çekirdeğinin çıkarılması ve kopyalanmak istenen başka
+bir organizmadan alınan hücrenin çekirdeğinin bu içi boşaltılmış yumurtaya aktarılması yolu ile tüm organizmayı
+kopyalama prensibine dayalı bir tekniktir.
+
+-- 10 of 25 --
+
+MEBİ KONU ÖZETLERİ	FEN BİLİMLERİ - LGS
+Görsel 2: Klonlama
+Aşılama, babadan alınan spermlerin doğrudan
+annenin rahmine aktarılmasıdır. Eğer bu yöntem
+uygulanamaz veya fayda göstermezse tüp bebek
+yöntemi denenir. Tüp bebek, kadının yumurtasıyla
+erkeğin sperminin vücut dışında döllenmesini
+sağlayan tekniktir ve diğer yöntemlerin başarısız
+kaldığı durumlarda uygulanır.
+6. Genetiği Değiştirilmiş Organizma (GDO)
+Gen teknolojisi ile doğal süreçlerle edinilmesi mümkün olmayan yeni özellikler kazandırılan organizmalara
+genetiği değiştirilmiş organizma (GDO) adı verilir. Bir canlının genetik yapısının değişmesi, olumlu etkilere
+neden olabileceği gibi olumsuz etkilere de neden olabilir.
+Genetik mühendisleri bitkilerin genetik yapısına müdahale ederek bitkileri, onlara zarar verenlere karşı dirençli
+hâle getirebilir. Bitki üzerinde yaşayan bakterilerin yapısı değiştirilerek bitki, böceklere karşı dayanıklı hâle
+getirilebilir.
+Genetik yapısı değiştirilmiş canlılar bazen olumsuz durumlara neden olabilir. Örneğin soya fasulyesinde be-
+sin değerini artırmak için Brezilya fındığından aktarılan bir protein, soya fasulyesini tüketen insanlarda alerjik
+reaksiyonlara neden olmuştur.
+BİYOTEKNOLOJİNİN OLUMLU VE OLUMSUZ ETKİLERİ
+Biyoteknolojinin Olumlu Etkileri
+4. Genetik Islah
+İstenilen özelliklere sahip canlıların seçilip
+eşleştirilmesi ile istenilen özellikleri taşıyan yeni
+bireyler elde edilmesine ıslah adı verilir. Bu
+yöntemde istenmeyen özelliklerin ayıklanması ve
+amaca yönelik özelliklerin bir araya getirilmesine
+yapay seçilim denir.
+Özellikle tohum ve meyve verimini artırmak,
+hayvancılıkta ineklerde süt verimini artırmak için
+kullanılan yön- temlerin başında ıslah ve yapay
+seçilim gelir. Yapay seçilim, insanlar tarafından
+istenilen özelliklere sahip bireylerin seçilmesi,
+seçilen bireylerin çaprazlanması sonucu istenilen
+özellikte bitki ve hayvan ırklarının elde edilme
+sürecidir. Islah ise yapay seçilimle bir hayvan veya
+bitki türünden daha fazla verim alınabilecek birey-
+lerin elde edilmesi için yapılan biyoteknoloji
+çalışmalarındandır.
+5. Aşılama
+Hastalıkların tanı ve tedavisinde yarar sağlar.
+Bazı hormon, antibiyotik ve vitaminler üretilir.
+Canlılarda bazı zararlı genlerin ayrıştırılmasını sağlar.
+Yeni ve üstün özellikte (verimli, sağlıklı ve kaliteli) bitki ve hayvanların üretilir.
+İnsanlarda zarar gören doku ve organların, yapay doku ve organla değiştirilir.
+Kirli suların arıtılmasında biyoteknoloji ürünü bakteriler kullanılmaktadır.
+Daha sağlıklı canlılar üretildiği için gübre ve ilaç kullanımı azalır, bu sayede çevre korunur. Sebze ve meyvelerin
+raf ömrü uzatılmıştır.
+
+-- 11 of 25 --
+
+MEBİ KONU ÖZETLERİ	FEN BİLİMLERİ - LGS
+•
+•
+•
+GELECEKTE BİYOTEKNOLOJİK UYGULAMALAR
+Yapay türler elde edilebilir.
+Klonlama sıradanlaşarak birçok canlı klonlanabilir.
+Hasar görmüş organ yenisi ile değiştirilebilir.
+Biyoteknolojinin Olumsuz Etkileri
+1.
+2.
+Biyoteknoloji ile biyolojik silahlar üretilebilir.
+GDO, yani genetiği değiştirilmiş organizmalardan üretilen besinlerin insan sağlığı açısından ciddi
+riskler içerebileceği düşünülmektedir. Bu besinler insanlarda alerji, mutasyon ya da kanserlere neden
+olabilir.
+Ekosistemdeki dengeyi bozabilir ve biyoçeşitliliğin azalmasına neden olabilir.	3.
+
+-- 12 of 25 --
+
+KAVRAM YANILGILARI	KAVRAM YANILGILARI
+DNA ve Genetik Kod
+Açıklama
+Kavram Yanılgısı
+Düzeltme Stratejileri
+Bu Kavram Yanılgısı Neden Oluşur
+DNA eşlenmesi sırasında oluşan her hata mutasyondur ve mutasyonların tamamı zararlıdır.
+DNA'daki her hata kalıcı değildir; hücrenin onarım mekanizmaları (enzimler) sayesinde birçok hata düzeltilir.
+Ayrıca mutasyonların bir kısmı yararlı (örneğin direnç kazanma) veya etkisiz (nötr) olabilir.
+Medya ve popüler kültürde mutasyonun her zaman 'canavarlaştırıcı' veya 'hastalık yapıcı' olarak sunulması
+öğrencilerin bu kavramı sadece olumsuzlamasına neden olur.
+Yararlı mutasyonlara çekirdeksiz üzüm, bitkilerde soğuğa dayanıklılık örnekler verilebilir.
+Açıklama
+Kavram Yanılgısı
+Düzeltme Stratejileri
+Bu Kavram Yanılgısı Neden Oluşur
+Doğal Seçilim ile hızlı koşan/saklanan bireylerin hayatta kaldığını, yavaş olanların elendiği bilinmektedir.
+Adaptasyonlar canlının ihtiyacı olduğu için aniden ortaya çıkar ve bu değişimler sonradan kazanılan özelliklerdir.
+Öğrenciler Lamarck'ın 'kullanılan organ gelişir' mantığını sezgisel olarak benimserler ve evrimi bilinçli bir çaba
+olarak algılarlar.
+Adaptasyonlar canlının isteğine bağlı gelişmez; genetik varyasyonlar sonucunda çevreye en uyumlu olanların
+hayatta kalması (Doğal Seçilim) ile nesiller boyu aktarılan kalıtsal özelliklerdir.
+mgfenakademisi
+
+-- 13 of 25 --
+
+"Tüm Canlılarda Aynıdır" Kelime Oyunu:
+DNA'daki baz eşleşme kuralının (Adenin karşısına Timin, Guanin karşısına Sitozin) tüm
+canlılarda aynı olduğunu belirtir (Doğru bilgi). Ancak çeldiriciye "Belirli bir bölgedeki
+nükleotid dizisi tüm canlıların DNA'larında aynıdır" yazar (Hatalı bilgi). Canlıların
+çeşitliliğini sağlayan şeyin bu dizilimlerin farklılığı olduğunu unutmanızı ister.
+Modifikasyon vs. Mutasyon Sınırı:
+Arıların yetiştirilme sıcaklığına göre vücut renginin değişmesi (16°C, 30°C, 35°C) veya
+tavşanların kürk rengi sorularında "Genetik yapı veya alel değişmiştir" çeldiricisini
+koyar. Hayır! Değişen şey genlerin yapısı değil, işleyişidir.
+🔍 Hangi Soru Tarzında Ne Yapılmalı?
+DNA Eşlenmesi Soruları: Ayrılan eski iplikleri (1. ve 2. zincir) ve onların karşısına gelen
+yeni iplikleri sembolik çizgilerle takip edin. Unutmayın, hatasız eşleşme bittiğinde
+oluşan iki yeni DNA molekülünün nükleotid dizilimi başlangıçtaki DNA ile tıpatıp
+aynıdır.
+Çaprazlama ve Bezelye Soruları:
+Fenotip oranlarını (Örn: 3:1 oranı veya %50 yeşil-%50 sarı) görür görmez hemen yanına
+genotipleri (Homozigot baskın, Heterozigot, Çekinik) harflendirerek yazın. Sarı
+tohumlu iki bezelyeden yeşil tohumlu bezelye elde ediliyorsa, çaprazlananların ikisinin
+de kesinlikle Heterozigot (Ee x Ee) olduğunu kağıda dökün.
+🎯 MEB'in Favori
+Çeldirici Teknikleri
+mgfenakademisi
+
+-- 14 of 25 --
+
+DNA ve Genetik Kod
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 15 of 25 --
+
+DNA’nın eşlenmesi
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 16 of 25 --
+
+Kalıtımmgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 17 of 25 --
+
+Çaprazlama
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 18 of 25 --
+
+Mutasyon
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 19 of 25 --
+
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+Modifikasyon
+
+-- 20 of 25 --
+
+Modifikasyon
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 21 of 25 --
+
+Adaptasyon	Adaptasyon	Adaptasyon
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 22 of 25 --
+
+Doğal Seçilim ve Varyasyon	Doğal Seçilim ve Varyasyon	Doğal Seçilim ve Varyasyon
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 23 of 25 --
+
+BİYOTEKNOLOJİ	BİYOTEKNOLOJİ	BİYOTEKNOLOJİ
+İnsan
+insulin gene
+(Yumurta Hücresi) Hücresi Alınır)Sitoplazma
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 24 of 25 --
+
+Beğen
+Yorum yap
+Arkadaşına Gönder
+Takip Et	Sonrası için Kaydet
+Tekrar paylaş
+mgfenakademisi
+DEĞİŞİMİ GÖRÜN!
+FEN ENNEAGRAM TESTİ
+Hemen Katılın
+LİNK İÇİN
+PROFİLE BAKINIZ
+DM’DEN İLETİŞİME
+GEÇEBİLİRSİNİZDM
+Çocuğunuzun Fen Başarısını %100 Artıracak Sırrı Biliyor
+musunuz?
+LGS FEN BİLİMLERİ
+DERSLERİMDE
+KULLANDIĞIM KAYNAKLAR
+
+-- 25 of 25 --
+

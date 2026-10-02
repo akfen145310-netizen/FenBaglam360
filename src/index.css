@@ -1,0 +1,75 @@
+@import "tailwindcss";
+
+/* ==========================================================================
+   Scientific Diagram and Print Engine Styles
+   ========================================================================== */
+
+.diagram-wrapper {
+  width: 100%;
+  max-width: 650px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.scientific-svg {
+  width: 100%;
+  height: auto;
+  max-height: 250px;
+  display: block;
+  border-radius: 12px;
+  print-color-adjust: exact !important;
+  -webkit-print-color-adjust: exact !important;
+  color-adjust: exact !important;
+}
+
+/* Print Specific Rules */
+@media print {
+  /* Hide non-printable elements */
+  .no-print,
+  #navbar-logo-btn,
+  #grade-switcher-btn,
+  #section-switcher-btn,
+  nav,
+  header.no-print,
+  button.no-print {
+    display: none !important;
+  }
+
+  body {
+    background: #ffffff !important;
+    color: #000000 !important;
+    font-size: 11pt !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  #printable-exam-sheet {
+    max-width: 100% !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 10mm !important;
+    border: none !important;
+    box-shadow: none !important;
+    border-radius: 0 !important;
+  }
+
+  .print-question-card {
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+    margin-bottom: 14px !important;
+  }
+
+  .break-before-page {
+    page-break-before: always !important;
+    break-before: page !important;
+  }
+
+  .scientific-svg {
+    max-height: 190px !important;
+    print-color-adjust: exact !important;
+    -webkit-print-color-adjust: exact !important;
+  }
+}

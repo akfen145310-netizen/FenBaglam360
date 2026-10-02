@@ -1,0 +1,50 @@
+================================================================================
+FENBAĞLAM 360 - TAŞINABİLİR VE ÇEVRİMDIŞI (OFFLINE) SÜRÜM KULLANIM KILAVUZU
+Türkiye Yüzyılı Maarif Modeli (TYMM) & fenbilim.net Bağlam Temelli Soru Bankası
+================================================================================
+
+Bu klasör, FenBağlam 360 platformunun hiçbir internet bağlantısı ve hiçbir ek 
+yazılım (Node.js, sunucu vb.) gerektirmeden çalışabilen "Tam Bağımsız ve 
+Taşınabilir" (Portable Offline) sürümüdür.
+
+--------------------------------------------------------------------------------
+1. NASIL KULLANILIR?
+--------------------------------------------------------------------------------
+A) Yöntem 1 (En Kolay):
+   - Klasörün içindeki "Baslat.bat" dosyasına çift tıklayınız.
+   - Veya doğrudan "index.html" dosyasına çift tıklayarak istediğiniz tarayıcıda 
+     (Google Chrome, Microsoft Edge, Brave, Mozilla Firefox, Opera) açınız.
+
+B) Yöntem 2 (Akıllı Tahta / Yerel Ağ Paylaşımı):
+   - "Yerel_Sunucu_Baslat.bat" dosyasına çift tıklayarak bilgisayarınızda yerel 
+     bir mini sunucu başlatabilir (http://localhost:8080), aynı Wi-Fi/Ağdaki 
+     tablet veya telefonlardan da erişebilirsiniz.
+
+--------------------------------------------------------------------------------
+2. USB BELLEK VE FARKLI BİLGİSAYARLARDA KULLANIM
+--------------------------------------------------------------------------------
+- Bu "tasinabilir-offline-surum" klasörünü bir USB belleğe (Flash Bellek) 
+  kopyalayabilirsiniz.
+- İnterneti olmayan MEB Fatih Etkileşimli Tahtalarında veya laboratuvar 
+  bilgisayarlarında USB belleği takıp doğrudan "index.html" veya "Baslat.bat" 
+  ile açabilirsiniz.
+- Tüm görsel şemalar (SVG), deney tabloları, çözümler ve soru motoru 
+  dosyanın içine gömülüdür (%100 offline çalışır).
+
+--------------------------------------------------------------------------------
+3. TEMEL ÖZELLİKLER
+--------------------------------------------------------------------------------
+- Sınıflar: 5, 6, 7 ve 8. Sınıf (LGS) Fen Bilimleri tüm ünite ve alt başlıkları.
+- Tek Sayfada Aç: Soruları aralıksız bir çalışma kağıdı şeklinde inceleme, 
+  çözümleri açıp kapama ve cevap anahtarı tablosunu görme.
+- Etkileşimli Çöz: Süre sayacı, soru paleti, çeldirici eleme (şık çizme), 
+  karalama ve işlem tahtası (çizim tuvali), detaylı sonuç karnesi ve analiz.
+- PDF Olarak İndir / Yazdır: MEB sınav kağıdı ve optik işaretleme formunda 
+  çıktı alma. (Sağ üstteki Ayarlar çarkından bu özellik istendiğinde kapatılabilir).
+- 30'ar Soru Otomasyonu: İster tek tıkla mevcut alt başlığı 30 soruya tamamlayın, 
+  ister tüm müfredatı yüzlerce soruyla doldurun.
+- Soru Kalite Denetimi (TYMM 20/20): Master Prompt kurallarına göre T1-T12 
+  kontrol listesi, kavram yanılgısı analizi ve sesli düşünme pilot soruları.
+
+İyi çalışmalar dileriz!
+================================================================================

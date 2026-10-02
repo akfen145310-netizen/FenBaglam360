@@ -1,0 +1,864 @@
+4.ÜNİTE: MADDE VE ENDÜSTRİ
+1.MEBİ LGS Konu Özeti
+2.Kavram Yanılgıları
+3.Çeldiriciler
+4.Başucu Notları
+8.SINIF
+36 sayfa
+dolu dolu
+
+-- 1 of 36 --
+
+LGS	LGS	LGS	LGS	LGS	LGS	LGS	LGS	LGS	LGS	LGS	LGS
+KONU
+ÖZETİ	PERİYODİK SİSTEM
+Görsel 1: Johann Döbereiner
+Johann Wolfgang Döbereiner benzer fiziksel ve kimyasal özellik
+gösteren elementleri üçerli gruplar halinde ilk sıralayan kişidir.
+A. Periyodik Sistemin Tarihsel Gelişimi
+Elementler arası ilişkileri görebilmek, maddelerin yapısını ve özelliklerini anlayabilmek için elementlerin
+sınıflandırılması önemlidir. 19. yüzyılda yaşayan bilim insanlarının çalışmaları sonucunda elementlerin benzer
+fiziksel ve kimyasal özelliklerine göre sınıflandırılması için kullanılan periyodik tablo ortaya çıkmıştır.
+Yaptığı çalışmalarda ilk 8 elementten sonra benzer kimya-
+sal ve fiziksel özelliklerin tekrar ettiğini fark etmiş ve bu
+durumu müzik notalarına benzetmiştir.
+Görsel 2: John Newlands
+Görsel 3: Dimitri Mendeleyev
+1869 yılında Mendeleyev, elementleri atom ağırlıklarına göre yan yana
+dizmiş, benzer özellikte elementler çıktığında yeni bir satıra geçmiştir. Bu
+şekilde Mendeleyev bugün kullandığımız periyodik tablonun temellerini
+atmıştır.
+MEBİ KONU ÖZETLERİ
+Görsel 5: Henry Moseley
+Julius Lothar Meyer, yaptığı çalışmalarda Mendeleyev’le aynı
+sonuçlara varmış fakat çalışmaları Mendeleyev’den daha sonra
+yayımlandığı için Mendeleyev bu konuda daha bilinen bir isim
+olmuştur.
+Görsel 4: Julius Lothar Meyer
+1913 yılında Henry Moseley’in X-ışınları ile elementler üzerinde
+yaptığı çalışmalar sonucunda, periyodik tabloda elementleri atom
+ağırlıklarına göre değil atom numaralarına yani proton sayılarına
+göre dizmiştir.
+Görsel 6: Glenn Seaborg
+Glenn Seaborg, periyodik tablonun altına 2 sıra daha
+ekleyerek son şeklini vermiştir.
+
+-- 2 of 36 --
+
+FEN BİLİMLERİ
+Görsel 7: Periyodik Tablo
+B. Periyodik Sistemin Özellikleri
+Elementlerin artan atom numaralarına göre sıralandıklarında oluşan tabloya yada cetvele "Periyodik
+Sistem" adı verilir. Periyodik sistemde elementlerin adı, sembolü, atom numarası ve kütle numarası gibi
+birçok özellik yer alır. Elementler artan atom numaralarına göre sıralandıklarında bazı özellikleri,
+periyotlar halinde tekrar etmektedir. Periyodik tabloda benzer özellikler alt alta sıralıdır. Yani aynı grupta
+bulunan elementler kimyasal olarak birbirine benzemektedir.
+Periyot
+Periyodik tablodaki yatay sıralara periyot denir. Tabloda 7 periyot vardır.
+Grup
+Periyodik tablodaki dikey sütunlara grup denir. Tabloda 10 tane B grubu ve 8 tane A grubu olmak üzere
+toplam 18 grup vardır.
+Periyodik tabloda yer alan bazı grupların özel isimleri bulunmaktadır. Bu gruplar:
+•
+•
+•
+•
+1A grubu -Alkali metaller
+2A grubu -Toprak alkali metaller
+7A grubu -Halojenler
+8A grubu- Soygazlar (Asalgazlar)
+MEBİ KONU ÖZETLERİ
+•
+•
+•
+C. Elementlerin Sınıflandırılması
+Periyodik tabloda aynı periyotlarda soldan
+sağa gidildiğinde
+Atom numarası (Proton sayısı) artar.
+Katman sayısı (Periyot sayısı) değişmez.
+Metalik özellik azalır, ametalik özellik artar.
+•
+•
+•
+Atom numarası (Proton sayısı) artar.
+Katman sayısı (Periyot sayısı) artar.
+Metalik özellik artar, ametalik özellik azalır.
+Periyodik tabloda aynı gruplarda yukarıdan
+aşağıya doğru gidildiğinde
+
+-- 3 of 36 --
+
+FEN BİLİMLERİ	MEBİ KONU ÖZETLERİ
+Tel ve levha hâline getirilebilirler.
+Isı ve elektriği iyi iletirler.
+Parlaktırlar.
+Oda koşullarında katı hâlde bulunurlar. (Cıva hariç)
+Kendi aralarında bileşik yapmazlar, alaşım oluştururlar.
+Vurulduklarında çın sesi çıkarır, şekil verilebilirler.
+Parlak veya mat görünümdedirler.
+Oda koşullarında katı hâlde bulunurlar.
+Tel ve levha hâline gelebilirler.
+Isı ve elektriği ametallerden iyi, metallerden kötü iletir.
+Periyodik sistemde metaller ile ametaller arasında bulunurlar.
+Tel ve levha hâline getirilemezler.
+Isı ve elektriği iyi iletmezler.
+Mattırlar (Işığı yansıtmazlar).
+Oda koşullarında katı, sıvı ve gaz hâlde bulunurlar.
+Periyodik sistemin sağ tarafında bulunmaktadır.
+Periyodik tablonun 8A grubunda yer alan ametaller soygaz olarak adlandırılır. Oda şartlarında hepsi gaz
+hâlindedir. Soygazlar kararlı yapıya sahiptir, kimyasal tepkimeye girmez ve bileşik oluşturmazlar.
+METALLER
+AMETALLAR
+ 
+YARI METALLAER
+Periyodik tabloda dikkat etmemiz gereken bazı elementler
+Hidrojen:1A grubunda yer almasına ve metallerin arasında bulunmasına rağmen ametaldir. Helyum:Elektron
+dizilimi yapıldığında son yörüngesinde 2 elektron yer almasına rağmen 2A grubunda değil 8A grubunda
+bulunan bir soygazdır.
+Bor:Son yörüngesinde 3 elektron olmasına rağmen metal değil yarı metaldir.
+FİZİKSEL VE KİMYASAL DEĞİŞİMLER
+Günlük yaşantımızda çeşitli etkiler sonucunda maddelerde bazı değişimler gerçekleşmektedir. Kâğıdın yandığında kül olması,
+buzun ısı alarak erimesi, sebzelerin pişirilerek yemek yapılması gibi maddelerde görülen değişimler iki grupta incelenmektedir.
+Fiziksel değişimler
+Kimyasal değişimler
+A. Fiziksel Değişimler
+Maddenin yalnızca dış görünümünde meydana gelen değişmelerefiziksel değişimdenir. Fiziksel değişimde maddenin iç
+yapısı (kimliği) değişmez, sadece tanecikler arasındaki boşluk değişir. Yeni maddeler oluşmaz. Atomlar arası bağlar
+kopmaz ve yeni bağlar oluşmaz. Maddenin sadece görünümü değişir.
+
+-- 4 of 36 --
+
+Görsel 1: Fiziksel değişim
+FEN BİLİMLERİ	MEBİ KONU ÖZETLERİ
+Doğrama, dilimleme, rendeleme ve ufalama gibi olaylarda maddenin
+kimliği değişmez.
+Görsel 2: Domatesin doğranması
+Kâğıdın yırtılması, camın kırılması ve telin bükülmesi gibi olaylarda maddeyi
+oluşturan moleküller arası bağlar kopmadığı ve yeni bağlar oluşmadığı için
+fiziksel değişim gerçekleşir. Maddenin iç yapısında değişim olmaz ve sadece
+dış görünümü değişir.
+Görsel 3: Kâğıdın yırtılması
+Görsel 4: Kimyasal değişim
+B. Kimyasal Değişim
+Maddenin iç yapısında meydana gelen, atomlar arası bağların koptuğu ve yeni bağların kurulduğu değişmelere
+kimyasal değişimdenir. Kimyasal değişimlerde maddenin kimliği değişir ve yeni özellikte maddeler oluşur.
+Kimyasal değişimlerde renk değişimi, gaz çıkışı, ısı veya ışık yayılması gibi olaylar gözlenebilir.
+Kimyasaldeğişimle beraber maddede fiziksel değişimde gözlenir.
+Görsel 6: Muzun çürümesi
+Görsel 5: Kâğıdın yanması
+Muzun çürümesi, ekmeğin küflenmesi,
+gıdaların bozulması gibi olaylarda
+maddenin iç yapısı da değiştiği için
+kimyasal değişim gerçekleşir.
+Kâğıdın yanması, kömürün yanması, kibritin yanması gibi olaylar
+kimyasal değişim örneğidir. Çünkü yanma olayında maddenin kimliği
+değişir.
+Farklı maddeler karıştırıldığında yanda verilenş ekilde görüldüğü gibi ani gaz
+çıkışı ve ısı açığa çıkıyor ise kimyasal değişim gerçekleşir. Kimyasal değişimlerde
+madde genellikle eski haline döndürülemez. Maddenin iç yapısı değiştiği için yeni
+maddeler ortaya çıkar.
+Görsel 7: Ekmeğin küflenmesi
+
+-- 5 of 36 --
+
+FEN BİLİMLERİ	MEBİ KONU ÖZETLERİ
+Fiziksel değişim örnekleri
+Altından bilezik yapılması
+Bakırdan tencere yapılması
+Buzun erimesi
+Camın kırılması
+Cevizin ezilmesi
+Çaya şeker atılması
+Çaydanlıktaki suyun buharlaşması
+Demirin tel veya levha hâline getirilmesi
+Ekmeğin dilimlenmesi
+Etten kıyma yapılması
+Gökkuşağının oluşması
+Hamura şekil verilmesi
+Hamurun yoğrulması
+Havucun rendelenmesi
+Tuzun suda çözünmesi
+Yağmurun yağması
+Yayın gerilmesi
+Yoğurttan ayran yapılması
+Kimyasal değişim örnekleri
+Demirin paslanması
+Benzinin yanması
+Besinlerin çürümesi
+Besinlerin enzim ile sindirilmesi
+Bitkilerin fotosentez yapması
+Canlıların solunum yapması
+Dişlerimizin çürümesi
+Ekmeğin küflenmesi
+Elmadan sirke yapılması
+Etin pişirilmesi
+Gümüşün açık havada zamanla
+kararması
+Hamurun mayalanması
+Hamurun pişirilerek ekmek yapılması
+Hidrojen ve oksijenin suyu oluşturması
+Kabartma tozuna limon sıkılması
+Kâğıdın yanması
+Kesilmiş elmanın açık havada renk
+değiştirmesi
+KİMYASAL TEPKİMELER
+Görsel 1: Metalin paslanması
+Bir ya da birden fazla maddenin kimyasal yapısının değişmesiyle
+başka maddelere dönüşmesine kimyasal değişim, bu değişimin
+gerçekleşme sürecine ise kimyasal tepkime denir. Kimyasal
+tepkimelerin sonucunda ısı, ışık ve gaz çıkışı; renk ve koku değişimi;
+çökelti oluşumu gibi fiziksel değişimler de gözlemlenebilir.
+Görsel 2: Odunun yanması
+Kimyasal tepkimeler, maddelerin yapısındaki atomların bir arada
+durmasını sağlayan kimyasal bağların kırılması ve/veya
+oluşmasıyla gerçekleşir.Maddelerineski özelliklerini kaybederek
+yeni maddelere dönüşmesi kimyasal tepkimeler ile gerçekleşir.
+Kimyasal tepkimerde atomlar arası bağlar kırılır veya yeni bağlar
+kurulur fakat yeni atomlar oluşmaz. Atomların türü ve sayısı
+değişmez.
+
+-- 6 of 36 --
+
+FEN BİLİMLERİ	MEBİ KONU ÖZETLERİ
+Tepkime denklemi
+Kimyasal tepkimeler tepkime denklemi ile ifade edilir. Tepkimenin başından itibaren bulunan ve kimyasal
+değişime uğrayan maddelere girenler denir. Giren maddelerin kimyasal yapısının değişmesiyle oluşan maddelere
+ürünler denir.Tepkime denkleminde,gerçekleşen değişimin yönünü ifade etmek için ok işareti kullanılır.
+GİRENLER 	ÜRÜNLER
+2H2 	O2 	2H O	2
+Günlükhayatta karşılaştığımızyanma, paslanma, çürüme, küflenme ve gümüşün kararması gibi olaylar kimyasal
+tepkimeler sonucunda gerçekleşir. Metan gazının yanması, demirin paslanması, oksijenli solunum ve suyun
+oluşumu gibi olaylarbirerkimyasal tepkimedir.
+Kimyasal Tepkimelerde Kütle Korunumu
+Kimyasal tepkimelerde atomların birbiriyle kurduğu bağlar değişir; fakat bağları değişen atomların sayısında bir
+değişim görülmez. Diğer bir deyişle, tepkimenin başından itibaren ortamda bulunan elementler ve bu
+elementlerin atom sayıları aynıdır. Bu nedenle, tepkimeye giren maddelerin kütlesi ile tepkime sonucunda oluşan
+maddelerin kütlesi birbirine eşittir.
+C 	+
+1 tane C atomu
+2 tane O atomu
+O2 	CO2
+1 tane C atomu
+2 tane O atomu
++
+ÜRÜNLER 	GİRENLER
+Kimyasal tepkimelerde
+•
+•
+•
+•
+•
+•
+•
+Tepkimeye giren maddeler özelliklerini kaybeder yeni madde oluşur.
+Maddelerin kimyasal özellikleri değişir.
+Atomlar arasındaki kimyasal bağlar kopar.
+Farklı atomlarla yeni bağlar oluşur.
+Kimyasal tepkimeye giren atomların türü ve sayısı değişmez.
+Kimyasal tepkimeye giren maddenin kütlesi ile ürünleri kütleleri eşittir.
+Girenlerin ve ürünlerin molekül sayısı ve hacimleri korunmayabilir.
+
+-- 7 of 36 --
+
+FEN BİLİMLERİ	MEBİ KONU ÖZETLERİ
+Görsel 3: Kimyasal bir tepkimeye ait kütle-zaman grafiği
+Tepkime denklemi
+Y + T 	X + Z
+Kimyasal tepkimelerde tepkimeye giren maddelerin kütlesi
+zamanla azalırken, ürünlerin kütlesi zamanla artar. Yanda
+verilen kimyasal tepkime grafiğinde zamanla azalan Y ve T
+maddeleri girenler, X ve Z maddeleri üründür.
+ASİT VE BAZLAR
+Asit ve bazları üç başlık altında inceleyebiliriz.
+•
+•
+•
+Asitler ve Bazların Genel Özellikleri
+Asit ve Bazların Madde Üzerinde Etkileri
+Asit Yağmurları
+A. ASİT VE BAZLARIN ÖZELLİKLERİ
+Asit Nedir?
+Sulu çözeltilerinde ortama H+ iyonu veren maddelere asit denir. Asitler suda iyonlaşarak çözünür. Bu nedenle
+asitlerin sulu çözeltileri elektrik akımını iletir. Asitler, sulu çözeltilerinde neredeyse tamamen iyonlarına ayrılıyorsa
+kuvvetli asit, sulu çözeltilerinde daha az iyonlaşıyorsa zayıf asit adını alır.
+Asit Çeşitlerini Tanıyalım
+Ayrıca günlük hayatta sık sık karşılaştığımız asitlere aşağıdaki gibi örnekler verebiliriz.
+Formülü
+HCl
+Sistematik Adı
+Hidroklorik asit
+Sülfürik asit
+Piyasa Adı
+Tuz ruhu
+Zaç yağı
+Kullanım Alanları
+Banyo ve tuvaletlerde temizlik malzemesi olarak
+kullanılır.
+Boya sanayisinde ve patlayıcı yapımında kullanılır.	H2SO4
+HNO 	Nitrik asit	3 	Kezzap Dinamit,çeşitli patlayıcılar,plastik ve azotlu gübre
+yapımında kullanılır.
+Görsel 1: Asit Örnekleri
+
+-- 8 of 36 --
+
+FEN BİLİMLERİ	MEBİ KONU ÖZETLERİ
+Baz Nedir?
+Sulu çözeltilerinde ortama OH- iyonu veren maddelere baz denir. Bazlar da asitler gibi suda iyonlaşarak çözünür.
+Bu nedenle bazların da sulu çözeltileri elektrik akımını iletir.
+Bazlar da asitler gibi sudaki iyonlaşma derecelerine göre kuvvetli ve zayıf olarak ayrılabilir. Sulu çözeltilerinde
+neredeyse tamamen iyonlaşan bazlar kuvvetli baz, sulu çözeltilerinde daha az iyonlaşan bazlar ise zayıf baz adını alır.
+Baz Çeşitlerini Tanıyalım
+Ayrıca günlük hayatta sık sık karşılaştığımız asitlere aşağıdaki gibi örnekler verebiliriz.
+Formülü
+NaOH
+Sistematik Adı
+Sodyum hidroksit
+Potasyum
+hidroksit
+Kalsiyum hidroksit
+Piyasa Adı
+Sud-kostik
+Kullanım Alanları
+Endüstride birçok kimyasal maddenin yapımında,
+sabun, kâğıt, tekstil ve deterjan yapımında kullanılır.
+Tıkanmış lavaboları açmada kullanılır.
+Deterjan, pil ve gübre yapımında kullanılır.
+Deri üretiminde, kireç ve çimento yapımında
+kullanılır.
+Temizlik ürünlerinde ve deterjanlarda kullanılır.
+KOH 	Potas-kostik
+Ca(OH)2
+NH3 	Amonyak 	Amonyak
+Sönmüş kireç
+Görsel 2: Baz Örnekleri
+Asit ve Bazların Özellikleri
+Asitlerin Özellikleri
+Tatları ekşidir.
+Sulu çözeltileri ortama H+ iyonu verir.
+pH değeri 7’den küçüktür.
+Mavi turnusol kâğıdını, kırmızıya dönüştürür.
+Metil oranj damlatıldığında kırmızı renk verir.
+Fenolftalein damlatıldığında renk değiştirmez.
+Metal ve mermerlere etki eder.
+Asitler, yakıcı ve parçalayıcıdır.
+Bazların Özellikleri
+Tatları acıdır.
+Sulu çözeltileri ortama OH- iyonu verir.
+pH değeri 7’den büyüktür.
+Kırmızı turnusol kâğıdını, maviye dönüştürür.
+Metil oranj damlatıldığında sarı renk verir.
+Fenolftalein damlatıldığında renkleri pembeye
+döner.
+Cam ve porselenlere etki eder.
+Sulu çözeltileri ele kayganlık hissi verir.
+
+-- 9 of 36 --
+
+FEN BİLİMLERİ	MEBİ KONU ÖZETLERİ
+Asit ve Bazları Nasıl Tanırız?
+Asit ve baz maddeleri tanımak için tadına bakmak veya
+dokunmak zararlı olabilir. Bundan dolayı bir maddenin
+asit mi baz mı olduğunu anlamak için ayıraç (belirteç)
+adı verilen maddeler kullanılır. En çok kullanılan asit
+baz ayıraçları, turnusol kâğıdı, metil oranj ve
+fenolftaleindir.
+pH Ölçeği
+pH ölçeği, bir çözeltinin asitlik veya bazlık derecesini ölçmek için kullanılan bir ölçektir. pH değeri, 0 ile 14
+arasında bir skalada ifade edilir.
+Yukarıda verilen tabloda çeşitli maddelerin pH değerleri verilmiştir.
+pH değeri azaldıkça veya arttıkça maddenin asitlik veya bazlık kuvveti de değişir. Örneğin pH’ı 1,0 olan mide öz
+suyu, sitrik asitten daha güçlü bir asittir. pH 7’ye yaklaştıkça maddenin asitliği azalır. pH = 7 olduğunda madde
+nötrdür. Asitlik ya da bazlık özelliği göstermez. pH 7’den itibaren artmaya devam ederse bazlık artar. Sabunlu su
+amonyağa göre daha güçlü bir bazdır.
+B. ASİT VE BAZLARIN MADDE ÜZERİNE ETKİLERİ
+Asitlerin Madde Üzerine Etkileri
+•
+•
+•
+Asitler metalleri aşındırarak H gazı çıkarırlar
+Mermere etki ederler.
+2
+Canlı dokulara zarar verebilirler.
+Bazların Madde Üzerine Etkileri
+•
+•
+•
+Camı aşındırırlar
+Porseleni aşındırırlar.
+Canlıları tahriş edebilirler.
+Asitlerin Canlılar Üzerine Etkileri
+Evlerimizde kullandığımız deterjanların üzerinde bulunan uyarılara dikkat etmeli, bu maddeleri kullanırken maske ve
+eldiven kullanmaya özen göstermeliyiz. Aksi taktirde cildimizde tahriş meydana gelebilir. Asitli gıdalar dişlerimize
+zarar verebilir. Mutfak tezgâhına limon, sirke veya tuz ruhu gibi asit içerikli maddeler döküldüğünde mermer aşınır.
+Mermer ile bu maddeleri temas ettirmemeli ve mermer dışında bu tür maddelerden etkilenmeyecek tezgâhlar tercih
+etmeliyiz.
+
+-- 10 of 36 --
+
+FEN BİLİMLERİ	MEBİ KONU ÖZETLERİ
+C. ASİT YAĞMURLARI
+Asit Yağmurları Nasıl Oluşur ?
+Dünyanın hızla gelişmesi ile asit yağmurlarının etkisi artmıştır. Özellikle gelişmiş ülkelerde fabrika sayılarının
+artması, ulaşım araçlarının çoğalması ve fosil yakıtların aşırı kullanılması sonucu atmosferdeki hava kirliliği
+artmıştır.
+Görsel 3: Asit Yağmurlarının Oluşumu
+Atmosferde biriken karbondioksit (CO ), kükürtdioksit (SO ), azotdioksit (NO ) gibi gazlar havada gaz bulutları
+oluştururlar. Gökyüzündeki hava olayları sonucunda oluşan yağmur taneleri bu bulutların içinden geçince asitlik
+özelliği kazanır.
+2 	2 	2
+CO gazı karbonik asite (H CO ), NO gazı nitrik asite (HNO ), SO2 gazı sülfürik asite (H SO ), Asitleri içeren damlalar
+yeryüzüne inince asit yağmurları oluşur.
+2 	2 3 	2 	3 	2 4
+Asit yağmurları insanlarda saç dökülmesine ve cilt kanser-
+ine de neden olabilir.
+Karada, suda hatta toprak altında yaşayan canlılar asit
+yağmurlarından olumsuz yönde etkilenir. Bunun sebebi asit
+yağmurlarının toprağın pH derecesini düşürmesidir.
+Asit yağmurları tarihî eserlere, araç ve evlerin boyalarına
+zarar verebilirler.
+Asitlerin Yağmurlarının Etkileri Nelerdir?
+Asit yağmurları, yağdıkları bölgede canlı ve cansız tüm
+varlıklara zarar verir.
+Asit Yağmurlarını Nasıl Azaltabiliriz?
+Asit yağmurları hava kirliliği sonucu oluşur. Hava kirliliğini azaltarak asit yağmurlarını azaltabiliriz. Trafikte
+bireysel araç kullanımını azaltarak toplu taşımayı tercih etmeliyiz. Böylece çevreye verilen zehirli gazları azaltmış
+oluruz. Fosil yakıt kullanımını azaltarak ve yenilenebilir enerjiyi kullanarak asit yağmurlarını azaltabiliriz.
+İnsanları çevre bilinci konusunda bilgilendirmeli ve asit yağmurlarının zararları konusunda eğitim çalışmaları
+yapmalıyız.
+
+-- 11 of 36 --
+
+FEN BİLİMLERİ	MEBİ KONU ÖZETLERİ
+MADDENİN ISI İLE ETKİLEŞİMİ
+Görsel 1: Deney düzeneği
+Maddeyi oluşturan tanecikler hareketlidir. Her bir taneciğinin hızı birbirinden farklı olduğundan bu
+parçacıkların hızlarını hesaplamak yerine, sahip oldukları ortalama kinetik enerji belirlenebilir. Maddenin
+ortalama kinetik enerjisinin karşılığı olan ölçüme sıcaklık denir. Farklı sıcaklıkta olan iki madde arasında
+sıcaklığı fazla olandan sıcaklığı az olana bir enerji aktarımı olur. Maddeler arasında sıcaklık farkı sebebiyle
+aktarılan enerjiye ısı denir. Isı, kalorimetre ile hesaplanırken sıcaklık termometreile ölçülür. Isı birimi
+kalori (cal) ya da joule (J)’dür. Sıcaklık birimi ise derece celsius (°C)’tur.
+A.Isınmanın Bağlı Olduğu Faktörler
+1.Maddenin cinsinin ısınmaya etkisi
+Yandaki şekilde ilk sıcaklıkları ve miktarları eşit olan farklı tür
+maddelerin özdeş ısıtıcı ile eşit süre ısıtıldığında son sıcaklıklarının
+aynı olmadığı görülür. Örneğin aynı miktarda alkol ve suya, özdeş
+ısıtıcılarla eşit süre ısı verdiğimizde alkolün son sıcaklığı sudan daha
+fazla olur. Bunun nedeni alkolün öz ısınının sudan daha az olmasıdır.
+Görsel 2: Tahta kaşıkla kullanımı
+Yemeği karıştırırken metal kaşık yerine
+ahşap kaşık kullanmamızın nedeni tahtanın
+öz ısısının daha büyük olmasıdır.
+Öz Isı
+Bir maddenin birim kütlesinin sıcaklığını 1°C değiştirmek için alınan ya da verilen ısıya öz ısı denir. Saf
+maddeler için bu ısı miktarı bir maddeden diğerine farklılık gösterir. Bun edenle, öz ısı maddenin ayırt edici
+özelliklerinden biridir. Özısı, c ile gösterilir ve birimi J/g °C’tur. Öz ısı değeri yüksek olan maddeler, öz ısı
+değeri az olan maddelere göre daha geç ısınıp geç soğurlar. Bu yüzden; özdeş ısıtıcılarla ısıtılan, eşit kütleli,
+öz ısıları farklı maddelerin sıcaklığını eşit miktarda arttırabilmek için, öz ısısı fazla olan maddeye daha fazla
+ısı vermek gerekir.
+Görsel 3: Deniz ve kum
+Güneşli bir günde kumsalda yürürken kumun çok
+sıcak, ancak denizin hâlâ serin olduğunu
+hissederiz. bunun nedini deniz suyunun öz
+ısısının kumdan daha büyük olmasıdır.
+FEN BİLİMLERİ
+Yandaki tabloda öz ısıları farklı maddeler
+verilmiştir. Örneğin aynı miktarda alkol ve
+suya, özdeş ısıtıcılarla eşit süre ısı
+verdiğimizde alkolün son sıcaklığı sudan
+daha fazla olur. Bunun nedeni alkolün öz
+ısınının sudan daha az olmasıdır.
+“Öz ısısı düşük olan maddeler, çabuk ısınır ve çabuk
+soğur.” “Öz ısısı yüksek olan maddeler, geç ısınır ve
+geç soğur.”
+Madde
+Su
+Alkol
+Su buharı (110 0C)
+Buz
+Öz ısı (cal/g 0C)
+1
+0,58
+0,48
+0,5
+Görsel 4: Bazı maddelerin öz ısı tablosu
+
+-- 12 of 36 --
+
+FEN BİLİMLERİ	MEBİ KONU ÖZETLERİ
+3.Isı-Sıcaklık İlişkisi
+Görsel 5:Deney düzeneği
+2.Madde Miktarı-Sıcaklık İlişkisi
+Görsel 6:Deney düzeneği
+Yandaki deney düzeneğinde, kütleleri ve başlangıçtaki sıcaklıkları eşit olan iki
+su dolu kaba özdeş ısıtıcılarla farklı sürelerde ısı verildiğinde çok ısı verilen
+kapta sıcaklığın daha yüksek olduğunu gözlemleriz. Buradan da anlaşılacağı
+gibi ısı miktarı ile sıcaklık değişimi doğru orantılıdır.
+Yandaki deney düzeneğinde, kütleleri farklı olan ve başlangıçtaki sıcaklıkları
+eşit olan iki su dolu kaba özdeş ısıtıcılarla eşit süre ısı verildiğinde kütle
+miktarı az olan kapta sıcaklığın daha yüksek olduğunu görürüz. Aynı
+maddeden eşit kütleler alıp, eşit miktarda ısı verildiğinde kütlesi fazla olanın
+sıcaklık değişiminin az olduğunu gözlemleriz. Kütle artınca sıcaklık artışı
+azalır, dolayısıyla kütle ile sıcaklık değişimi arasında ters orantı vardır.
+B.Hâl Değişimi
+Görsel 7:Hâl değişim şeması
+Maddeler doğada katı, sıvı ve gaz olmak üzere üç hâlde bulunabilir. Maddenin ısı etkisiyle bir hâlden başka bir hâle
+dönüşmesi olayına hâl değişimi denir. Katı hâldeki bir maddenin ısı alarak sıvı hâle geçmesine erime, maddenin
+ısı alarak katı hâlden sıvı hâle geçtiği sıcaklık değerine de erime sıcaklığı denir. Sıvı bir maddenin ısı kaybederek
+sıvı hâlden katı hâle geçmesine donma, sıvı bir maddenin katı hâle geçtiği sıcaklık değerine de donma sıcaklığı
+denir.
+Erime Isısı ve Donma Isısı
+Erime sıcaklığındaki 1 g katı hâldeki saf maddenin, aynı sıcaklıkta 1 g sıvı madde hâline dönüşmesi için katı
+maddeye verilen ısı miktarına erime ısısı denir. Erime ısısı L ile gösterilir. Birimi cal/g ya da J/g’dır.	e
+Donma sıcaklığındaki 1 g sıvı hâldeki saf maddenin, aynı sıcaklıkta 1 g katı madde hâline dönüşmesi için
+maddeden alınan ısı miktarına donma ısısı denir. Donma ısısı L ile gösterilir. Birimi cal/g ya da J/g’dır. Saf
+maddelerin erime ısısı ve donma ısısı birbirine eşittir. d
+Buharlaşma ve Yoğuşma Olayları
+Sıvı hâldeki bir maddenin ısı alarak gaz hâle geçmesine buharlaşma denir. Gaz bir maddenin ısı kaybederek gaz
+hâlden sıvı hâle geçmesine yoğuşma, gaz bir maddenin sıvı hâle geçtiği sıcaklık değerine de yoğuşma sıcaklığı
+denir.
+Buharlaşma her sıcaklıkta olur. Maddenin buharlaşma sıcaklığı diye bir kavram yoktur. Onun yerine kaynama
+sıcaklığı kullanılır.
+Buharlaşma Isısı ve Yoğuşma Isısı
+Kaynama sıcaklığındaki 1 g sıvının yine aynı sıcaklıkta 1 g gaz hâline geçebilmesi için maddeye verilmesi gereken
+ısı miktarına buharlaşma ısısı denir. Buharlaşma ısısı L ile gösterilir. Birimi cal/g ya da J/g’dır.	b
+Yoğuşma sıcaklığında bulunan 1 g gazın yine aynı sıcaklıkta 1 g sıvı hâle geçmesi için maddeden alınması gereken
+ısıya yoğuşma ısısı denir. Yoğuşma ısısı L ile gösterilir. Birimi cal/g ya da J/g’dır. Saf maddelerin buharlaşma ısısı
+ve yoğuşma ısısı birbirine eşittir y
+
+-- 13 of 36 --
+
+FEN BİLİMLERİ	MEBİ KONU ÖZETLERİ
+İçinde bir miktar belli sıcaklıkta buz bulunan bir kabın buz eriyip gaz hâline dönüşene kadar ısıtılması
+durumundaki sıcaklık değişimini gösteren grafik aşağıda verilmiştir.
+Görsel 8:Isınma grafiği
+Saf bir madde ısıtıldığında hâl değiştiriyorsa maddenin sıcaklığı sabit kalır, hâl değişimi gerçekleşmeyen
+ısıtma işlemlerinde ise saf maddelerin sıcaklığı artar. Grafik incelendiğinde maddenin sıcaklığının bazı
+zaman aralıklarında arttığı, bazı zaman aralıklarında ise sabit kaldığı görülmektedir. Grafikte sıcaklığın
+sabit kaldığı zaman aralıklarında (t₁-t₂, t₃-t₄) maddenin hâl değişimleri gerçekleşmiştir. Grafikte sıcaklık
+0°C
+ve 100°C'ta sabit kalmıştır. Bu durumda madde bu sıcaklıklarda hâl değiştirmiştir. 0°C buzun erime
+sıcaklığı, 100°C ise suyun kaynama sıcaklığıdır. Soğuk bir ortama bırakılan su buharının zamana bağlı
+sıcaklık değişimini gösteren grafik aşağıda verilmiştir.
+Görsel 9:Su buharınının soğuma grafiği
+Isı veren saf bir madde hâl değiştirdiğinde maddenin sıcaklığı sabit kalır, hâl değişimi gerçekleşmeyen
+soğutma işlemlerinde ise saf maddenin sıcaklığı azalır. Grafik incelendiğinde maddenin sıcaklığının bazı
+zaman aralıklarında azaldığı, bazı zaman aralıklarında ise sabit kaldığı görülmektedir. Grafikte sıcaklığın sabit
+kaldığı 0°C ve 100°C'ta madde hâl değiştirmiştir. 100°C su buharının yoğuşma sıcaklığı, 0°C ise suyun donma
+sıcaklığıdır.
+
+-- 14 of 36 --
+
+Spor yaptığımızda terlediğimizde üşüdüğümüzü hissederiz.
+Bunun sebebi de ıslak olan kıyafetimiz kururken yani su
+buharlaşırken kıyafetin vücudumuzdan ısı almasıdır.
+C.Günlük Hayatta Hâl Değişimleri
+Maddeler arasındaki ısı alışverişi sıcaklık farkından kaynaklanır. Bir madde, kendinden sıcak bir ortama
+konulduğunda ortamdan ısı alır ve bu ısının etkisiyle hâl değişimine uğrayabilir. Bir madde, kendinden daha soğuk
+bir ortama bırakıldığında ise ısı verir ve hâl değişimine uğrayabilir.
+Buzdolabından çıkardığımız meyve suyu şişesinin dışında su
+damlalarının oluşması su buharının soğuk olan şişe yüzeyine
+çarpıp yoğuşmasından dolayıdır.
+FEN BİLİMLERİ	MEBİ KONU ÖZETLERİ
+Elimize kolonya döktüğümüzde bir süre sonra serinlik hissederiz.
+Bunun sebebi kolonyanın buharlaşırken elimizden ısı almasıdır.
+Kar yağarken hava sıcaklığı bir süre artar. Bunun sebebi havadaki su
+buharının hâl değiştirirken atmosfere ısı vermesidir.
+TÜRKİYE’DE KİMYA ENDÜSTRİSİ
+A.Kimya Endüstrisinin Tanımı ve Önemi
+Maddenin iç yapısını, fiziksel ve kimyasal özelliklerini, bileşimini, girebileceği kimyasal tepkimelerini araştıran ve
+uygulayan bilim dalına kimya denir. Günümüzde birçok sektör için gerekli olan kimyasal ham maddeleri veya ara
+ürünleri üreten tesislerinin tamamına kimya endüstrisi denir. Yeni maddeler fabrikalarda kimyasal tepkimelerle
+üretilmektedir.
+Görsel 1: Kimya endüstrisi alanında üretim yapan tesis
+
+-- 15 of 36 --
+
+Günlük hayatımızda kullandığımız malzemelerin birçoğu kimya endüstrisi sayesinde oluşturulmaktadır. Kimya
+endüstrisi otomotiv, deri, çimento, petrol, kâğıt, kozmetik, gıda, tekstil, sağlık, boya, ilaç, gübre ve enerji sek-
+törlerinde faaliyet göstermektedir.
+FEN BİLİMLERİ	MEBİ KONU ÖZETLERİ
+Kimya Endüstrisinin Önemi
+Kimya endüstrisi yeni ürünlerin ortaya çıkmasını sağlar.
+Evimizde kullandığımız deterjanlar, yapıştırıcılar, kâğıt
+ürünleri, plastik ürünler, cam malzemeler, boya maddeleri,
+tekstil ürünleri vb. birçok ürün kimya en- düstrisi sayesinde
+üretilmektedir.
+Kimya endüstrisi ülkenin gelişmişlik seviyesinin bir
+göstergesidir.
+Kimya endüstrisi diğer sektörlerin gelişmesini sağlayan
+önemli bir lokomotiftir. 	Görsel 2: Kimyanın günlük yaşama katkısı
+B.Türkiye’de Kimya Endüstrisi
+Kimya endüstrisi ülkemiz için çok önemli bir sektördür. Kimya
+sektörünün yapmış olduğu ihraç ürünler ekonomiye büyük katkı
+sağlamaktadır. Kimya endüstrisinin gelişmesi için katma değeri
+yüksek, yüksek teknoloji ürünlere yönel- mek gereklidir. Ar-ge
+(Araştırma ve geliştirme) çalışmalarına önem verilmelidir. Kimya
+sektörü oldukça geniş bir ürün yelpazesine sahiptir.Sek-
+tör, temizlik ürünleri, boya, kozmetik ürünleri, ilaçlar gibi
+tüketim mallarının yanı sıra, tarım sektörü için gübreler ve tarım
+ilaçları, inorganik kimyasallar, boyalar, laboratuvar kimyasalları
+ve benzeri ürünleri üretmektedir.
+Görsel 3: Kimya alanında çalışma yapan bilim adamı
+Türkiye'de kimya endüstrisi Cumhuriyetin ilanından sonra faaliyetlerine başlamıştır. Ülkemizde kimya sektörü
+henüz istenilen seviyeye ulaşmış değildir, ancak kimya sanayimiz son yıllarda hızla gelişmektedir. Ülkemizde
+ham madde ve enerji kaynaklarının yetersizliği ve dışardan alınması nedeniyle kimya sektöründe ithalatımız
+ihracatımıza göre daha yüksektir.
+Ülkemizde yoğun ürün yelpazesine sahip olan kimya sektöründe kullanılan ham maddenin %70’i ithal edilmek-
+te, %30’u ise yerli üretimle karşılanmaktadır. Kimya sektörünün gelişmesi ithalata bağlı olarak sağlanabilmek-
+tedir. Kimya Sanayi, lojistik önemi açısından çoğunlukla ülkenin kıyı bölgelerinde lokalize olmuştur. Petrol ve
+petrol ürünleri, deterjan, sabun, ilaç kimyasalları, boya gibi ürünleri üreten kimya firmalarının çoğu üç büyük
+sanayi ili olan İstanbul, Kocaeli ve Sakarya’da toplanmıştır.
+Kimya Endüstrisi Alanında Faaliyet Gösteren Kurumlar
+1. Makine ve Kimya Endüstrisi Kurumu (MKE)
+Her çeşit silah, mühimmat, patlayıcı madde, makine üretimi amacıyla kurulmuştur. Türk Silahlı Kuvvetleri ve
+güvenlik güçlerinin ihtiyaçlarını karşılamaktadır.
+2. Türk Standartları Enstitüsü (TSE)
+Her türlü madde ve mamulün standardını, uygunluk değerlerini, deney ve ölçümleme faaliyetlerini sağlayan
+kamu kuruluşudur.
+
+-- 16 of 36 --
+
+FEN BİLİMLERİ	MEBİ KONU ÖZETLERİ
+3. Tüpraş
+Türkiye'de bulunan petrol rafinerileri Tüpraş'a bağlı
+olarak çalışmaktadır.
+1. İzmir Rafinerisi
+2. İzmit Rafinerisi
+3. Batman Rafinerisi
+4. Kırıkkale Rafinerisi
+Görsel 4: Petrol rafinerisi
+4. Ulusal Bor Araştırma Enstitüsü (BOREN)
+Ülkemizde bor elementinin ekonomiye katkısını sağlayan, katma değeri yüksek bor ürün ve teknolojileri
+geliştirmeye ve kullanım alanlarını yaygınlaştırmayı amaçlayan kuruluştur.
+5. Petkim
+Ülkemizin en önemli petrokimya şirketidir. Birçok petrokimyasal ham madde üretilmektedir.
+6. Maden Tetkik Arama (MTA)
+Ülkemizin maden ve ham madde kaynaklarını araştırmak ve ekonomiye kazandırmakla görevli kuruluştur.
+C. Kimya Endüstrisinde Meslek Dalları
+Kimya endüstrisi içerisinde birçok meslek dalı yer almaktadır.
+1. Kimya Mühendisi
+Farklı bilim dallarını kullanarak ham maddeleri daha kullanışlı yeni maddelere dönüştüren mühendislik dalı-
+dır.
+7. Türkiye Petrolleri Anonim Ortaklığı (TPAO)
+Ülkemizin petrol ve doğal gaz araştırması ve üretiminden sorumlu kuruluştur.
+8. Türk Kimya Sanayicileri Derneği (TKSD)
+Kimya sanayisinin gelişimine katkıda bulunmak, ülkemizin kimya sanayisini dış ülkelere tanıtmak, sektörün
+güncel sorunlarını dile getiren dernektir.
+9. TÜBİTAK Marmara Araştırma Merkezi (Mam)
+Tübitak Kimyasal Teknoloji Enstitüsü, kimya alanında araştırma geliştirme (ar-ge) çalışmaları yürütmektedir.
+2. Kimya (Kimyager)
+Kimyagerler maddelerin kimyasal özelliklerini ve bunların nasıl
+değiştirilebileceği ile ilgili çalışmalar yapar. Ayrıca her türlü kimyasal
+örneğin analizini yaparak kimya mühendisine yardım eder.
+Görsel 5: Kimyager
+
+-- 17 of 36 --
+
+FEN BİLİMLERİ	MEBİ KONU ÖZETLERİ
+6. Ziraat Mühendisi
+Bitkisel ve hayvansal üretim, tarımsal teknoloji, tarım makineleri,
+toprak bilimi, bitki besleme ve biyogaz enerji üretimi alanlarında
+uğraş veren mühendislik dalıdır.
+Görsel 8: Ziraat
+Mühendisi
+5. Gıda Mühendisi
+Gıdaların güvenilir bir şekilde üretimini, işlenmesini, dağıtılmasını sağlayan mühendislik dalıdır.
+3. Petrol Mühendisi
+Petrol ve doğal gazın, üretilmesi, depolanması ve işletilmesi
+konularında çalışma yapan meslek dalıdır.
+Görsel 6: Petrol
+Mühendisi
+4. Maden Mühendisi
+Madenlerin bulunması, çıkarılması ve işlenmesi konularında
+çalışma yaparlar.
+Görsel 7: Maden
+Mühendisi
+
+-- 18 of 36 --
+
+Madde ve Endüstri
+Açıklama
+Kavram Yanılgısı
+Düzeltme Stratejileri
+Bu Kavram Yanılgısı Neden Oluşur
+Kimyasal tepkimeler sırasında maddenin toplam kütlesi azalır veya yok olur.
+Öğrenciler genellikle açık kaplarda yapılan yanma tepkimelerini gözlemlerken, gaz çıkışını kütle kaybı olarak
+yorumlarlar; 'uçup giden' gazın bir kütlesi olduğunu ihmal ederler.
+Kimyasal tepkimelerde atomlar yok olmaz veya yoktan var olmaz; sadece bağlar kopar ve yeni bağlar oluşur. Kapalı
+bir sistemde toplam kütle her zaman korunur.
+Kapalı Sistem Deneyi ile erlenmayer içinde balon kullanarak bir tepkime (sirke-karbonat) gerçekleştirmek ve hassas
+terazide kütlenin değişmediğini, Lego Modelleri ile tepkimeye giren atomları temsil eden legoları söküp yeni yapılar
+kurarak atom sayısının değişmediği, bir miktar kağıdı hassas terazide tartıp ardından kağıdı yakıp (güvenlik
+önlemleriyle) ve külleri tekrar tartıldığında aradaki farkın havaya karışan gaz olduğunu, eğer bir fanus içinde yapılsaydı
+kütlenin değişmeyeceğini gözlemleyebiliriz.
+KAVRAM YANILGILARI	KAVRAM YANILGILARI
+mgfenakademisi
+Açıklama
+Kavram Yanılgısı
+Düzeltme Stratejileri
+Bu Kavram Yanılgısı Neden Oluşur
+Maddeler ısı aldığında sıcaklıkları her zaman artar.
+Gündelik hayatta ısıtılan her şeyin ısındığı (sıcaklığının arttığı) yönündeki yüzeysel gözlem ve 'ısı' ile 'sıcaklık'
+kavramlarının birbirinin yerine kullanılması.
+Sıcaklık-Zaman Grafiği Çizimi: Buzlu suyun ısıtılması deneyinde her dakika sıcaklık ölçümü yaparak düz bir çizgi
+(duraklama) elde edilebilir.
+Saf maddeler hal değiştirirken (erime, kaynama vb.) çevrelerinden ısı almaya devam etseler bile sıcaklıkları sabit kalır.
+Bu enerji, tanecikler arası çekim kuvvetini yenmek için kullanılır.
+
+-- 19 of 36 --
+
+Açıklama
+Kavram Yanılgısı
+Düzeltme Stratejileri
+Bu Kavram Yanılgısı Neden Oluşur
+Güçlü bir asit olan bir maddeye baz eklendiğinde karışım her zaman nötr (pH=7) olur.
+Öğrencilerin asit ve bazı 'zıt kutuplar' olarak görmesi ve zıtların bir araya geldiğinde birbirini tamamen yok edeceği
+yönündeki basit mantık yürütme (ikili düşünme yapısı).
+Nötralleşme tepkimesi, eklenen bazın miktarına ve derişimine bağlıdır. Eğer asit miktarı fazlaysa karışım hala asidik
+kalabilir. Nötralleşme bir süreçtir, anlık bir sonuç değildir.
+pH Metre ile bir asit çözeltisine damla damla baz ekleyerek pH değerinin yavaş yavaş yükseldiğini dijital veya renkli
+göstergelerle birlikte turnusol kağıdı veya lahana suyu indikatörü ile renk değişiminin tonlarını gözlemlemlenebilir.
+Madde ve Endüstri
+KAVRAM YANILGILARI	KAVRAM YANILGILARI
+mgfenakademisi
+
+-- 20 of 36 --
+
+Kimyasal Tepkimelerde "Atom Türü" Tuzağı:
+Kapalı bir kapta iki gaz maddesinin (L ve M) birleşip sıvı bir saf madde oluşturduğunu
+veya deney tüpünde renk değişimiyle gaz çıkışı olduğunu gösterir. Şıklara "Tepkime
+sonucunda atomların türü veya yapısındaki atom çeşidi değişmiştir" çeldiricisini
+koyar. ASLA! Kimyasal tepkimelerde atomun türü, çeşidi ve sayısı her zaman
+korunur; sadece bağlar kırılır ve yeni bağlar oluşur.
+Hal Değişimi Grafiklerinde Zaman Ekseninin Uzaması:
+Isıtılan saf bir katının veya sıvının sıcaklık-zaman grafiğinde hal değişim çizgisinin
+(yatay çizgi / taranmış alan) daha uzun sürmesini sorar. Öğrenci hemen "Maddenin
+öz ısısı büyüktür" şıkkına koşar. Oysa hal değişim süresini uzatan şey öz ısı değil,
+maddenin kütlesinin (miktarının) fazla olması veya ısıtıcının gücüdür.
+🔍 Hangi Soru Tarzında Ne Yapılmalı?
+Periyodik Sistem Soruları: "Atom numaraları ardışık olan iki element" ifadesini
+gördüğünüzde hemen alarm durumuna geçin. Bu iki elementin farklı periyotlarda
+(Örn: 8A soygazından bir alt periyodun 1A alkali metaline geçiş) veya farklı gruplarda
+yer alabileceğini unutmayın.
+Asit-Base İndikatör Soruları:
+Metil oranj, fenolftalein veya turnusol boyası gibi ayıraçların hangi pH aralığında
+hangi rengi verdiğini sorunun başında okur okumaz, kapların üzerine pH değerlerini
+(Asit < 7, Baz > 7) kurşun kalemle not edin.
+🎯 MEB'in Favori Çeldirici
+Teknikleri
+mgfenakademisi
+
+-- 21 of 36 --
+
+Periyodik Sistem	mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 22 of 36 --
+
+Periyodik Sistem
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 23 of 36 --
+
+Periyodik Sistemmgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 24 of 36 --
+
+Fiziksel-Kimyasal Değişim
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 25 of 36 --
+
+Kimyasal Tepkimeler
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 26 of 36 --
+
+Kimyasal Tepkimeler mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 27 of 36 --
+
+Kimyasal Tepkimeler
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 28 of 36 --
+
+Asitler- Bazlar
+HNO3
+Nitrik Asit
+KOH
+Kalsiyum Hidroksit
+Sönmüş
+Kireç
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 29 of 36 --
+
+Asitler- Bazlar mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 30 of 36 --
+
+Ağaçlandırma
+artırılmalı
+Asitler- Bazlar
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 31 of 36 --
+
+Özısı
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 32 of 36 --
+
+Termometre
+Kalorimetre
+ÖZISI
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 33 of 36 --
+
+Medde Dinsi
+(Öz Isı/Hál
+Değişim İsısı)
+Hâl değişimi için gereken Isı;
+maddenin kütlesine (m) ve
+maddenin cinsine (öz ısı/hâl
+değişim ısısı) doğrudan bağlıdır.
+Kışın yolların tuzlanması
+Nedeni: Donma noktasını
+düşürür.
+Sonuç: Buzlanma gecikir.
+Toprak testideki su
+Nedeni: Gözeneklerden
+sızan su buharlaşırken ısı
+alır.
+Sonuç: Su soğuk kalır.
+Hal Değişimi
+
+-- 34 of 36 --
+
+Kimya Endüstrisi
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 35 of 36 --
+
+Beğen
+Yorum yap
+Arkadaşına Gönder
+Takip Et	Sonrası için Kaydet
+Tekrar paylaş
+mgfenakademisi
+DEĞİŞİMİ GÖRÜN!
+FEN ENNEAGRAM TESTİ
+Hemen Katılın
+LİNK İÇİN
+PROFİLE BAKINIZ
+DM’DEN İLETİŞİME
+GEÇEBİLİRSİNİZDM
+Çocuğunuzun Fen Başarısını %100 Artıracak Sırrı Biliyor
+musunuz?
+LGS FEN BİLİMLERİ
+DERSLERİMDE
+KULLANDIĞIM KAYNAKLAR
+
+-- 36 of 36 --
+

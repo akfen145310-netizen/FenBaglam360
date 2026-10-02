@@ -1,0 +1,462 @@
+1.ÜNİTE: MEVSİMLER VE İKLİM
+1.MEBİ LGS Konu Özeti
+2.Kavram Yanılgıları
+3.Çeldiriciler
+4.Başucu Notları
+8.SINIF
+22 sayfa
+dolu dolu
+
+-- 1 of 23 --
+
+LGS	LGS	LGS	LGS	LGS	LGS	LGS	LGS	LGS
+MEVSİMLERİN OLUŞUMU
+Görsel 2: Kuzey yarım küreye farklı tarihlerdeki Güneş ışınlarının gelme açıları
+Yukarıdakuzeyyarımkürede bulunan bir bölgeye21 Haziran ve 21 Aralıktarihlerinde öğlesaatinde Güneş ışınlarının düşme açılarını
+gösteren görseller verilmiştir.Görseller incelendiğinde haziran ayında Güneşışınlarının dike yakın açıyla geldiği zamanlarda yaz,aralık
+ayında eğik açıyla geldiği zamanlarda kış mevsimiyaşanmaktadır.
+Eksen eğikliği, bir gezegenin dönme ekseni ile yörüngedüzlemi arasındaki
+açıdır. Dünya 23°27’lık (23 derece 27 dakikalık) bir eksen eğikliğine
+sahiptir.Dünya’nın eksen eğikliği nedeniyle Güneş ışınları yılın farklı
+zamanlarında kuzey ve güney yarım küreye farklı açılarla düşer. Dünya,
+Güneş etrafında dolanırken eksen eğikliği sürekli aynı kalır. Eksen eğikliği
+ve Dünya'nın Güneş etrafındaki dolanma hareketi
+sayesinde mevsimler oluşur. Güneş ışınlarının düşme açısına göre aynı
+anda farklı yarım kürelerde farklı mevsimler yaşanır. Örneğin kuzey yarım
+kürede yaz mevsimi yaşanırken güney yarım kürede kış mevsimi yaşanır.
+Mevsimlerin oluşumunu etkileyen iki temel faktör vardır. Bunlar eksen eğikliği ve Dünya’nın Güneş etrafında yaptığı dolanma
+hareketidir.
+1. Eksen Eğikliği
+1
+KONU
+ÖZETİ
+Görsel 1: Dünya'nın eksen eğikliği
+2. Dolanma Hareketi
+Görsel 3: Dünya'nın Güneş etrafındaki dolanma
+hareketi ve farklı tarihlerdeki konumu
+Dünya’nın Güneş etrafındaki dolanma hareketi ve eksen eğikliği sonucunda Güneş ışınlarının yeryüzüne düşme açısı
+değişmektedir. Bu durum yaşanan tarihe göre farklı yarım kürelerde farklı mevsimlerin oluşmasına neden olur.
+
+-- 2 of 23 --
+
+2
+FEN BİLİMLERİ
+•
+•
+•
+Görsel 5: 21 Aralık tarihinde Dünya'nın Güneş'e göre konumu
+21 Haziran Gün Dönümü
+•
+Kuzey yarım kürede yaz, güney yarım kürede
+kış başlangıcıdır.
+Kuzey yarım kürede en uzun gündüz, güney
+yarım kürede en uzun gece yaşanır.
+Güneş ışınları öğle vaktinde Yengeç
+•
+•	Dönencesine dik açıyla gelir.
+Görsel 4: 21 Haziran tarihinde Dünya'nın Güneş'e göre konumu
+21 Aralık Gün Dönümü
+Kuzey yarım kürede kış, güney yarım kürede
+yaz başlangıcıdır.
+Kuzey yarım kürede en uzun gece, güney
+yarım kürede en uzun gündüz yaşanır.
+Güneş ışınları öğle vaktinde Oğlak
+Dönencesine dik olarak gelir.
+MEBİ KONU ÖZETLERİ
+21 Mart (ekinoks)
+Görsel 6: 21 Mart ve 23 Eylül ekinoks tarihlerinde Dünya'nın Güneş'e göre konumları
+23 Eylül (ekinoks)
+
+-- 3 of 23 --
+
+21 Mart Ekinoksu
+•	Kuzey yarım kürede ilkbahar, güney yarım küre-
+de sonbahar başlangıcıdır.
+Gece ve gündüz süreleri eşittir. (12 saat)•
+•
+•
+Güneş ışınları ekvatora dik düşer.
+Eksen eğikliğinin etkisi ortadan kalkar.
+Görsel 7: Dünya'nın Güneş etrafındaki dolanma hareketi ve elips yörüngesi
+Dünya’nın dolanma hareketi olmasaydı Dünya üzerindeki farklı konumlara düşen Güneş ışığının gelme
+açısı yıl boyunca değişmezdi. Dünya’da konuma göre o yere özel değişmeyen bir mevsim olurdu.
+KRİTİK BİLGİ
+Dünya’nınGüneş’eyakınyadauzakoluşununmevsimlerinoluşmasındaetkisiyoktur. Dünya'nın
+Güneş’e en yakınolduğu 3Ocak tarihinde ülkemizde kış mevsimi, Güneş’e en uzak olduğu4
+Temmuz tarihinde ise yaz mevsimi yaşanmaktadır. Yani mevsimlerin oluşumu Güneşışınlarının
+yeryüzüne düşme açısına bağlıdır.
+23 Eylül Ekinoksu
+Kuzey yarım kürede sonbahar, güney
+yarım kürede ilkbahar başlangıcıdır.
+Gece ve gündüz süreleri eşittir. (12 saat)
+Güneş ışınları ekvatora dik düşer.
+Eksen eğikliğinin etkisi ortadan kalkar.
+FEN BİLİMLERİ	MEBİ KONU ÖZETLERİ
+
+-- 4 of 23 --
+
+FEN BİLİMLERİ
+Eksen Eğikliğinin
+Sonuçları
+Mevsimler oluşur.
+Yıl boyunca güneş
+ışınlarının gelme
+açısı değişir.
+Gece gündüz
+süreleri değişkenlik
+gösterir.
+Aynı zamanlarda
+farklı yarım küreler-
+de farklı mevsimler
+yaşanır.
+NOT
+Güneş ışınlarının dik veya dike yakın açıyla
+geldiği yerlerdeyaz mevsimiyaşanır. Yaz
+mevsiminde gündüz süresi gece süresinden daha
+uzundur.
+Mevsimler
+oluşmazdı.
+Gece gündüz
+süreleri sabit
+olurdu.
+Eksen Eğikliği
+Olmasaydı
+Öğle vakti gölge
+boyu hep aynı
+kalırdı.
+Güneş ışınları aynı
+bölgeye hep aynı
+açıyla düşerdi.
+NOT
+Güneş ışınlarının eğik açıyla geldiği yerlerde kış
+mevsimiyaşanır. Kış mevsimindegecesüresi
+gündüz süresinden daha uzundur.
+BİRİM YÜZEYE DÜŞEN ENERJİ MİKTARI
+Yeryüzündeki sıcaklığı etkileyen temel faktör, Güneş ışınlarının yeryüzüne düşme açısıdır. Eksen eğikliği ve
+dolanma hareketinedeniyle Güneş ışınlarının Dünya'ya düşme açısı yıl boyunca değişir. Dünya yüzeyine dik
+düşen ışınları n temas ettiği yüzey alanının büyüklüğü daha az, eğik düşen ışınların temas ettiği yüzey
+alanının büyüklüğü daha fazladır. Güneş ışınları dik veya dike yakın açılarla düştüğü yüzeye daha fazla ısı
+enerjisi aktarır. Güneş ışınlarının temas ettiği yüzey alanı daha d ar olduğunda birim yüzeye düşen enerji
+miktarı daha fazla olur. Eğik düşen Güneş ışınlarının temas ettiği yüzey alanı daha geniş olduğundan birim
+yüzeye düşen enerji miktarı daha az olur. Bu yüzden ışığın dik geldiği bölgelerde sıcaklık daha fazla, eğik
+geldiği bölgelerde ise sıcaklık daha azdır.
+MEBİ KONU ÖZETLERİ
+
+-- 5 of 23 --
+
+Dar alanBirim yüzeye düşen enerji miktarı daha fazladır.
+Öğle vakti gölge boyu kısadır.
+Görsel 8: Güneş ışınlarının yeryüzüne gelme açıları ve mevsimler üzerindeki etkisi
+Geniş alanBirim yüzeye düşen enerji miktarı daha azdır.
+Öğle vakti gölge boyu daha uzundur.
+Görselde Güneş ışınlarının Dünya üzerinde oluşturduğu aydınlanma alanlarındakifarklılık gösterilmiştir.
+Verilen görselde Dünya yüzeyinde aydınlanan geniş alanda birim yüzeye aktarılan enerji miktarı daha azdır.
+Dar bölgede ise birim yüzeye aktarılan enerji miktarı daha fazladır. Güneş ışınlarının yeryüzüne düşme açısı
+aynı zamanda gölge boyunu da etkilemektedir.Işığın dike yakın geldiği zamanlardagölge boyu kısa, eğik
+geldiği zamanlarda ise gölge boyu daha uzun olur.
+FEN BİLİMLERİMEBİ KONU ÖZETLERİ
+LGS	LGS	LGS	LGS	LGS	LGS	LGS	LGS	LGS	LGS	LGS	LGS
+Görsel 1: Dünya'yı saran atmosfer tabakası
+Bir gezegeni veya uyduyu çevreleyen gaz taba-
+kalarının belirli bir katmanına atmosfer de- nir.
+Atmosfer, gezegenin ya da uydunun, gaz
+moleküllerini kütle çekim kuvveti ile kendine
+doğru çekmesi sonucu oluşur. Nefes aldığımız-
+da içimize çektiğimiz hava atmosferin bir
+parçasıdır.
+Atmosferimizi oluşturan havanın %78’i azot,
+%21’i solunum yapmamız için gerekli olan oksi-
+jendir. Atmosferimizin geriye kalan %1’lik kısmı
+ise su buharı, karbon dioksit, metan ve ozon gibi
+gazlardan oluşur.
+KONU
+ÖZETİİKLİM VE HAVA HAREKETLERİ
+FEN BİLİMLERİ
+
+-- 6 of 23 --
+
+Görsel 2: Hava Olayları
+Geniş bir bölgede uzun yıllar boyunca gözlenen hava olaylarının orta-
+lamasına iklim denir. Dört mevsim boyunca bir bölgedeki ortalama
+hava sıcaklığı ve yağış miktarı, o bölgenin iklimini belirler. Bölgenin
+sıcaklığını ve yağış miktarını ise Ekvator’a yakınlık, rüzgârlar, yeryüzü
+şekilleri ve okyanus akıntıları gibi birçok faktör belirler. Bu yüzden
+Dünya’nın farklı bölgelerinde farklı iklimler görülür. İklim bilimi anlamına
+gelen klimatolo- ji, yeryüzünde görülen iklim tiplerini inceleyen bilim
+dalıdır. İklimi çalışan bilim insanlarına iklim bilimci (klimatolog) denir
+Görsel 3: Kurak iklimin görüldüğü bir bölge
+Hava Hareketleri
+Hava olaylarının değişimi günlük yaşantımızı etkiler. Örneğin bizler günümüzü nasıl geçireceğimizi planlarken hava durumunu
+göz önünde bulundururuz. Denizciler denize açılmadan önce, pilotlar uçuş öncesinde ve çiftçiler de toprağı ekip biçmeden önce
+yapılan hava tahminlerini göz önünde bulundururlar. Bu nedenle, havanın durumunun nasıl olacağının önceden tahmin
+edilebilmesi çok önemlidir. Atmosferdeki sıcaklık değişimlerini ve çeşitli hava olaylarını inceleyerek hava tahminleri yapan bilim
+dalına meteoroloji denir. Meteoroloji ile uğraşarak hava tahminleri yapan uzmanlara ise meteorolog adı verilir. Meteorologlar,
+gece ve gündüz sıcaklıklarının nasıl olacağı, alçak ve yüksek basınç etkisinin ne şekilde hissedileceği gibi tahminlerde bulunur.
+FEN BİLİMLERİMEBİ KONU ÖZETLERİ
+İklim ve Hava Olayları Arasındaki Fark
+Hava Olayları	İklim
+Belirli bir yerde ve kısa süre içinde etkili olan hava
+şartlarıdır.
+Kısa sürede oluşur. (Gün, hafta, vb.)
+Geniş bir bölgede uzun yıllar boyunca gözlenen
+hava olaylarının ortalamasıdır.
+En az 30-35 yıllık hava olaylarının ortalamasıdır.
+Uzun yıllar boyunca görülen, yağış, sıcaklık gibi
+durumların ortalamasına göre belirlenir.
+Atmosferdeki kısa süreli hava değişimleridir.
+Hava olaylarını araştıran bilim dalı meteoroloji, bilim İklimleri araştıran bilim dalı klimatoloji, bilim insanı
+insanı meteorologdur.
+Kısa zaman içinde değişkenlik gösterebilir. Tah-
+minîdir.
+Hava olaylarından bahsedilirken, güneşli, çok
+bulutlu, rüzgârlı gibi ifadeler kullanılır.
+klimatologdur.
+Değişkenlik daha azdır. Kesinlik bildirir.
+İklimden bahsedilirken kurak, ılıman, yağışlı gibi
+ifadelerkullanılır.
+
+-- 7 of 23 --
+
+Şekil - 1
+FEN BİLİMLERİ
+Şekil -2
+Yukarıda verilen Şekil-1'deKırıkkale ilinde beklenen bir haftalık hava olaylarının tahmin görüntüsü verilmiştir. Bu
+çalışma meteoroloji biliminin çalışma alanıdır ve meteorologlar tarafından elde edilmiştir. Şekil-2'deise aylara
+göre yağış ve sıcaklık ortalaması grafiği verilmiştir.Bu grafiğin elde edilmesi klimatoloji biliminin çalışma alanıdır
+ve klimatologlar tarafından elde edilmiştir.
+Yağış Türleri
+Yeryüzünde bulunan su, buharlaşma ve yoğunlaşma olayları nedeniyle devamlı bir döngü içerisindedir. Su
+kaynaklarındaki su buharlaşarak atmosfere yükselir. Atmosferde hava sıcaklığının düşmesiyle yoğunlaşarak
+katı ya da sıvı hâlde yeryüzüne iner. Atmosferdeki su buharının sıvı ya da katı hâlde yeryüzüne düşmesine
+yağış denir.
+MEBİ KONU ÖZETLERİ
+Yeryüzüne yakın yerlerde oluşanlar
+Kırağı
+Sis
+Çiy
+Hava olayları oluştuğu yere göre iki grupta incelenir.
+Gökyüzüne yakın yerlerde oluşanlar
+Dolu
+Kar
+Yağmur
+
+-- 8 of 23 --
+
+Yeryüzüne yakın su buharının sıvı hâle
+geçmeden doğrudan katı hâle geçmesiyle
+meydanagelen hava olayıdır.
+Su buharının gökyüzüne yakın yerlerde buz
+kristalleri hâline gelip yeryüzüne inmesiyle
+oluşur.
+Yeryüzüne yakın havanın yere temas eden
+kısmındaki nem ısı kaybederek yoğunlaşır.
+Nemin ısı kaybederek sıvı hâle geldiği hava
+olayıdır.
+Yüksek basınçtan alçak basınca doğru yatay
+yönlü hava hareketidir.
+Su buharının gökyüzüne yakın yerlerde
+yoğuşarak su damlacıkları hâlinde yeryüzüne
+inmesidir.
+Sıcak ve nemli havanın yeryüzüne yakın yer-
+lerde ani soğuması sonucu havada asılı halde
+bulunmasıdır.
+Su buharının gökyüzüne yakın yerlerde aniden
+yoğunlaşıp donması ile oluşan yağış şeklidir.
+FEN BİLİMLERİ
+SİS
+ÇİY
+KAR
+DOLU
+RÜZGÂR
+YAĞMUR
+KIRAĞI
+MEBİ KONU ÖZETLERİ
+
+-- 9 of 23 --
+
+Yüksek Basıç Alanı
+Hava serindir.
+Alçalan hava hareketi vardır.
+Hava hareketi merkezden çevreye doğrudur.
+Yağış olma ihtimali düşüktür.
+Görsel 4: Yüksek basınç ve alçak basınç alanları
+Küresel İklim Değişikliği
+İklimlerin yapısında meydana gelen küresel çaptaki değişimlere küresel iklim değişikliği denir.
+Alçak Basınç Alanı
+Hava sıcaktır.
+Yükselen hava hareketi vardır.
+Hava hareketi çevreden merkeze doğrudur.
+Yağış olma ihtimali yüksektir.
+FEN BİLİMLERİ
+Rüzgâr:Yüksek basınç alanlarından alçakbasınç alanlarına doğru yatay yönlü yer değiştiren hava hareketlerine
+rüzgâr denir.
+Küresel ısınma sonucunda beklenmeyen hava olayları
+gerçekleşmekte, ani sel ve su baskınları gibi yıkıcı doğa olaylarının
+sayısı artmaktadır.
+Atmosferde birikerek, Güneş ışınlarının tekrar uzaya yansımasını
+engelleyen atık gazlara sera gazları denir. Bu olaya sera etkisi
+denir. Sera etkisi, küresel ısınmaya neden olur.
+Fosil yakıt kullanımının artması, ormanlık alanların azalması ve
+sanayi tesislerinin atmosfere saldığı sera gazları atmosferde var
+olan doğal sera etkisini kuvvetlendirmektedir. Bunun sonucunda
+Dünya’nın yüzey sıcaklığı artmakta ve küresel ısınma
+gerçekleşmektedir.
+MEBİ KONU ÖZETLERİ
+
+-- 10 of 23 --
+
+KAVRAM YANILGILARI	KAVRAM YANILGILARI
+Açıklama
+Kavram Yanılgısı
+Düzeltme Stratejileri
+Bu Kavram Yanılgısı Neden Oluşur
+Dünya, Güneş'e yakın olduğunda yaz, uzak olduğunda kış mevsimi yaşanır.
+Mevsimlerin temel nedeni Dünya'nın Güneş'e olan uzaklığı değil, eksen eğikliği ve Dünya'nın Güneş etrafındaki
+dolanma hareketidir. Bu eğiklik nedeniyle güneş ışınları farklı zamanlarda farklı yarım kürelere farklı açılarla düşer.
+şınların dik veya dike yakın açıyla düştüğü yarım kürede birim yüzeye düşen enerji miktarı artar ve yaz yaşanır.
+Öğrenciler ısı kaynağına yakınlığın sıcaklığı artıracağı yönündeki gündelik hayat tecrübelerini (soba veya ateş örneği
+gibi) astronomik ölçeklere hatalı bir şekilde genelleyerek 'yakınlık-sıcaklık' ilişkisi kurarlar.
+Birim Yüzeye Düşen Işık Deneyi: Bir el fenerini dik ve eğik açılarla bir kağıda tutarak aydınlanan alanın büyüklüğünü
+ve yoğunluğunu gözlemleyebiliriz. Kuzey Yarım Küre'de kış yaşanırken (Ocak ayı) Dünya'nın Güneş'e aslında en yakın
+(günberi) konumda olduğu bilinmelidir.
+Eğer mevsimler uzaklığa bağlı olsaydı, neden aynı anda bir yarım kürede yaz varken diğerinde kış yaşanıyor? sorusu
+düşünülmelidir.
+Açıklama
+Kavram Yanılgısı
+Düzeltme Stratejileri
+Bu Kavram Yanılgısı Neden Oluşur
+Dünya'nın ekseni sadece mevsim geçişlerinde eğilir, diğer zamanlarda dik durur.
+Sabit Eksenli Model Döndürme: Kürdan batırılmış bir oyun hamuru küresini, kürdanın açısını hiç bozmadan bir ışık
+kaynağı etrafında gezdirerek eksenin hep aynı yöne bakması gözlemlenebilir.
+Dünya'nın eksen eğikliği sabit bir açıdır (23° 27') ve yıl boyunca, dolanma hareketi süresince değişmez. Mevsimlerin
+değişmesinin sebebi eksenin eğilip doğrulması değil, Dünya'nın Güneş etrafında dönerken bu sabit eğiklik nedeniyle
+Güneş'e yönelen yarım kürenin değişmesidir.
+Ders kitaplarındaki durağan görsellerde Dünya'nın farklı konumlarda farklı açılarla çizilmesi veya animasyonların yanlış
+yorumlanması, öğrencilerin bu eğikliğin mekanik bir salınım olduğunu düşünmesine neden olur.
+
+-- 11 of 23 --
+
+Mevsimler ve İklim
+Açıklama
+Kavram Yanılgısı
+Düzeltme Stratejileri
+Bu Kavram Yanılgısı Neden Oluşur
+Hava olayları ve iklim aynı kavramlardır; birbirinin yerine kullanılabilir.
+Medya dilinde (haber bültenlerinde) ve günlük konuşmalarda 'iklimler değişti' yerine 'havalar değişti' gibi ifadelerin
+hatalı ve birbirinin yerine kullanılması, kavramsal karmaşaya yol açar.
+Hava olayları, belirli bir bölgede ve kısa süre içerisinde gerçekleşen değişken atmosfer olaylarıdır (yağmurlu, rüzgarlı
+vb.). İklim ise, geniş bir bölgede çok uzun yıllar (30-35 yıl) boyunca gözlemlenen hava olaylarının ortalamasıdır.
+Zaman Çizelgesi Karşılaştırması: Bir haftalık hava durumu tablosu ile bir bölgenin 40 yıllık sıcaklık ortalaması grafiğini
+yan yana getirerek süre farkı gözlemlenmelidir. Kelime Analizi: 'Güneşli' ve 'Kurak' gibi kelimelerin hangisinin bir anı,
+hangisinin bir genellemeyi temsil ettiği düşünülmelidir. Bugün kar yağması Erzurum'un iklimi midir yoksa hava olayı
+mıdır? Erzurum'un kışları karlı geçmesi arasında fark vardır.
+
+-- 12 of 23 --
+
+Tarih-Konum Uyuşmazlığı Görseli:
+Soruda metin kısmında "Temmuz ayı" ifadesi geçerken, görselde Dünya'yı 21 Aralık
+konumunda (Güneş solda veya sağda, eksen eğikliği zıt tarafa bakarken) verebilir.
+Öğrenci ezbere "Temmuz = Yaz" diye düşünerek hemen Kuzey Yarım Küre'ye gider,
+oysa MEB Güney Yarım Küre'deki kış mevsimini veya gölge boyunun uzunluğunu
+sorguluyordur.
+"Ekvator'a Uzaklık" Yanılgısı:
+Aylık ortalama sıcaklık tablolarında iki şehrin sıcaklık değişimlerinin veya yaşanan
+mevsimlerin aynı olduğunu gösterip, çeldirici şıkka "Bu şehirlerin Ekvator'a olan
+uzaklıkları kesinlikle eşittir" yazar. Oysa bu durum yükselti, denizellik veya sadece aynı
+yarım kürede yer almalarından kaynaklanabilir.
+🔍 Soruları Okurken Nelere Dikkat Edilmeli?
+Güneş ışınlarının Dünya üzerine düşme açılarını kurşun kaleminizle çizin. Hangi yarım
+kürenin Güneş'e doğru büküldüğünü netleştirin.
+Gölge Boyu Grafikleri: Gölge boyunun sıfırlandığı ya da en minimuma indiği ayı bulun.
+Haziran ayında minimum ise Kuzey Yarım Küre, Aralık ayında minimum ise Güney
+Yarım Küre'dir.
+📌 Tabloda ocak ayından haziran ayına kadar sıcaklığın sürekli arttığını gördüğünde,
+acele edip hemen "Kesin Kuzey Yarım Küre'dedir ve yaz mevsimidir" deme. Şehirlerin
+yükseltilerini ve şıklardaki "olabilir" ibarelerini süzerek güvenli alanda kal.
+🎯 MEB'in Favori
+Çeldirici Teknikleri
+
+-- 13 of 23 --
+
+Mevsimlerin oluşumu: LGS Fen Koçu Püf Noktaları
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 14 of 23 --
+
+Mevsimlerin oluşumu
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 15 of 23 --
+
+Ekstra bilgi:
+21 Aralık tarihinde Ekvator’dan Kuzey Kutup Noktası’na gidildikçe Gece Süresi artar.
+21 Haziran tarihinde Ekvator’dan Kuzey Kutup Noktası’na gidildikçe Gündüz Süresi artar.
+Güneş ışınları yıl boyunca Yengeç ve Oğlak dönenceleri arasına dik açılarla düşer.
+Güneş ışınları Yengeç dönencesi ile Kuzey Kutbu arasındaki bölgelere hiçbir zaman dik açı ile düşmez.
+Güneş ışınları Oğlak dönencesi ile Güney Kutbu arasındaki bölgelere hiçbir zaman dik açı ile düşmez.
+Bir yıl boyunca Güneş ışınları sadece DÖNENCELER arasındaki bölgelere tam 90° düşebilir
+21 Haziran da KYK'deki YENGEÇ Dönencesi'ne, 21 Aralık'ta GYK'deki OĞLAK Dönencesi'ne, 21 Mart ve 23
+Eylül'de de 2 kez EKVATOR'a dik düşmektedir.
+Mevsimlerin oluşumu
+Günlük hayattan örnekler
+
+-- 16 of 23 --
+
+İklim ve Hava Hareketleri
+İKLİM (Klimatoloji)
+Uzmanına
+"kilmatolog" denir.
+HAVA OLAYLARI
+(Meteoroloji)
+Uzmanına
+"meteorolog" denir.
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 17 of 23 --
+
+Rüzgar Oluşumu
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 18 of 23 --
+
+Yağış Türleri
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 19 of 23 --
+
+Yağış Türleri
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 20 of 23 --
+
+Küresel İklim Değişikliği
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 21 of 23 --
+
+Asit Yağmuru
+mgfenakademisi	mgfenakademisi	mgfenakademisi
+
+-- 22 of 23 --
+
+Beğen
+Yorum yap
+Arkadaşına Gönder
+Takip Et	Sonrası için Kaydet
+Tekrar paylaş
+mgfenakademisi
+DEĞİŞİMİ GÖRÜN!
+FEN ENNEAGRAM TESTİ
+Hemen Katılın
+LİNK İÇİN
+PROFİLE BAKINIZ
+DM’DEN İLETİŞİME
+GEÇEBİLİRSİNİZDM
+Çocuğunuzun Fen Başarısını %100 Artıracak Sırrı Biliyor
+musunuz?
+LGS FEN BİLİMLERİ
+DERSLERİMDE
+KULLANDIĞIM KAYNAKLAR
+
+-- 23 of 23 --
+
